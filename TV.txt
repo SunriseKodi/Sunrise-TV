@@ -1,41 +1,9 @@
 <layouttype>thumbnail</layouttype>
 
 
-<channels>
-<channel>
-<name>[COLOR gold]ESPAÑA[/COLOR]</name>
-<thumbnail>https://i.imgur.com/bu2OGCg.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/kKZHJ0dr</externallink>
-<fanart>https://i.imgur.com/bu2OGCg.jpg</fanart>
-<info>Todos los tipos de canales de televisión de España.</info>
-</channel>
 
 <channel>
-<name>[COLOR gold]FRANCE[/COLOR]</name>
-<thumbnail>https://i.imgur.com/XQ6II08.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/yT3H87yf</externallink>
-<fanart>https://i.imgur.com/XQ6II08.jpg</fanart>
-<info>Tous les types de chaînes de télévision de France</info>
-</channel>
-
-<channel>
-<name>[COLOR gold]ITALIA[/COLOR]</name>
-<thumbnail>https://i.imgur.com/bcgHxV8.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/tjZv34XW</externallink>
-<fanart>https://i.imgur.com/bcgHxV8.jpg</fanart>
-<info>Tutti i tipi di canali TV dall'Italia</info>
-</channel>
-
-<channel>
-<name>[COLOR gold]BRASIL[/COLOR]</name>
-<thumbnail>https://i.imgur.com/GCkgZIB.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/yHNW10YL</externallink>
-<fanart>https://i.imgur.com/GCkgZIB.jpg</fanart>
-<info>Todo o tipo de canais da TV Brasileira</info>
-</channel>
-
-<channel>
-<name>[COLOR gold]DEUTSCHLAND[/COLOR]</name>
+<name>[COLOR gold]German[/COLOR]</name>
 <thumbnail>https://i.imgur.com/mE0kVRP.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/p0uu8uq5</externallink>
 <fanart>https://i.imgur.com/mE0kVRP.jpg</fanart>
