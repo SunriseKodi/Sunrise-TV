@@ -1,0 +1,258 @@
+#EXTM3U
+#EXTINF:-1, DAS ERSTE HD (ARD)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22545
+#EXTINF:-1, ARTE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22544
+#EXTINF:-1, ZDF HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22543
+#EXTINF:-1, ZDF NEO
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22542
+#EXTINF:-1, 3 SAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22541
+#EXTINF:-1, RTL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22540
+#EXTINF:-1, RTL2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22539
+#EXTINF:-1, RTL PLUS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22538
+#EXTINF:-1, RTL CRIME HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22537
+#EXTINF:-1, RTL PASSION HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22536
+#EXTINF:-1, RTL NITRO
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22535
+#EXTINF:-1, SUPER RTL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22534
+#EXTINF:-1, VOX
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22533
+#EXTINF:-1, EOTV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22532
+#EXTINF:-1, ZEE ONE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22531
+#EXTINF:-1, SWR FERNSEHEN BW
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22530
+#EXTINF:-1, NITRO
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22529
+#EXTINF:-1, RTL HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22527
+#EXTINF:-1, RTL 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22526
+#EXTINF:-1, SAT 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22525
+#EXTINF:-1, SAT 1 GOLD HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22524
+#EXTINF:-1, SIXX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22523
+#EXTINF:-1, VOX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22522
+#EXTINF:-1, KABEL 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22521
+#EXTINF:-1, PROSIEBEN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22520
+#EXTINF:-1, PROSIEBEN MAXX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22519
+#EXTINF:-1, DMAX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22518
+#EXTINF:-1, TELE 5 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22517
+#EXTINF:-1, ZEE ONE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22516
+#EXTINF:-1, SKY 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22514
+#EXTINF:-1, SKY CINEMA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22513
+#EXTINF:-1, SKY CINEMA  1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22512
+#EXTINF:-1, SKY CINEMA  24 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22511
+#EXTINF:-1, SKY CINEMA FAMILY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22510
+#EXTINF:-1, SKY CINEMA ACTION HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22509
+#EXTINF:-1, SKY CINEMA EMOTION
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22508
+#EXTINF:-1, SKY CINEMA NOSTALGIE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22507
+#EXTINF:-1, SKY CINEMA HITS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22506
+#EXTINF:-1, TNT COMEDY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22505
+#EXTINF:-1, SKY ATLANTIC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22504
+#EXTINF:-1, SKY SELECT 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22497
+#EXTINF:-1, SKY SELECT 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22496
+#EXTINF:-1, SKY SELECT 3 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22495
+#EXTINF:-1, SKY SELECT 4 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22494
+#EXTINF:-1, SKY SELECT 5 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22493
+#EXTINF:-1, SKY ATLANTIC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22492
+#EXTINF:-1, KINOWELT TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22491
+#EXTINF:-1, TNT FILM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22490
+#EXTINF:-1, FOX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22488
+#EXTINF:-1, 13TH STREET HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22487
+#EXTINF:-1, SYFY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22486
+#EXTINF:-1, TNT SERIE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22485
+#EXTINF:-1, SKY TNT SERIE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22484
+#EXTINF:-1, ROMANCE TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22483
+#EXTINF:-1, FOX SERIE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22482
+#EXTINF:-1, SKY KRIMI
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22481
+#EXTINF:-1, 13TH STREET
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22480
+#EXTINF:-1, E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22479
+#EXTINF:-1, MTV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22478
+#EXTINF:-1, NICK /MTV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22477
+#EXTINF:-1, DELUXE MUSIC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22476
+#EXTINF:-1, VIVA/COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22475
+#EXTINF:-1, VH1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22474
+#EXTINF:-1, JUKEBOX
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22473
+#EXTINF:-1, DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22471
+#EXTINF:-1, NGC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22470
+#EXTINF:-1, NGC WILD HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22469
+#EXTINF:-1, HISTORY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22468
+#EXTINF:-1, TLC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22467
+#EXTINF:-1, SKY ARTS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22466
+#EXTINF:-1, NGC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22465
+#EXTINF:-1, NGC WILD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22464
+#EXTINF:-1, HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22463
+#EXTINF:-1, SPIEGEL GESCHICHTE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22462
+#EXTINF:-1, A&E
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22461
+#EXTINF:-1, DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22459
+#EXTINF:-1, DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22458
+#EXTINF:-1, DISNEY CINEMAGIC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22457
+#EXTINF:-1, NICK /MTV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22456
+#EXTINF:-1, KIKA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22455
+#EXTINF:-1, CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22454
+#EXTINF:-1, BOOMERANG
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22453
+#EXTINF:-1, EURONEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22451
+#EXTINF:-1, N TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22450
+#EXTINF:-1, JUWELO HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22448
+#EXTINF:-1, PEARL TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22447
+#EXTINF:-1, 123TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22446
+#EXTINF:-1, ANIXE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22445
+#EXTINF:-1, QVC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22444
+#EXTINF:-1, QVC2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22443
+#EXTINF:-1, HSE 24 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22442
+#EXTINF:-1, HSE 24 EXTRA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22441
+#EXTINF:-1, MDR CRINGEN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22440
+#EXTINF:-1, MDR S-ANHALT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22439
+#EXTINF:-1, MDR SACHSEN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22438
+#EXTINF:-1, WDR AACHEN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22437
+#EXTINF:-1, WDR BONN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22436
+#EXTINF:-1, WDR DUISBURG HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22435
+#EXTINF:-1, RBB BERLIN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22434
+#EXTINF:-1, RBB BRANDEN BURG
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22433
+#EXTINF:-1, SONNENKLAR HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22432
+#EXTINF:-1, WDR WUPPERTAL HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22431
+#EXTINF:-1, WELT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22430
+#EXTINF:-1, HEIMAT KANAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22429
+#EXTINF:-1, CLASSICA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22428
+#EXTINF:-1, SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22426
+#EXTINF:-1, SPORT 1  HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22425
+#EXTINF:-1, EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22424
+#EXTINF:-1, EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22423
+#EXTINF:-1, EUROSPORT 2  XTRA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22422
+#EXTINF:-1, MOTORVISION
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22421
+#EXTINF:-1, DAZN 1 BAR FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22420
+#EXTINF:-1, DAZN 2 BAR FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22419
+#EXTINF:-1, SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22418
+#EXTINF:-1, SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22417
+#EXTINF:-1, SKY SPORT 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22416
+#EXTINF:-1, SKY SPORT 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22415
+#EXTINF:-1, SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22414
+#EXTINF:-1, SKY BUNDESLIGA 2 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22413
+#EXTINF:-1, SKY BUNDESLIGA 3 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22412
+#EXTINF:-1, SKY BUNDESLIGA 4 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22411
+#EXTINF:-1, SKY BUNDESLIGA 5 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22410
+#EXTINF:-1, SKY BUNDESLIGA 6 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22409
+#EXTINF:-1, SKY BUNDESLIGA 7 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22408
+#EXTINF:-1, SKY BUNDESLIGA 8 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22407
+#EXTINF:-1, SKY BUNDESLIGA 9 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22406
+#EXTINF:-1, SKY BUNDESLIGA 10 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/22405
+#EXTINF:-1, VIVA/COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/22475
+© 2019 GitHub, Inc.
