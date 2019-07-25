@@ -2,7 +2,7 @@
 
 
 <channel>
-<name>[COLOR gold]TV3 - German[/COLOR]</name>
+<name>[COLOR gold]German[/COLOR]</name>
 <thumbnail>https://i.imgur.com/mMXHHdD.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/SunriseTV.m3u</externallink>
 <fanart>https://i.imgur.com/mMXHHdD.jpg</fanart>
