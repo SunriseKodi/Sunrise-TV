@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR gold]GERMAN[/COLOR]</name>
 <thumbnail>https://i.imgur.com/bu2OGCg.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/kKZHJ0dr</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/SunriseTV.m3u</externallink>
 <fanart>https://i.imgur.com/bu2OGCg.jpg</fanart>
 <info>Todos los tipos de canales de televisión de España.</info>
 </channel>
