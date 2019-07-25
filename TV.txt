@@ -1,7 +1,7 @@
 <channel>
-<name>[COLOR gold]TV3 - INTERNATIONAL[/COLOR]</name>
+<name>[COLOR gold]TV3 - German[/COLOR]</name>
 <thumbnail>https://i.imgur.com/mMXHHdD.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/USNDP6Q9</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/SunriseTV.m3u</externallink>
 <fanart>https://i.imgur.com/mMXHHdD.jpg</fanart>
 <info>TV channels from several countries in the world</info>
 </channel>
