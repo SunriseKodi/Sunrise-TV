@@ -7,506 +7,480 @@ http://80.238.134.35:80/zdf_neo/index.m3u8
 http://80.238.134.35:80/ZDFinfo/index.m3u8
 
 #EXTINF:-1,Das Erste
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4655
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4655
 #EXTINF:-1,Das Erste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4657
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4657
 #EXTINF:-1,Das Erste  HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53004
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53004
 #EXTINF:-1,ZDF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/5842
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/5842
 #EXTINF:-1,ZDF  HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52929
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52929
 #EXTINF:-1,ZDF info HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4636
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4636
 #EXTINF:-1,ZDF info HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52928
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52928
 #EXTINF:-1,ZDF neo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12801
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12801
 #EXTINF:-1,Pro 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4651
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4651
 #EXTINF:-1,Pro 7 FUN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12800
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12800
 #EXTINF:-1,Pro 7 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52974
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52974
 #EXTINF:-1,Pro 7 Maxx HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4652
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4652
 #EXTINF:-1,Pro 7 Maxx  HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52973
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52973
 #EXTINF:-1,Kabel 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4643
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4643
 #EXTINF:-1,Kabel 1 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52991
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52991
 #EXTINF:-1,Kabel 1  HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52990
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52990
 #EXTINF:-1,Kabel  1 Classics
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12803
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12803
 #EXTINF:-1,Kabel 1  DoKu HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12802
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12802
 #EXTINF:-1,Kabel 1 Doku HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52992
 #EXTINF:-1,RTL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4644
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4644
 #EXTINF:-1,RTL HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52968
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52968
 #EXTINF:-1,RTL 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4645
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4645
 #EXTINF:-1,RTL 2 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52971
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52971
 #EXTINF:-1,RTL Living HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4648
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4648
 #EXTINF:-1,RTL Nitro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4646
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4646
 #EXTINF:-1,RTL Nitro HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52967
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52967
 #EXTINF:-1,RTL Crime  HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52970
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52970
 #EXTINF:-1,RTL Crime  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4663
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4663
 #EXTINF:-1,RTL Passion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4662
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4662
 #EXTINF:-1,RTL Passion HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52965
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52965
 #EXTINF:-1,RTL  Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12813
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12813
 #EXTINF:-1,RTL Plus HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52964
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52964
 #EXTINF:-1,Sat 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4642
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4642
 #EXTINF:-1,Sat 1 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52963
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52963
 #EXTINF:-1,Sat 1 emotions HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12806
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12806
 #EXTINF:-1,Sat 1 Gold HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12807
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12807
 #EXTINF:-1,Sat 1 Gold HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52962
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52962
 #EXTINF:-1,VOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4637
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4637
 #EXTINF:-1,VOX HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52932
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52932
 #EXTINF:-1,3SAT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12830
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12830
 #EXTINF:-1,3sat HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53010
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53010
 #EXTINF:-1,N24 News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4656
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4656
 #EXTINF:-1,Sixx HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4640
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4640
 #EXTINF:-1,ORF 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4638
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4638
 #EXTINF:-1,ORF 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4639
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4639
 #EXTINF:-1,ORF 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12804
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12804
 #EXTINF:-1,ORF Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12805
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12805
 #EXTINF:-1,ORF SPORT HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52978
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52978
 #EXTINF:-1,ORF SPORT   HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52977
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52977
 #EXTINF:-1,ANNIXE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12829
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12829
 #EXTINF:-1,ARD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12828
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12828
 #EXTINF:-1,Arte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12827
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12827
 #EXTINF:-1,Arte HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53006
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53006
 #EXTINF:-1,ATV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12826
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12826
 #EXTINF:-1,Classica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12824
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12824
 #EXTINF:-1,DMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/17388
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/17388
 #EXTINF:-1,DMAX HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52999
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52999
 #EXTINF:-1,AUSTRIA 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12825
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12825
 #EXTINF:-1,FC Bayern TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12822
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12822
 #EXTINF:-1,Hr HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12821
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12821
 #EXTINF:-1,MDR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12819
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12819
 #EXTINF:-1,Ndr HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12818
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12818
 #EXTINF:-1,Anixe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51272
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51272
 #EXTINF:-1,NTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12817
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12817
 #EXTINF:-1,NTV HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52981
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52981
 #EXTINF:-1,DW TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51239
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51239
 #EXTINF:-1,Euronews.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51231
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51231
 #EXTINF:-1,Euronews  HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52997
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52997
 #EXTINF:-1,Family TV HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51226
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51226
 #EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51166
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51166
 #EXTINF:-1,MTV HITS HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51165
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51165
 #EXTINF:-1,MUNCHEN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51164
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51164
 #EXTINF:-1,NRJ TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51155
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51155
 #EXTINF:-1,Phoenix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12816
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12816
 #EXTINF:-1,Servus TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12812
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12812
 #EXTINF:-1,Romance TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12814
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12814
 #EXTINF:-1,TAGESSCHAU 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12811
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12811
 #EXTINF:-1,Zee One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12808
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12808
 #EXTINF:-1,Anixe HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53007
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53007
 #EXTINF:-1,Family TV  HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52996
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52996
 #EXTINF:-1,Kinowelt TV HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52988
 #EXTINF:-1,MTV HD+..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52986
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52986
 #EXTINF:-1,One HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52980
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52980
 #EXTINF:-1,Phoenix HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52976
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52976
 #EXTINF:-1,Plus 8 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52975
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52975
 #EXTINF:-1,Romance TV HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52972
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52972
 #EXTINF:-1,Sixx HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52959
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52959
 #EXTINF:-1,TELE 5 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52940
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52940
 #EXTINF:-1,TLC HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52939
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52939
 #EXTINF:-1,Universal HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52934
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52934
 #EXTINF:-1,VIVA HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52933
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52933
 #EXTINF:-1,WDR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12810
-#EXTINF:-1,---- DE-KIDS ----
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51325
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12810
 #EXTINF:-1,Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12820
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12820
 #EXTINF:-1,Baby TV.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51265
 #EXTINF:-1,KIKA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7780
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7780
 #EXTINF:-1,KIKA HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52989
 #EXTINF:-1,TOGGO HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52935
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52935
 #EXTINF:-1,SUPER RTL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4650
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4650
 #EXTINF:-1,Super RTL HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52943
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52943
 #EXTINF:-1,Boomerang HD..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7766
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7766
 #EXTINF:-1,Cartoon Network HD+.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53005
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53005
 #EXTINF:-1,Cartoon Network.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7772
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7772
 #EXTINF:-1,Nickellodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4658
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4658
 #EXTINF:-1,Nickelodeon HD+.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52982
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52982
 #EXTINF:-1,Disney XD.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4681
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4681
 #EXTINF:-1,Disney XD  HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53000
 #EXTINF:-1,Disney Channel.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7769
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7769
 #EXTINF:-1,Disney Junior HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53001
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53001
 #EXTINF:-1,Disney Junior.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4680
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4680
 #EXTINF:-1,Disney Cinemagic.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4682
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4682
 #EXTINF:-1,Disney Cinemagic HD+.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53002
-#EXTINF:-1,---- DE - DOC ----
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51328
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53002
 #EXTINF:-1,NAT GEO HD..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4665
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4665
 #EXTINF:-1,NAT GEO HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52984
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52984
 #EXTINF:-1,NAT GEO WILD  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7756
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7756
 #EXTINF:-1,NAT GEO WILD HD+.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52983
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52983
 #EXTINF:-1,A&E HD..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7750
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7750
 #EXTINF:-1,A&E HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53009
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53009
 #EXTINF:-1,History Channel HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7759
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7759
 #EXTINF:-1,History HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52993
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52993
 #EXTINF:-1,Discovery HD+..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53003
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53003
 #EXTINF:-1,Discovery HD..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7754
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7754
 #EXTINF:-1,E! Entertainment HD..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7751
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7751
 #EXTINF:-1,E! Entertainment  HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52998
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52998
 #EXTINF:-1,Animal Planet HD..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7758
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7758
 #EXTINF:-1,Animal Planet HD+.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53008
-#EXTINF:-1,---- DE- CINE  ----
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51326
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53008
 #EXTINF:-1,SKY Cinema Nostalgie HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4664
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4664
 #EXTINF:-1,Sky Cinema Nostalgie HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52947
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52947
 #EXTINF:-1,Sky Cinema Comedy HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4673
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4673
 #EXTINF:-1,Sky Cinema Comedy HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52952
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52952
 #EXTINF:-1,SKY Cinema HD..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4670
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4670
 #EXTINF:-1,Sky Cinema HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52949
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52949
 #EXTINF:-1,Sky Cinema +24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4671
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4671
 #EXTINF:-1,Sky Cinema +24 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52954
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52954
 #EXTINF:-1,Sky Cinema Atlantic HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4675
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4675
 #EXTINF:-1,Sky Cinema Atlantic HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52956
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52956
 #EXTINF:-1,Sky Cinema Action HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4672
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4672
 #EXTINF:-1,Sky Cinema Action HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52953
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52953
 #EXTINF:-1,SKY CIinema Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7729
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7729
 #EXTINF:-1,SKY Cinema Family  HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52950
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52950
 #EXTINF:-1,SKY Cinema Hits HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7728
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7728
 #EXTINF:-1,Sky Cinema Hits HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52948
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52948
 #EXTINF:-1,Sky Cinema Krimi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7746
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7746
 #EXTINF:-1,Sky Cinema Krimi HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52946
 #EXTINF:-1,SKY 1 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52958
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52958
 #EXTINF:-1,Sky Arts HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52957
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52957
 #EXTINF:-1,Sky Cinema +1 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52955
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52955
 #EXTINF:-1,Sky Cinema Emotion HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52951
 #EXTINF:-1,TNT Film HD..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7747
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7747
 #EXTINF:-1,TNT Film HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52937
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52937
 #EXTINF:-1,TNT Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7749
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7749
 #EXTINF:-1,TNT Comedy HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52938
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52938
 #EXTINF:-1,TNT Series HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52936
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52936
 #EXTINF:-1,13th Street HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53011
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53011
 #EXTINF:-1,13 th Street HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4677
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4677
 #EXTINF:-1,FOX! HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50330
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50330
 #EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4660
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4660
 #EXTINF:-1,Fox Serie  HD +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52994
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52994
 #EXTINF:-1,AXN HD..
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51266
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51266
 #EXTINF:-1,MGM HD'
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51189
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51189
 #EXTINF:-1,TLC HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51008
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51008
 #EXTINF:-1,Goldstar HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7752
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7752
 #EXTINF:-1,Heimatkanal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7762
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7762
 #EXTINF:-1,Kinowelt TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7744
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7744
 #EXTINF:-1,Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7753
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7753
 #EXTINF:-1,Sony Entertaiment TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7736
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7736
 #EXTINF:-1,Spiegel Geschichte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7760
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7760
 #EXTINF:-1,Spiegel TV Wissen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7763
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7763
 #EXTINF:-1,Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7741
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7741
 #EXTINF:-1,SKY Select 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7781
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7781
 #EXTINF:-1,SKY Select 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7782
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7782
 #EXTINF:-1,SKY Select 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7783
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7783
 #EXTINF:-1,SKY Select 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7784
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7784
 #EXTINF:-1,SKY Select 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7785
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7785
 #EXTINF:-1,SKY Select  8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7788
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7788
 #EXTINF:-1,SKY Select 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7789
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7789
 #EXTINF:-1,Sky Select 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/9665
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/9665
 #EXTINF:-1,Fight Channel HD'
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51225
-#EXTINF:-1,FILM CLUB 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51224
-#EXTINF:-1,FILM CLUB 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51223
-#EXTINF:-1,FILM CLUB 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51222
-#EXTINF:-1,FILM CLUB 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51221
-#EXTINF:-1,FILM CLUB 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51220
-#EXTINF:-1,MOVIESINEMA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51172
-#EXTINF:-1,MOVIESINEMA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51171
-#EXTINF:-1,MOVIESINEMA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51170
-#EXTINF:-1,MOVIESINEMA 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51169
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51225
 #EXTINF:-1,POPCORN SELECT 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51140
 #EXTINF:-1,POPCORN SELECT 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51139
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51139
 #EXTINF:-1,POPCORN SELECT 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51138
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51138
 #EXTINF:-1,POPCORN SELECT 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51137
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51137
 #EXTINF:-1,POPCORN SELECT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51136
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51136
 #EXTINF:-1,POPCORN SELECT 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51135
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51135
 #EXTINF:-1,POPCORN SELECT 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51134
-#EXTINF:-1,---- DE - SPORT ----
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51134
 #EXTINF:-1,Eurosport 1 HD+.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52484
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52484
 #EXTINF:-1,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4683
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4683
 #EXTINF:-1,Eurosport 2 HD+.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52482
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52482
 #EXTINF:-1,Eurosport 2 Xtra 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52481
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52481
 #EXTINF:-1,Motorvision TV HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52987
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52987
 #EXTINF:-1,FC Bayern TV HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52995
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52995
 #EXTINF:-1,Sky Sport News HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4685
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4685
 #EXTINF:-1,Sky Sport Austria HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16044
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16044
 #EXTINF:-1,DAZN 1 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52424
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52424
 #EXTINF:-1,DAZN 2 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52423
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52423
 #EXTINF:-1,DAZN BAR 1 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/29411
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/29411
 #EXTINF:-1,DAZN BAR 2 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/29412
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/29412
 #EXTINF:-1,Sky Sport 1 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4686
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4686
 #EXTINF:-1,Sky Sport 2 HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4687
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4687
 #EXTINF:-1,Sky Sport 3 HD (Match Time).
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16039
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16039
 #EXTINF:-1,Sky Sport 4 HD (Match Time).
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16038
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16038
 #EXTINF:-1,Sky Sport 5 HD (Match Time).
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16037
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16037
 #EXTINF:-1,Sky Sport 6 HD (Match Time).
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16036
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16036
 #EXTINF:-1,Sky Sport 7 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16035
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16035
 #EXTINF:-1,Sky Sport 8 HD (Match Time).
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16034
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16034
 #EXTINF:-1,Sky Sport 9 HD (Match Time).
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16033
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16033
 #EXTINF:-1,Sky Sport 10 HD (Match Time).
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16032
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16032
 #EXTINF:-1,Sky Sport Bundesliga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7809
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7809
 #EXTINF:-1,Sky Sport Bundesliga 2 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7810
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7810
 #EXTINF:-1,Sky Sport Bundesliga 3 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7811
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7811
 #EXTINF:-1,Sky Sport Bundesliga 4 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16026
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16026
 #EXTINF:-1,Sky Sport Bundesliga 5 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7813
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/7813
 #EXTINF:-1,Sky Sport Bundesliga 6 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16024
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16024
 #EXTINF:-1,Sky Sport Bundesliga 7 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16023
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16023
 #EXTINF:-1,Sky Sport Bundesliga 8 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16022
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16022
 #EXTINF:-1,Sky Sport Bundesliga 9 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16021
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16021
 #EXTINF:-1,Sky Sport Bundesliga 10 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16020
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16020
 #EXTINF:-1,Sky Sport News 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51294
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51294
 #EXTINF:-1,Sky Sport Austria HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51295
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51295
 #EXTINF:-1,Sky Sport 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51293
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51293
 #EXTINF:-1,Sky Sport 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51292
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51292
 #EXTINF:-1,Sky Sport 3 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51291
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51291
 #EXTINF:-1,Sky Sport 4 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51290
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51290
 #EXTINF:-1,Sky Sport 5 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51289
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51289
 #EXTINF:-1,Sky Sport 6 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51288
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51288
 #EXTINF:-1,Sky Sport 7 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51287
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51287
 #EXTINF:-1,Sky Sport 8 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51286
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51286
 #EXTINF:-1,Sky Sport 9 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51305
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51305
 #EXTINF:-1,Sky Sport 10 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51304
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51304
 #EXTINF:-1,Sky Sport 11 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51303
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51303
 #EXTINF:-1,Sky Sport Bundesliga 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51302
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51302
 #EXTINF:-1,Sky Sport Bundesliga 2 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51301
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51301
 #EXTINF:-1,Sky Sport Bundesliga 3 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51300
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51300
 #EXTINF:-1,Sky Sport Bundesliga 4 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51299
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51299
 #EXTINF:-1,Sky Sport Bundesliga 5 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51298
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51298
 #EXTINF:-1,Sky Sport Bundesliga 6 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51297
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51297
 #EXTINF:-1,Sky Sport Bundesliga 7 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51296
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51296
 #EXTINF:-1,Sky Sport Bundesliga 8 4K (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51317
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51317
 #EXTINF:-1,Sky Sport Bundesliga 9 4K (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51316
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51316
 #EXTINF:-1,Sky Sport Bundesliga 10 4K (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GERMANY;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51315
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51315
