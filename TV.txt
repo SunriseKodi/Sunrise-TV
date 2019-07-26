@@ -5,7 +5,7 @@
 <channel>
 <name>[COLOR gold]Deutsch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/spanisch.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/SunriseTV.m3u</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR gold]Spanisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/SunriseTV.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Spanisch.m3u</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
