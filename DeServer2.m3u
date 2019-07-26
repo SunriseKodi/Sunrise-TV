@@ -391,7 +391,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=htt
 #EXTINF:-1,Sky Sport Austria HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16044
 #EXTINF:-1,DAZN 1 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52424
+1plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52424
 #EXTINF:-1,DAZN 2 HD+
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52423
 #EXTINF:-1,DAZN BAR 1 HD+
@@ -438,49 +438,5 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=htt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16021
 #EXTINF:-1,Sky Sport Bundesliga 10 HD (Match Time)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/16020
-#EXTINF:-1,Sky Sport News 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51294
 #EXTINF:-1,Sky Sport Austria HD+
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51295
-#EXTINF:-1,Sky Sport 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51293
-#EXTINF:-1,Sky Sport 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51292
-#EXTINF:-1,Sky Sport 3 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51291
-#EXTINF:-1,Sky Sport 4 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51290
-#EXTINF:-1,Sky Sport 5 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51289
-#EXTINF:-1,Sky Sport 6 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51288
-#EXTINF:-1,Sky Sport 7 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51287
-#EXTINF:-1,Sky Sport 8 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51286
-#EXTINF:-1,Sky Sport 9 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51305
-#EXTINF:-1,Sky Sport 10 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51304
-#EXTINF:-1,Sky Sport 11 HD (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51303
-#EXTINF:-1,Sky Sport Bundesliga 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51302
-#EXTINF:-1,Sky Sport Bundesliga 2 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51301
-#EXTINF:-1,Sky Sport Bundesliga 3 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51300
-#EXTINF:-1,Sky Sport Bundesliga 4 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51299
-#EXTINF:-1,Sky Sport Bundesliga 5 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51298
-#EXTINF:-1,Sky Sport Bundesliga 6 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51297
-#EXTINF:-1,Sky Sport Bundesliga 7 4K  (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51296
-#EXTINF:-1,Sky Sport Bundesliga 8 4K (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51317
-#EXTINF:-1,Sky Sport Bundesliga 9 4K (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51316
-#EXTINF:-1,Sky Sport Bundesliga 10 4K (Match Time)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Sunrise TV;url=http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51315
