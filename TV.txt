@@ -12,7 +12,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Spanisch[/COLOR]</name>
+name>[COLOR gold]Spanisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Spanisch.m3u</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
