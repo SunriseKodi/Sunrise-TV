@@ -1,810 +1,203 @@
 #EXTM3U
 
 #EXTINF:-1,SP: LA 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15039
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15039
 #EXTINF:-1,SP: LA 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15038
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15038
 #EXTINF:-1,SP: LA SEXTA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15037
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15037
 #EXTINF:-1,SP: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15036
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15036
 #EXTINF:-1,SP: CUATRO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15035
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15035
 #EXTINF:-1,SP: TELECINCO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15034
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15034
 #EXTINF:-1,SP: CANAL 24 HORAS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15033
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15033
 #EXTINF:-1,SP: 24 HORAS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15032
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15032
 #EXTINF:-1,SP: TVE INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15031
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15031
 #EXTINF:-1,SP: FDF
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15030
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15030
 #EXTINF:-1,SP: #VAMOS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24973
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24973
 #EXTINF:-1,SP: CLAN TVE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15029
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15029
 #EXTINF:-1,SP: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15028
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15028
 #EXTINF:-1,SP: IBERALIA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15027
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15027
 #EXTINF:-1,SP: FOX HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15026
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15026
 #EXTINF:-1,SP: FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15025
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15025
 #EXTINF:-1,SP: FOX NEWS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15024
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15024
 #EXTINF:-1,SP: 0 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15023
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15023
 #EXTINF:-1,SP: AMC HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15022
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15022
 #EXTINF:-1,SP: ARAGON
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15021
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15021
 #EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15020
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15020
 #EXTINF:-1,SP: AXN
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15019
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15019
 #EXTINF:-1,SP: AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15018
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15018
 #EXTINF:-1,SP: A3 SERIES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/29608
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/29608
 #EXTINF:-1,SP: SYFY HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15017
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15017
 #EXTINF:-1,SP: TCM HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15016
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15016
 #EXTINF:-1,SP: TNT HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15015
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15015
 #EXTINF:-1,SP: BE MAD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15014
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15014
 #EXTINF:-1,SP: BLAZE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15013
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15013
 #EXTINF:-1,SP: CALLE 13 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15012
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15012
 #EXTINF:-1,SP: CANAL COCINA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15011
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15011
 #EXTINF:-1,SP: CANAL DECASA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15010
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15010
 #EXTINF:-1,SP: CANAL ODISEA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15009
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15009
 #EXTINF:-1,SP: CANAL SUR
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15008
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15008
 #EXTINF:-1,SP: CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15007
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15007
 #EXTINF:-1,SP: CLASSICA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15006
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15006
 #EXTINF:-1,SP: COSMO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15005
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15005
 #EXTINF:-1,SP: CRIMEN Y INVES
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15004
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15004
 #EXTINF:-1,SP: DIVINITY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15003
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15003
 #EXTINF:-1,SP: ENERGY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15002
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15002
 #EXTINF:-1,SP: BABY TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15001
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15001
 #EXTINF:-1,SP: BOING
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/15000
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15000
 #EXTINF:-1,SP: CANAL PANDA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14999
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14999
 #EXTINF:-1,SP: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14998
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14998
 #EXTINF:-1,SP: DISNEY HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14997
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14997
 #EXTINF:-1,SP: DISNEY JR
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14996
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14996
 #EXTINF:-1,SP: DISNEY XD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14995
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14995
 #EXTINF:-1,SP: NICKELODEON  HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14994
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14994
 #EXTINF:-1,SP: M. ACCION HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14977
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14977
 #EXTINF:-1,SP: M. CINE ESP
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14976
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14976
 #EXTINF:-1,SP: M. COMEDIA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14975
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14975
 #EXTINF:-1,SP: M. DCINE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14974
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14974
 #EXTINF:-1,SP: M. DISNEY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14973
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14973
 #EXTINF:-1,SP: M. ESTRENOS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14972
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14972
 #EXTINF:-1,SP: M. FAMA 24
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14971
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14971
 #EXTINF:-1,SP: M. SERIES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14970
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14970
 #EXTINF:-1,SP: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14969
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14969
 #EXTINF:-1,SP: M. XTRA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14968
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14968
 #EXTINF:-1,SP: MEZZO LIVE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14964
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14964
 #EXTINF:-1,SP: MEGA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/19757
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/19757
 #EXTINF:-1,SP: MTV ROCKS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14963
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14963
 #EXTINF:-1,SP: DISCOVERY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14962
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14962
 #EXTINF:-1,SP: HISTORIA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14961
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14961
 #EXTINF:-1,SP: NAT GEO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14960
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14960
 #EXTINF:-1,SP: NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14959
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14959
 #EXTINF:-1,SP: NAT WILD HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14958
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14958
 #EXTINF:-1,SP: NEOX
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14957
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14957
 #EXTINF:-1,SP: PARAMOUNT
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14956
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14956
 #EXTINF:-1,SP: VH1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14955
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14955
 #EXTINF:-1,SP: VIAJAR HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14954
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14954
 #EXTINF:-1,SP: BAR TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14983
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14983
 #EXTINF:-1,SP: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14993
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14993
 #EXTINF:-1,SP: EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14987
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14987
 #EXTINF:-1,SP: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14988
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14988
 #EXTINF:-1,SP: EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14986
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14986
 #EXTINF:-1,SP: FORMULA 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14985
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14985
 #EXTINF:-1,SP: GOL
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14989
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14989
 #EXTINF:-1,SP: LA LIGA 123 TV HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24470
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24470
 #EXTINF:-1,SP: LA LIGA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14991
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14991
 #EXTINF:-1,SP: LA LIGA TV HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14992
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14992
 #EXTINF:-1,SP: M. DEP2 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14966
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14966
 #EXTINF:-1,SP: M. DEPORTE 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14967
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14967
 #EXTINF:-1,SP: M. FORMULA 1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14984
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14984
 #EXTINF:-1,SP: M. FTBOL HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14990
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14990
 #EXTINF:-1,SP: M. GOLF HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14981
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14981
 #EXTINF:-1,SP: M.CAMPEONES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24469
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24469
 #EXTINF:-1,SP: M. Liga De Campeones 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/31677
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/31677
 #EXTINF:-1,SP: M. PARTIDAZO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14980
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14980
 #EXTINF:-1,SP: MOTOGP HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14979
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14979
 #EXTINF:-1,SP: R. MADRID TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14982
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14982
 #EXTINF:-1,SP: TELE DEPORTE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14965
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14965
 #EXTINF:-1,SP: TOROS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/14978
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14978
 #EXTINF:-1,SP: Alquiler 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24479
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24479
 #EXTINF:-1,SP: Alquiler 2 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24478
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24478
 #EXTINF:-1,SP: Alquiler 3 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24477
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24477
 #EXTINF:-1,SP: Alquiler 4 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24476
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24476
 #EXTINF:-1,SP: Alquiler 5 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24475
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24475
 #EXTINF:-1,SP: Alquiler 6 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24474
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24474
 #EXTINF:-1,SP: Alquiler 7 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24473
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24473
 #EXTINF:-1,SP: Alquiler 8 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24472
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24472
 #EXTINF:-1,SP: Alquiler 9 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Ayub/Ayub/24471
-#EXTINF:-1,SP: LA 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15039
-#EXTINF:-1,SP: LA 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15038
-#EXTINF:-1,SP: LA SEXTA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15037
-#EXTINF:-1,SP: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15036
-#EXTINF:-1,SP: CUATRO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15035
-#EXTINF:-1,SP: TELECINCO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15034
-#EXTINF:-1,SP: CANAL 24 HORAS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15033
-#EXTINF:-1,SP: 24 HORAS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15032
-#EXTINF:-1,SP: TVE INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15031
-#EXTINF:-1,SP: FDF
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15030
-#EXTINF:-1,SP: #VAMOS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24973
-#EXTINF:-1,SP: CLAN TVE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15029
-#EXTINF:-1,SP: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15028
-#EXTINF:-1,SP: IBERALIA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15027
-#EXTINF:-1,SP: FOX HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15026
-#EXTINF:-1,SP: FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15025
-#EXTINF:-1,SP: FOX NEWS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15024
-#EXTINF:-1,SP: 0 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15023
-#EXTINF:-1,SP: AMC HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15022
-#EXTINF:-1,SP: ARAGON
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15021
-#EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15020
-#EXTINF:-1,SP: AXN
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15019
-#EXTINF:-1,SP: AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15018
-#EXTINF:-1,SP: A3 SERIES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/29608
-#EXTINF:-1,SP: SYFY HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15017
-#EXTINF:-1,SP: TCM HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15016
-#EXTINF:-1,SP: TNT HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15015
-#EXTINF:-1,SP: BE MAD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15014
-#EXTINF:-1,SP: BLAZE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15013
-#EXTINF:-1,SP: CALLE 13 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15012
-#EXTINF:-1,SP: CANAL COCINA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15011
-#EXTINF:-1,SP: CANAL DECASA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15010
-#EXTINF:-1,SP: CANAL ODISEA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15009
-#EXTINF:-1,SP: CANAL SUR
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15008
-#EXTINF:-1,SP: CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15007
-#EXTINF:-1,SP: CLASSICA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15006
-#EXTINF:-1,SP: COSMO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15005
-#EXTINF:-1,SP: CRIMEN Y INVES
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15004
-#EXTINF:-1,SP: DIVINITY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15003
-#EXTINF:-1,SP: ENERGY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15002
-#EXTINF:-1,SP: BABY TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15001
-#EXTINF:-1,SP: BOING
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/15000
-#EXTINF:-1,SP: CANAL PANDA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14999
-#EXTINF:-1,SP: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14998
-#EXTINF:-1,SP: DISNEY HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14997
-#EXTINF:-1,SP: DISNEY JR
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14996
-#EXTINF:-1,SP: DISNEY XD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14995
-#EXTINF:-1,SP: NICKELODEON  HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14994
-#EXTINF:-1,SP: M. ACCION HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14977
-#EXTINF:-1,SP: M. CINE ESP
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14976
-#EXTINF:-1,SP: M. COMEDIA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14975
-#EXTINF:-1,SP: M. DCINE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14974
-#EXTINF:-1,SP: M. DISNEY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14973
-#EXTINF:-1,SP: M. ESTRENOS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14972
-#EXTINF:-1,SP: M. FAMA 24
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14971
-#EXTINF:-1,SP: M. SERIES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14970
-#EXTINF:-1,SP: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14969
-#EXTINF:-1,SP: M. XTRA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14968
-#EXTINF:-1,SP: MEZZO LIVE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14964
-#EXTINF:-1,SP: MEGA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/19757
-#EXTINF:-1,SP: MTV ROCKS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14963
-#EXTINF:-1,SP: DISCOVERY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14962
-#EXTINF:-1,SP: HISTORIA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14961
-#EXTINF:-1,SP: NAT GEO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14960
-#EXTINF:-1,SP: NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14959
-#EXTINF:-1,SP: NAT WILD HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14958
-#EXTINF:-1,SP: NEOX
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14957
-#EXTINF:-1,SP: PARAMOUNT
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14956
-#EXTINF:-1,SP: VH1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14955
-#EXTINF:-1,SP: VIAJAR HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14954
-#EXTINF:-1,SP: BAR TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14983
-#EXTINF:-1,SP: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14993
-#EXTINF:-1,SP: EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14987
-#EXTINF:-1,SP: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14988
-#EXTINF:-1,SP: EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14986
-#EXTINF:-1,SP: FORMULA 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14985
-#EXTINF:-1,SP: GOL
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14989
-#EXTINF:-1,SP: LA LIGA 123 TV HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24470
-#EXTINF:-1,SP: LA LIGA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14991
-#EXTINF:-1,SP: LA LIGA TV HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14992
-#EXTINF:-1,SP: M. DEP2 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14966
-#EXTINF:-1,SP: M. DEPORTE 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14967
-#EXTINF:-1,SP: M. FORMULA 1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14984
-#EXTINF:-1,SP: M. FTBOL HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14990
-#EXTINF:-1,SP: M. GOLF HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14981
-#EXTINF:-1,SP: M.CAMPEONES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24469
-#EXTINF:-1,SP: M. Liga De Campeones 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/31677
-#EXTINF:-1,SP: M. PARTIDAZO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14980
-#EXTINF:-1,SP: MOTOGP HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14979
-#EXTINF:-1,SP: R. MADRID TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14982
-#EXTINF:-1,SP: TELE DEPORTE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14965
-#EXTINF:-1,SP: TOROS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/14978
-#EXTINF:-1,SP: Alquiler 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24479
-#EXTINF:-1,SP: Alquiler 2 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24478
-#EXTINF:-1,SP: Alquiler 3 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24477
-#EXTINF:-1,SP: Alquiler 4 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24476
-#EXTINF:-1,SP: Alquiler 5 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24475
-#EXTINF:-1,SP: Alquiler 6 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24474
-#EXTINF:-1,SP: Alquiler 7 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24473
-#EXTINF:-1,SP: Alquiler 8 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24472
-#EXTINF:-1,SP: Alquiler 9 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Bica/Bica/24471
-#EXTINF:-1,SP: LA 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15039
-#EXTINF:-1,SP: LA 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15038
-#EXTINF:-1,SP: LA SEXTA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15037
-#EXTINF:-1,SP: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15036
-#EXTINF:-1,SP: CUATRO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15035
-#EXTINF:-1,SP: TELECINCO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15034
-#EXTINF:-1,SP: CANAL 24 HORAS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15033
-#EXTINF:-1,SP: 24 HORAS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15032
-#EXTINF:-1,SP: TVE INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15031
-#EXTINF:-1,SP: FDF
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15030
-#EXTINF:-1,SP: #VAMOS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24973
-#EXTINF:-1,SP: CLAN TVE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15029
-#EXTINF:-1,SP: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15028
-#EXTINF:-1,SP: IBERALIA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15027
-#EXTINF:-1,SP: FOX HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15026
-#EXTINF:-1,SP: FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15025
-#EXTINF:-1,SP: FOX NEWS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15024
-#EXTINF:-1,SP: 0 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15023
-#EXTINF:-1,SP: AMC HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15022
-#EXTINF:-1,SP: ARAGON
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15021
-#EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15020
-#EXTINF:-1,SP: AXN
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15019
-#EXTINF:-1,SP: AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15018
-#EXTINF:-1,SP: A3 SERIES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/29608
-#EXTINF:-1,SP: SYFY HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15017
-#EXTINF:-1,SP: TCM HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15016
-#EXTINF:-1,SP: TNT HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15015
-#EXTINF:-1,SP: BE MAD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15014
-#EXTINF:-1,SP: BLAZE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15013
-#EXTINF:-1,SP: CALLE 13 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15012
-#EXTINF:-1,SP: CANAL COCINA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15011
-#EXTINF:-1,SP: CANAL DECASA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15010
-#EXTINF:-1,SP: CANAL ODISEA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15009
-#EXTINF:-1,SP: CANAL SUR
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15008
-#EXTINF:-1,SP: CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15007
-#EXTINF:-1,SP: CLASSICA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15006
-#EXTINF:-1,SP: COSMO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15005
-#EXTINF:-1,SP: CRIMEN Y INVES
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15004
-#EXTINF:-1,SP: DIVINITY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15003
-#EXTINF:-1,SP: ENERGY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15002
-#EXTINF:-1,SP: BABY TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15001
-#EXTINF:-1,SP: BOING
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15000
-#EXTINF:-1,SP: CANAL PANDA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14999
-#EXTINF:-1,SP: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14998
-#EXTINF:-1,SP: DISNEY HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14997
-#EXTINF:-1,SP: DISNEY JR
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14996
-#EXTINF:-1,SP: DISNEY XD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14995
-#EXTINF:-1,SP: NICKELODEON  HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14994
-#EXTINF:-1,SP: M. ACCION HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14977
-#EXTINF:-1,SP: M. CINE ESP
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14976
-#EXTINF:-1,SP: M. COMEDIA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14975
-#EXTINF:-1,SP: M. DCINE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14974
-#EXTINF:-1,SP: M. DISNEY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14973
-#EXTINF:-1,SP: M. ESTRENOS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14972
-#EXTINF:-1,SP: M. FAMA 24
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14971
-#EXTINF:-1,SP: M. SERIES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14970
-#EXTINF:-1,SP: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14969
-#EXTINF:-1,SP: M. XTRA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14968
-#EXTINF:-1,SP: MEZZO LIVE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14964
-#EXTINF:-1,SP: MEGA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/19757
-#EXTINF:-1,SP: MTV ROCKS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14963
-#EXTINF:-1,SP: DISCOVERY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14962
-#EXTINF:-1,SP: HISTORIA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14961
-#EXTINF:-1,SP: NAT GEO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14960
-#EXTINF:-1,SP: NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14959
-#EXTINF:-1,SP: NAT WILD HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14958
-#EXTINF:-1,SP: NEOX
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14957
-#EXTINF:-1,SP: PARAMOUNT
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14956
-#EXTINF:-1,SP: VH1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14955
-#EXTINF:-1,SP: VIAJAR HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14954
-#EXTINF:-1,SP: BAR TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14983
-#EXTINF:-1,SP: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14993
-#EXTINF:-1,SP: EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14987
-#EXTINF:-1,SP: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14988
-#EXTINF:-1,SP: EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14986
-#EXTINF:-1,SP: FORMULA 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14985
-#EXTINF:-1,SP: GOL
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14989
-#EXTINF:-1,SP: LA LIGA 123 TV HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24470
-#EXTINF:-1,SP: LA LIGA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14991
-#EXTINF:-1,SP: LA LIGA TV HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14992
-#EXTINF:-1,SP: M. DEP2 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14966
-#EXTINF:-1,SP: M. DEPORTE 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14967
-#EXTINF:-1,SP: M. FORMULA 1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14984
-#EXTINF:-1,SP: M. FTBOL HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14990
-#EXTINF:-1,SP: M. GOLF HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14981
-#EXTINF:-1,SP: M.CAMPEONES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24469
-#EXTINF:-1,SP: M. Liga De Campeones 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/31677
-#EXTINF:-1,SP: M. PARTIDAZO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14980
-#EXTINF:-1,SP: MOTOGP HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14979
-#EXTINF:-1,SP: R. MADRID TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14982
-#EXTINF:-1,SP: TELE DEPORTE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14965
-#EXTINF:-1,SP: TOROS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14978
-#EXTINF:-1,SP: Alquiler 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24479
-#EXTINF:-1,SP: Alquiler 2 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24478
-#EXTINF:-1,SP: Alquiler 3 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24477
-#EXTINF:-1,SP: Alquiler 4 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24476
-#EXTINF:-1,SP: Alquiler 5 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24475
-#EXTINF:-1,SP: Alquiler 6 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24474
-#EXTINF:-1,SP: Alquiler 7 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24473
-#EXTINF:-1,SP: Alquiler 8 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24472
-#EXTINF:-1,SP: Alquiler 9 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24471
-#EXTINF:-1,SP: LA 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15039
-#EXTINF:-1,SP: LA 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15038
-#EXTINF:-1,SP: LA SEXTA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15037
-#EXTINF:-1,SP: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15036
-#EXTINF:-1,SP: CUATRO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15035
-#EXTINF:-1,SP: TELECINCO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15034
-#EXTINF:-1,SP: CANAL 24 HORAS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15033
-#EXTINF:-1,SP: 24 HORAS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15032
-#EXTINF:-1,SP: TVE INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15031
-#EXTINF:-1,SP: FDF
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15030
-#EXTINF:-1,SP: #VAMOS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24973
-#EXTINF:-1,SP: CLAN TVE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15029
-#EXTINF:-1,SP: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15028
-#EXTINF:-1,SP: IBERALIA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15027
-#EXTINF:-1,SP: FOX HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15026
-#EXTINF:-1,SP: FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15025
-#EXTINF:-1,SP: FOX NEWS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15024
-#EXTINF:-1,SP: 0 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15023
-#EXTINF:-1,SP: AMC HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15022
-#EXTINF:-1,SP: ARAGON
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15021
-#EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15020
-#EXTINF:-1,SP: AXN
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15019
-#EXTINF:-1,SP: AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15018
-#EXTINF:-1,SP: A3 SERIES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/29608
-#EXTINF:-1,SP: SYFY HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15017
-#EXTINF:-1,SP: TCM HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15016
-#EXTINF:-1,SP: TNT HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15015
-#EXTINF:-1,SP: BE MAD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15014
-#EXTINF:-1,SP: BLAZE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15013
-#EXTINF:-1,SP: CALLE 13 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15012
-#EXTINF:-1,SP: CANAL COCINA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15011
-#EXTINF:-1,SP: CANAL DECASA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15010
-#EXTINF:-1,SP: CANAL ODISEA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15009
-#EXTINF:-1,SP: CANAL SUR
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15008
-#EXTINF:-1,SP: CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15007
-#EXTINF:-1,SP: CLASSICA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15006
-#EXTINF:-1,SP: COSMO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15005
-#EXTINF:-1,SP: CRIMEN Y INVES
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15004
-#EXTINF:-1,SP: DIVINITY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15003
-#EXTINF:-1,SP: ENERGY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15002
-#EXTINF:-1,SP: BABY TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15001
-#EXTINF:-1,SP: BOING
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/15000
-#EXTINF:-1,SP: CANAL PANDA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14999
-#EXTINF:-1,SP: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14998
-#EXTINF:-1,SP: DISNEY HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14997
-#EXTINF:-1,SP: DISNEY JR
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14996
-#EXTINF:-1,SP: DISNEY XD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14995
-#EXTINF:-1,SP: NICKELODEON  HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14994
-#EXTINF:-1,SP: M. ACCION HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14977
-#EXTINF:-1,SP: M. CINE ESP
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14976
-#EXTINF:-1,SP: M. COMEDIA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14975
-#EXTINF:-1,SP: M. DCINE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14974
-#EXTINF:-1,SP: M. DISNEY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14973
-#EXTINF:-1,SP: M. ESTRENOS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14972
-#EXTINF:-1,SP: M. FAMA 24
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14971
-#EXTINF:-1,SP: M. SERIES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14970
-#EXTINF:-1,SP: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14969
-#EXTINF:-1,SP: M. XTRA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14968
-#EXTINF:-1,SP: MEZZO LIVE HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14964
-#EXTINF:-1,SP: MEGA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/19757
-#EXTINF:-1,SP: MTV ROCKS
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14963
-#EXTINF:-1,SP: DISCOVERY
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14962
-#EXTINF:-1,SP: HISTORIA
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14961
-#EXTINF:-1,SP: NAT GEO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14960
-#EXTINF:-1,SP: NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14959
-#EXTINF:-1,SP: NAT WILD HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14958
-#EXTINF:-1,SP: NEOX
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14957
-#EXTINF:-1,SP: PARAMOUNT
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14956
-#EXTINF:-1,SP: VH1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14955
-#EXTINF:-1,SP: VIAJAR HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14954
-#EXTINF:-1,SP: BAR TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14983
-#EXTINF:-1,SP: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14993
-#EXTINF:-1,SP: EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14987
-#EXTINF:-1,SP: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14988
-#EXTINF:-1,SP: EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14986
-#EXTINF:-1,SP: FORMULA 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14985
-#EXTINF:-1,SP: GOL
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14989
-#EXTINF:-1,SP: LA LIGA 123 TV HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24470
-#EXTINF:-1,SP: LA LIGA HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14991
-#EXTINF:-1,SP: LA LIGA TV HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14992
-#EXTINF:-1,SP: M. DEP2 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14966
-#EXTINF:-1,SP: M. DEPORTE 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14967
-#EXTINF:-1,SP: M. FORMULA 1
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14984
-#EXTINF:-1,SP: M. FTBOL HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14990
-#EXTINF:-1,SP: M. GOLF HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14981
-#EXTINF:-1,SP: M.CAMPEONES HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24469
-#EXTINF:-1,SP: M. Liga De Campeones 2
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/31677
-#EXTINF:-1,SP: M. PARTIDAZO HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14980
-#EXTINF:-1,SP: MOTOGP HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14979
-#EXTINF:-1,SP: R. MADRID TV
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14982
-#EXTINF:-1,SP: TELE DEPORTE
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14965
-#EXTINF:-1,SP: TOROS HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/14978
-#EXTINF:-1,SP: Alquiler 1 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24479
-#EXTINF:-1,SP: Alquiler 2 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24478
-#EXTINF:-1,SP: Alquiler 3 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24477
-#EXTINF:-1,SP: Alquiler 4 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24476
-#EXTINF:-1,SP: Alquiler 5 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24475
-#EXTINF:-1,SP: Alquiler 6 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24474
-#EXTINF:-1,SP: Alquiler 7 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24473
-#EXTINF:-1,SP: Alquiler 8 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24472
-#EXTINF:-1,SP: Alquiler 9 HD
-plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Mehran/Mehran/24471
