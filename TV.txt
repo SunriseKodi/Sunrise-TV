@@ -11,10 +11,10 @@
 </channel>
 
 <channels>
-channel>
+<channel>
 <name>[COLOR gold]Spanisch[/COLOR]</name>
-<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/spanisch.txt</externallink>
-<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</fanart>
 <info></info>
 </channel>
