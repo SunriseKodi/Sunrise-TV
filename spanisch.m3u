@@ -1,203 +1,203 @@
 #EXTM3U
 
-#EXTINF:-1,SP: LA 1 HD
+#EXTINF:-1,: LA 1 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15039
-#EXTINF:-1,SP: LA 2
+#EXTINF:-1,: LA 2
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15038
-#EXTINF:-1,SP: LA SEXTA HD
+#EXTINF:-1,: LA SEXTA HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15037
-#EXTINF:-1,SP: ANTENA 3 HD
+#EXTINF:-1,: ANTENA 3 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15036
-#EXTINF:-1,SP: CUATRO HD
+#EXTINF:-1,: CUATRO HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15035
-#EXTINF:-1,SP: TELECINCO HD
+#EXTINF:-1,: TELECINCO HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15034
-#EXTINF:-1,SP: CANAL 24 HORAS
+#EXTINF:-1,: CANAL 24 HORAS
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15033
-#EXTINF:-1,SP: 24 HORAS
+#EXTINF:-1,: 24 HORAS
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15032
-#EXTINF:-1,SP: TVE INTERNACIONAL
+#EXTINF:-1,: TVE INTERNACIONAL
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15031
-#EXTINF:-1,SP: FDF
+#EXTINF:-1,: FDF
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15030
-#EXTINF:-1,SP: #VAMOS HD
+#EXTINF:-1,: #VAMOS HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24973
-#EXTINF:-1,SP: CLAN TVE
+#EXTINF:-1,: CLAN TVE
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15029
-#EXTINF:-1,SP: HOLLYWOOD HD
+#EXTINF:-1,: HOLLYWOOD HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15028
-#EXTINF:-1,SP: IBERALIA
+#EXTINF:-1,: IBERALIA
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15027
-#EXTINF:-1,SP: FOX HD
+#EXTINF:-1,: FOX HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15026
-#EXTINF:-1,SP: FOX LIFE HD
+#EXTINF:-1,: FOX LIFE HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15025
-#EXTINF:-1,SP: FOX NEWS
+#EXTINF:-1,: FOX NEWS
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15024
-#EXTINF:-1,SP: 0 HD
+#EXTINF:-1,: 0 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15023
-#EXTINF:-1,SP: AMC HD
+#EXTINF:-1,: AMC HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15022
-#EXTINF:-1,SP: ARAGON
+#EXTINF:-1,: ARAGON
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15021
-#EXTINF:-1,SP: AXN HD
+#EXTINF:-1,: AXN HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15020
-#EXTINF:-1,SP: AXN
+#EXTINF:-1,: AXN
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15019
-#EXTINF:-1,SP: AXN WHITE HD
+#EXTINF:-1,: AXN WHITE HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15018
-#EXTINF:-1,SP: A3 SERIES HD
+#EXTINF:-1,: A3 SERIES HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/29608
-#EXTINF:-1,SP: SYFY HD
+#EXTINF:-1,: SYFY HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15017
-#EXTINF:-1,SP: TCM HD
+#EXTINF:-1,: TCM HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15016
-#EXTINF:-1,SP: TNT HD
+#EXTINF:-1,: TNT HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15015
-#EXTINF:-1,SP: BE MAD
+#EXTINF:-1,: BE MAD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15014
-#EXTINF:-1,SP: BLAZE
+#EXTINF:-1,: BLAZE
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15013
-#EXTINF:-1,SP: CALLE 13 HD
+#EXTINF:-1,: CALLE 13 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15012
-#EXTINF:-1,SP: CANAL COCINA
+#EXTINF:-1,: CANAL COCINA
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15011
-#EXTINF:-1,SP: CANAL DECASA
+#EXTINF:-1,: CANAL DECASA
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15010
-#EXTINF:-1,SP: CANAL ODISEA
+#EXTINF:-1,: CANAL ODISEA
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15009
-#EXTINF:-1,SP: CANAL SUR
+#EXTINF:-1,: CANAL SUR
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15008
-#EXTINF:-1,SP: CAZA Y PESCA HD
+#EXTINF:-1,: CAZA Y PESCA HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15007
-#EXTINF:-1,SP: CLASSICA
+#EXTINF:-1,: CLASSICA
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15006
-#EXTINF:-1,SP: COSMO HD
+#EXTINF:-1,: COSMO HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15005
-#EXTINF:-1,SP: CRIMEN Y INVES
+#EXTINF:-1,: CRIMEN Y INVES
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15004
-#EXTINF:-1,SP: DIVINITY
+#EXTINF:-1,: DIVINITY
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15003
-#EXTINF:-1,SP: ENERGY
+#EXTINF:-1,: ENERGY
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15002
-#EXTINF:-1,SP: BABY TV
+#EXTINF:-1,: BABY TV
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15001
-#EXTINF:-1,SP: BOING
+#EXTINF:-1,: BOING
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/15000
-#EXTINF:-1,SP: CANAL PANDA
+#EXTINF:-1,: CANAL PANDA
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14999
-#EXTINF:-1,SP: COMEDY CENTRAL HD
+#EXTINF:-1,: COMEDY CENTRAL HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14998
-#EXTINF:-1,SP: DISNEY HD
+#EXTINF:-1,: DISNEY HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14997
-#EXTINF:-1,SP: DISNEY JR
+#EXTINF:-1,: DISNEY JR
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14996
-#EXTINF:-1,SP: DISNEY XD
+#EXTINF:-1,: DISNEY XD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14995
-#EXTINF:-1,SP: NICKELODEON  HD
+#EXTINF:-1,: NICKELODEON  HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14994
-#EXTINF:-1,SP: M. ACCION HD
+#EXTINF:-1,: M. ACCION HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14977
-#EXTINF:-1,SP: M. CINE ESP
+#EXTINF:-1,: M. CINE E
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14976
-#EXTINF:-1,SP: M. COMEDIA HD
+#EXTINF:-1,: M. COMEDIA HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14975
-#EXTINF:-1,SP: M. DCINE HD
+#EXTINF:-1,: M. DCINE HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14974
-#EXTINF:-1,SP: M. DISNEY
+#EXTINF:-1,: M. DISNEY
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14973
-#EXTINF:-1,SP: M. ESTRENOS HD
+#EXTINF:-1,: M. ESTRENOS HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14972
-#EXTINF:-1,SP: M. FAMA 24
+#EXTINF:-1,: M. FAMA 24
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14971
-#EXTINF:-1,SP: M. SERIES HD
+#EXTINF:-1,: M. SERIES HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14970
-#EXTINF:-1,SP: M. SERIES XTRA HD
+#EXTINF:-1,: M. SERIES XTRA HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14969
-#EXTINF:-1,SP: M. XTRA HD
+#EXTINF:-1,: M. XTRA HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14968
-#EXTINF:-1,SP: MEZZO LIVE HD
+#EXTINF:-1,: MEZZO LIVE HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14964
-#EXTINF:-1,SP: MEGA
+#EXTINF:-1,: MEGA
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/19757
-#EXTINF:-1,SP: MTV ROCKS
+#EXTINF:-1,: MTV ROCKS
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14963
-#EXTINF:-1,SP: DISCOVERY
+#EXTINF:-1,: DISCOVERY
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14962
-#EXTINF:-1,SP: HISTORIA
+#EXTINF:-1,: HISTORIA
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14961
-#EXTINF:-1,SP: NAT GEO HD
+#EXTINF:-1,: NAT GEO HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14960
-#EXTINF:-1,SP: NAT GEO WILD
+#EXTINF:-1,: NAT GEO WILD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14959
-#EXTINF:-1,SP: NAT WILD HD
+#EXTINF:-1,: NAT WILD HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14958
-#EXTINF:-1,SP: NEOX
+#EXTINF:-1,: NEOX
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14957
-#EXTINF:-1,SP: PARAMOUNT
+#EXTINF:-1,: PARAMOUNT
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14956
-#EXTINF:-1,SP: VH1
+#EXTINF:-1,: VH1
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14955
-#EXTINF:-1,SP: VIAJAR HD
+#EXTINF:-1,: VIAJAR HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14954
-#EXTINF:-1,SP: BAR TV
+#EXTINF:-1,: BAR TV
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14983
-#EXTINF:-1,SP: BEIN SPORTS HD
+#EXTINF:-1,: BEIN ORTS HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14993
-#EXTINF:-1,SP: EUROSPORT 1
+#EXTINF:-1,: EUROORT 1
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14987
-#EXTINF:-1,SP: EUROSPORT 1 HD
+#EXTINF:-1,: EUROORT 1 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14988
-#EXTINF:-1,SP: EUROSPORT 2
+#EXTINF:-1,: EUROORT 2
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14986
-#EXTINF:-1,SP: FORMULA 1 HD
+#EXTINF:-1,: FORMULA 1 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14985
-#EXTINF:-1,SP: GOL
+#EXTINF:-1,: GOL
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14989
-#EXTINF:-1,SP: LA LIGA 123 TV HD
+#EXTINF:-1,: LA LIGA 123 TV HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24470
-#EXTINF:-1,SP: LA LIGA HD
+#EXTINF:-1,: LA LIGA HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14991
-#EXTINF:-1,SP: LA LIGA TV HD
+#EXTINF:-1,: LA LIGA TV HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14992
-#EXTINF:-1,SP: M. DEP2 HD
+#EXTINF:-1,: M. DEP2 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14966
-#EXTINF:-1,SP: M. DEPORTE 1 HD
+#EXTINF:-1,: M. DEPORTE 1 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14967
-#EXTINF:-1,SP: M. FORMULA 1
+#EXTINF:-1,: M. FORMULA 1
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14984
-#EXTINF:-1,SP: M. FTBOL HD
+#EXTINF:-1,: M. FTBOL HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14990
-#EXTINF:-1,SP: M. GOLF HD
+#EXTINF:-1,: M. GOLF HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14981
-#EXTINF:-1,SP: M.CAMPEONES HD
+#EXTINF:-1,: M.CAMPEONES HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24469
-#EXTINF:-1,SP: M. Liga De Campeones 2
+#EXTINF:-1,: M. Liga De Campeones 2
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/31677
-#EXTINF:-1,SP: M. PARTIDAZO HD
+#EXTINF:-1,: M. PARTIDAZO HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14980
-#EXTINF:-1,SP: MOTOGP HD
+#EXTINF:-1,: MOTOGP HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14979
-#EXTINF:-1,SP: R. MADRID TV
+#EXTINF:-1,: R. MADRID TV
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14982
-#EXTINF:-1,SP: TELE DEPORTE
+#EXTINF:-1,: TELE DEPORTE
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14965
-#EXTINF:-1,SP: TOROS HD
+#EXTINF:-1,: TOROS HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/14978
-#EXTINF:-1,SP: Alquiler 1 HD
+#EXTINF:-1,: Alquiler 1 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24479
-#EXTINF:-1,SP: Alquiler 2 HD
+#EXTINF:-1,: Alquiler 2 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24478
-#EXTINF:-1,SP: Alquiler 3 HD
+#EXTINF:-1,: Alquiler 3 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24477
-#EXTINF:-1,SP: Alquiler 4 HD
+#EXTINF:-1,: Alquiler 4 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24476
-#EXTINF:-1,SP: Alquiler 5 HD
+#EXTINF:-1,: Alquiler 5 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24475
-#EXTINF:-1,SP: Alquiler 6 HD
+#EXTINF:-1,: Alquiler 6 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24474
-#EXTINF:-1,SP: Alquiler 7 HD
+#EXTINF:-1,: Alquiler 7 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24473
-#EXTINF:-1,SP: Alquiler 8 HD
+#EXTINF:-1,: Alquiler 8 HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/24472
-#EXTINF:-1,SP: Alquiler 9 HD
+#EXTINF:-1,: Alquiler 9 HD
