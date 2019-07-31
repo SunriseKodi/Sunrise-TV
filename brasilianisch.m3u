@@ -1,0 +1,244 @@
+#EXTM3U
+
+#EXTINF:-1, H2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32807
+#EXTINF:-1, HBO HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32806
+#EXTINF:-1, HBO2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32805
+#EXTINF:-1, HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32804
+#EXTINF:-1, HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32803
+#EXTINF:-1, HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32802
+#EXTINF:-1, FX HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32801
+#EXTINF:-1, GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32800
+#EXTINF:-1, GNT HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32799
+#EXTINF:-1, MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32798
+#EXTINF:-1, MAX HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32797
+#EXTINF:-1, MAX PRIME HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32796
+#EXTINF:-1, MAX UP HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32795
+#EXTINF:-1, MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32794
+#EXTINF:-1, MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32793
+#EXTINF:-1, OFF HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32792
+#EXTINF:-1, PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32791
+#EXTINF:-1, PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32790
+#EXTINF:-1, PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32789
+#EXTINF:-1, PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32788
+#EXTINF:-1, PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32787
+#EXTINF:-1, PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32786
+#EXTINF:-1, PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32785
+#EXTINF:-1, PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32784
+#EXTINF:-1, PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32783
+#EXTINF:-1, RÁ TIM BUM HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32782
+#EXTINF:-1, RECORD HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32781
+#EXTINF:-1, SYFY HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32780
+#EXTINF:-1, TNT HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32779
+#EXTINF:-1, WOOHOO HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32778
+#EXTINF:-1, ZOOMOO HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32777
+#EXTINF:-1, A&E HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32776
+#EXTINF:-1, AMC HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32775
+#EXTINF:-1, SBT HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32774
+#EXTINF:-1, SHOPTIME
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32773
+#EXTINF:-1, Sony HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32772
+#EXTINF:-1, SPACE HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32771
+#EXTINF:-1, TBS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32770
+#EXTINF:-1, TCM HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32769
+#EXTINF:-1, TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32768
+#EXTINF:-1, TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32767
+#EXTINF:-1, TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32766
+#EXTINF:-1, TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32765
+#EXTINF:-1, TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32764
+#EXTINF:-1, TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32763
+#EXTINF:-1, TLC HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32762
+#EXTINF:-1, STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32761
+#EXTINF:-1, WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32760
+#EXTINF:-1, CINEMAX HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32759
+#EXTINF:-1, COMBATE HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32758
+#EXTINF:-1, COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32757
+#EXTINF:-1, FOX HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32756
+#EXTINF:-1, FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32755
+#EXTINF:-1, Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32754
+#EXTINF:-1, FOX PREMIUM HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32753
+#EXTINF:-1, AXN HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32752
+#EXTINF:-1, UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32751
+#EXTINF:-1, BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32749
+#EXTINF:-1, GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32748
+#EXTINF:-1, RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32747
+#EXTINF:-1, CNN INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32746
+#EXTINF:-1, BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32744
+#EXTINF:-1, SPORTV HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32743
+#EXTINF:-1, SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32742
+#EXTINF:-1, SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32741
+#EXTINF:-1, FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32740
+#EXTINF:-1, FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32739
+#EXTINF:-1, ESPN   HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32738
+#EXTINF:-1, ESPN BR HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32737
+#EXTINF:-1, ESPN INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32736
+#EXTINF:-1, TOONCAST HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32734
+#EXTINF:-1, BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32733
+#EXTINF:-1, CARTOON HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32732
+#EXTINF:-1, DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32731
+#EXTINF:-1, DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32730
+#EXTINF:-1, DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32729
+#EXTINF:-1, DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32728
+#EXTINF:-1, FUTURA HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32727
+#EXTINF:-1, NICK JR HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32726
+#EXTINF:-1, NICK HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32725
+#EXTINF:-1, NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32724
+#EXTINF:-1, HISTORY HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32722
+#EXTINF:-1, NATGEO HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32721
+#EXTINF:-1, NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32720
+#EXTINF:-1, ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32719
+#EXTINF:-1, CULTURA HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32718
+#EXTINF:-1, DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32717
+#EXTINF:-1, DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32716
+#EXTINF:-1, DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32715
+#EXTINF:-1, DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32714
+#EXTINF:-1, DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32713
+#EXTINF:-1, DISCOVERY THEATHER HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32712
+#EXTINF:-1, DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32711
+#EXTINF:-1, MTV HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32709
+#EXTINF:-1, MTV LIVE HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32708
+#EXTINF:-1, MUSIC BOX BRASIL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32707
+#EXTINF:-1, VH1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32706
+#EXTINF:-1, VH1 MEGA HITS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32705
+#EXTINF:-1, ARTE1
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32703
+#EXTINF:-1, RIT
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32702
+#EXTINF:-1, BIS HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32701
+#EXTINF:-1, TRAVEL BOX BRASIL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32700
+#EXTINF:-1, TV BRASIL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32699
+#EXTINF:-1, TV CAMARA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32698
+#EXTINF:-1, VIVA HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32697
+#EXTINF:-1, CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32696
+#EXTINF:-1, E! HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32695
+#EXTINF:-1, ID HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32694
+#EXTINF:-1, LIFETIME HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32693
+#EXTINF:-1, POLISHOP
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32692
+#EXTINF:-1, REDE 21
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32691
+#EXTINF:-1, REDE TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32690
+#EXTINF:-1, REDE VIDA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32689
+#EXTINF:-1, FASHION TV BRASIL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32688
+#EXTINF:-1, FISH TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32687
+#EXTINF:-1, FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32686
+#EXTINF:-1, BAND HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32685
+#EXTINF:-1, TV ESCOLA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32684
+#EXTINF:-1, TV JUSTIÇA HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32683
+#EXTINF:-1, TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32682
+#EXTINF:-1, TV SENADO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/32681
