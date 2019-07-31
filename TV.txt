@@ -47,10 +47,10 @@
 </channel>
 
 <channels>
-channel>
-<name>[COLOR gold]Arabisch[/COLOR]</name>
+<channel>
+<name>[COLOR gold]Französisch[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arabisch.txt</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Franz%C3%B6sisch.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
