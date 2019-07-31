@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Französisch[/COLOR]</name>
+<name>[COLOR gold]Franzoesisch[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Franz%C3%B6sisch.txt</externallink>
 <fanart></fanart>
