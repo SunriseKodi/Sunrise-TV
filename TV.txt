@@ -22,9 +22,9 @@
 <channels>
 <channel>
 <name>[COLOR gold]Italienisch[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/world-cup-italy-flag.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/italienisch.txt</externallink>
-<fanart></fanart>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/world-cup-italy-flag.jpg</fanart>
 <info></info>
 </channel>
 
