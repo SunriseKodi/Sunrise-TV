@@ -29,10 +29,10 @@ channel>
 </channel>
 
 <channels>
-channel>
+<channel>
 <name>[COLOR gold]Arabisch[/COLOR]</name>
-<thumbnail>>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/TV2.txt</externallink>
-<fanart>>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arabisch.txt</externallink>
+<fanart></fanart>
 <info></info>
 </channel>
