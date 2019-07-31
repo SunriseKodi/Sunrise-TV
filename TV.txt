@@ -20,7 +20,7 @@
 </channel>
 
 <channels>
-channel>
+<channel>
 <name>[COLOR gold]Italienisch[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/italienisch.txt</externallink>
