@@ -27,3 +27,12 @@ channel>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/spain-flag-png_231270.jpg</fanart>
 <info></info>
 </channel>
+
+<channels>
+channel>
+<name>[COLOR gold]Arabisch[/COLOR]</name>
+<thumbnail>>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/TV2.txt</externallink>
+<fanart>>
+<info></info>
+</channel>
