@@ -3,9 +3,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Server 1[/COLOR]</name>
+<name>[COLOR gold]Server1[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/TV2.txt</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/brasilianisch.m3u</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
