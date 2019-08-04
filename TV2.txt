@@ -14,7 +14,7 @@
 
 
 <channels>
-channel>
+<channel>
 <name>[COLOR gold]Server2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/DeServer2.m3u</externallink>
