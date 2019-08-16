@@ -1,890 +1,890 @@
 #EXTM3U
 
-#EXTINF:-1, RAI 1 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33544
-#EXTINF:-1, Rai 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33543
-#EXTINF:-1, Rai 2 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33542
-#EXTINF:-1, Rai 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33541
-#EXTINF:-1, Rai 3 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33540
-#EXTINF:-1, RETE 4 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33539
-#EXTINF:-1, Rete 4 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33538
-#EXTINF:-1, CANALE 5 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33537
-#EXTINF:-1, CANALE 5 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33536
-#EXTINF:-1, ITALIA 1 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33535
-#EXTINF:-1, ITALIA 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33534
-#EXTINF:-1, LA 7HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33533
-#EXTINF:-1, LA7 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33532
-#EXTINF:-1, TV 8 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33531
-#EXTINF:-1, TV 8 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33530
-#EXTINF:-1, NOVE FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33529
-#EXTINF:-1, NOVE HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33528
-#EXTINF:-1, RSI La1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33527
-#EXTINF:-1, RSI La2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33526
-#EXTINF:-1, RAI 3 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33525
-#EXTINF:-1, TOP crime
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33524
-#EXTINF:-1, Iris
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33523
-#EXTINF:-1, cielo HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33522
-#EXTINF:-1, RAI 4 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33521
-#EXTINF:-1, RAI 5 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33520
-#EXTINF:-1, RAI Movie
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33519
-#EXTINF:-1, RAI Premium
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33518
-#EXTINF:-1, RAI Storia
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33517
-#EXTINF:-1, ITALIA 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33516
-#EXTINF:-1, LA 5 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33515
-#EXTINF:-1, LA 7 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33514
-#EXTINF:-1, Mediaset 20
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33513
-#EXTINF:-1, Mediaset Extra
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33512
-#EXTINF:-1, GIALLO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33511
-#EXTINF:-1, SKY CINEMA 1 HD LOCAL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33510
-#EXTINF:-1, SKY Cinema Uno
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33509
-#EXTINF:-1, Sky Cinema  1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33508
-#EXTINF:-1, Sky Cinema Uno  24 HD LOCAL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33507
-#EXTINF:-1, Sky Cinema Uno  24 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33506
-#EXTINF:-1, Sky Cinema Due HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33505
-#EXTINF:-1, SKY CINEMA DUE  24 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33504
-#EXTINF:-1, SKY CINEMA COMEDY HD LOCAL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33503
-#EXTINF:-1, Sky Cinema Comedy HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33502
-#EXTINF:-1, Sky Cinema Collection HD LOCAL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33501
-#EXTINF:-1, Sky Cinema Collection HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33500
-#EXTINF:-1, SKY CINEMA FAMILY HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33499
-#EXTINF:-1, SKY CINEMA DRAMA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33498
-#EXTINF:-1, Sky Cinema Action HD LOCAL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33497
-#EXTINF:-1, Sky Cinema Action HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33496
-#EXTINF:-1, Sky Cinema Romance HD LOCAL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33495
-#EXTINF:-1, SKY CINEMA SUSPENSE HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33494
-#EXTINF:-1, SKY CINEMA UNO FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33493
-#EXTINF:-1, Sky Cinema Uno  24 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33492
-#EXTINF:-1, SKY CINEMA CULT FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33491
-#EXTINF:-1, SKY CINEMA DUE  24 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33490
-#EXTINF:-1, SKY CINEMA COMEDY FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33489
-#EXTINF:-1, SKY CINEMA COMEDY FHD  1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33488
-#EXTINF:-1, Sky Cinema Collection FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33487
-#EXTINF:-1, Sky Cinema Collection FHD  1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33486
-#EXTINF:-1, SKY CINEMA FAMILY FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33485
-#EXTINF:-1, Sky Cinema Romance HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33484
-#EXTINF:-1, SKY CINEMA DRAMA FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33483
-#EXTINF:-1, Sky Cinema Action FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33482
-#EXTINF:-1, Sky Cinema Romance FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33481
-#EXTINF:-1, SKY CINEMA ROMANCE FHD  1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33480
-#EXTINF:-1, SKY CINEMA SUSPANCE FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33479
-#EXTINF:-1, Premium Cinema FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33478
-#EXTINF:-1, Premium Cinema HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33477
-#EXTINF:-1, PREMIUM CINEMA 24 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33476
-#EXTINF:-1, PREMIUM CINEMA 24 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33475
-#EXTINF:-1, PREMIUM ENERGY FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33474
-#EXTINF:-1, PREMIUM ENERGY HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33473
-#EXTINF:-1, PREMIUM COMEDY  FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33472
-#EXTINF:-1, Premium Cinema Comedy
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33471
-#EXTINF:-1, PREMIUM ACTION FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33470
-#EXTINF:-1, Premium Action
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33469
-#EXTINF:-1, PREMIUM STORIES FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33468
-#EXTINF:-1, Premium Stories
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33467
-#EXTINF:-1, PREMIUM EMOTION FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33466
-#EXTINF:-1, Premium Cinema Emotion
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33465
-#EXTINF:-1, PREMIUM CRIME FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33464
-#EXTINF:-1, Premium Crime
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33463
-#EXTINF:-1, PREMIUM JOY FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33462
-#EXTINF:-1, Premium Joy
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33461
-#EXTINF:-1, Paramount Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33460
-#EXTINF:-1,  Gomorra St.2 Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35137
-#EXTINF:-1, SKY PRIMAFILA 1 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35159
-#EXTINF:-1, SKY PRIMAFILA 11 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35148
-#EXTINF:-1, SKY PRIMAFILA 12 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35147
-#EXTINF:-1, SKY PRIMAFILA 13 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35146
-#EXTINF:-1, SKY PRIMAFILA 14 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35145
-#EXTINF:-1, SKY PRIMAFILA 15 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35144
-#EXTINF:-1, SKY PRIMAFILA 16 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35143
-#EXTINF:-1, SKY PRIMAFILA 17 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35142
-#EXTINF:-1, SKY PRIMAFILA 2 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35158
-#EXTINF:-1, SKY PRIMAFILA 3 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35157
-#EXTINF:-1, SKY PRIMAFILA 3D
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35156
-#EXTINF:-1, SKY PRIMAFILA 4 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35155
-#EXTINF:-1, SKY PRIMAFILA 4K
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35138
-#EXTINF:-1, SKY PRIMAFILA 5 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35154
-#EXTINF:-1, SKY PRIMAFILA 6 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35153
-#EXTINF:-1, SKY PRIMAFILA 7 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35152
-#EXTINF:-1, SKY PRIMAFILA 8 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35151
-#EXTINF:-1, SKY PRIMAFILA 9 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35150
-#EXTINF:-1, SKY PRIMAFILA MULTIVISION 1 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35141
-#EXTINF:-1, SKY PRIMAFILA MULTIVISION 2 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35140
-#EXTINF:-1, SKY PRIMAFILA WWE HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35139
-#EXTINF:-1, Vetrina Sky Primafila HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35160
-#EXTINF:-1, SKY PRIMAFILA 10 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/35149
-#EXTINF:-1, Sky Arte HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33435
-#EXTINF:-1, SKY UNO FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33434
-#EXTINF:-1, SKY UNO HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33433
-#EXTINF:-1, SKY ATLANTIC FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33432
-#EXTINF:-1, SKY ATLANTIC HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33431
-#EXTINF:-1, SKY FOX FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33430
-#EXTINF:-1, Sky Fox HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33429
-#EXTINF:-1, FOX COMEDY FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33428
-#EXTINF:-1, Fox Comedy
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33427
-#EXTINF:-1, FOX LIFE FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33426
-#EXTINF:-1, Sky Fox Life HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33425
-#EXTINF:-1, FOX CRIME FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33424
-#EXTINF:-1, Sky Fox Crime HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33423
-#EXTINF:-1, FOX CRIME GIALLO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33422
-#EXTINF:-1, CI Ivestigation FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33421
-#EXTINF:-1, Crime & Investigation  HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33420
-#EXTINF:-1, Crime & Investigation HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33419
-#EXTINF:-1, FOX ANIMATION FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33418
-#EXTINF:-1, fox Animation
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33417
-#EXTINF:-1, Comedy Central
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33416
-#EXTINF:-1, MTV FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33415
-#EXTINF:-1, MTV HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33414
-#EXTINF:-1, REAL TIME FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33413
-#EXTINF:-1, Real Time HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33412
-#EXTINF:-1, ALICE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33411
-#EXTINF:-1, LEI
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33410
-#EXTINF:-1, BLAZE FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33409
-#EXTINF:-1, BLAZE HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33408
-#EXTINF:-1, Focus
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33407
-#EXTINF:-1, Food Network
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33406
-#EXTINF:-1, Alpha
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33405
-#EXTINF:-1, DMAX HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33404
-#EXTINF:-1, Deejay TV HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33403
-#EXTINF:-1, Italian Fishing
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33402
-#EXTINF:-1, NAT GEO PEOPLE FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33401
-#EXTINF:-1, National Geo People
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33400
-#EXTINF:-1, DMAX FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33399
-#EXTINF:-1, Laeffe
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33398
-#EXTINF:-1, Dove TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33397
-#EXTINF:-1, Spike
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33396
-#EXTINF:-1, Discovery HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33395
-#EXTINF:-1, Discovery Science HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33394
-#EXTINF:-1, Gambero Rosso
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33393
-#EXTINF:-1, History HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33392
-#EXTINF:-1, NatGeo Wild HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33391
-#EXTINF:-1, National Geographic HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33390
-#EXTINF:-1, Dea Junior
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33389
-#EXTINF:-1, Dea Kids
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33388
-#EXTINF:-1, MARCOPOLO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33387
-#EXTINF:-1, Boing
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33386
-#EXTINF:-1, Rai Gulp
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33385
-#EXTINF:-1, Rai yoyo hd
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33384
-#EXTINF:-1, Super!
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33383
-#EXTINF:-1, Boomerang
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33382
-#EXTINF:-1, POP
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33381
-#EXTINF:-1, Cartoonito
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33380
-#EXTINF:-1, K2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33379
-#EXTINF:-1, frisbee
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33378
-#EXTINF:-1, Masha e Orso TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33377
-#EXTINF:-1, Paw Patrol TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33376
-#EXTINF:-1, Teen Titans TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33375
-#EXTINF:-1, Cartoon Network
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33374
-#EXTINF:-1, Disney HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33373
-#EXTINF:-1, Disney Jr
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33372
-#EXTINF:-1, Disney XD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33371
-#EXTINF:-1, Manga
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33370
-#EXTINF:-1, Nick Jr
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33369
-#EXTINF:-1, Nickelodeon
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33368
-#EXTINF:-1, Sky TG 24
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33367
-#EXTINF:-1, TG norba 24
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33366
-#EXTINF:-1, TGCOM24
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33365
-#EXTINF:-1, RAI NEWS 24
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33364
-#EXTINF:-1, MOTO GP FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33363
-#EXTINF:-1, NBA TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33362
-#EXTINF:-1, SKY SPORT 24 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33361
-#EXTINF:-1, Sky Sports 24 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33360
-#EXTINF:-1, SKY SPORT 1 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33359
-#EXTINF:-1, Sky Sports Uno HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33358
-#EXTINF:-1, SKY SPORT FOOTBALL FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33357
-#EXTINF:-1, SKY SPORT FOOTBALL HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33356
-#EXTINF:-1, Sky Sports Football HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33355
-#EXTINF:-1, SKY SPORT ARENA FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33354
-#EXTINF:-1, Sky Sports Arena HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33353
-#EXTINF:-1, SKY SPORT GOLF FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33352
-#EXTINF:-1, Sky Sports Golf HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33351
-#EXTINF:-1, SKY GOLF HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33350
-#EXTINF:-1, SKY Sport NBA FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33349
-#EXTINF:-1, Sky Sports NBA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33348
-#EXTINF:-1, SKY FORMULA 1 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33347
-#EXTINF:-1, Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33346
-#EXTINF:-1, Sky Moto GP HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33345
-#EXTINF:-1, SKY SPORT SERIE A FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33344
-#EXTINF:-1, Sky Sport Serie A HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33343
-#EXTINF:-1, SKY Sport 251 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33342
-#EXTINF:-1, SKY Sport 251 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33341
-#EXTINF:-1, Sky Calcio 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33340
-#EXTINF:-1, Sky Calcio 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33339
-#EXTINF:-1, Sky Calcio 3
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33338
-#EXTINF:-1, Sky Calcio 4
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33337
-#EXTINF:-1, Sky Calcio 5
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33336
-#EXTINF:-1, Sky Calcio 6
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33335
-#EXTINF:-1, Sky Calcio 7
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33334
-#EXTINF:-1, Inter Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33333
-#EXTINF:-1, Lazio Style
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33332
-#EXTINF:-1, Milan Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33331
-#EXTINF:-1, Roma Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33330
-#EXTINF:-1, Torino Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33329
-#EXTINF:-1, Bike Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33328
-#EXTINF:-1, Caccia & Pesca
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33327
-#EXTINF:-1, Caccia & Pesca 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33326
-#EXTINF:-1, Eurosport HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33325
-#EXTINF:-1, Eurosport 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33324
-#EXTINF:-1, Sportitalia
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33323
-#EXTINF:-1, Rai Sport  HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33322
-#EXTINF:-1, AUTOMOTO TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33321
-#EXTINF:-1, MONDO CALCIO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33320
-#EXTINF:-1, SUPERTENNIS
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33319
-#EXTINF:-1, MotorTrend
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33318
-#EXTINF:-1, TOP CALCIO 24
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33317
-#EXTINF:-1, UNIRESAT FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33316
-#EXTINF:-1, UNIRESAT HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33315
-#EXTINF:-1, CLASS HORSE TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33314
-#EXTINF:-1, TEST LEGA PRO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33313
-#EXTINF:-1, Padre Pio TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33312
-#EXTINF:-1, Campania Canale 8
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33311
-#EXTINF:-1, Campania Canale 21
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33310
-#EXTINF:-1, TV2000
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33309
-#EXTINF:-1, Puglia Antennasud Bari
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33308
-#EXTINF:-1, Puglia Canale 7
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33307
-#EXTINF:-1, Puglia Studio 100
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33306
-#EXTINF:-1, Puglia Telebari
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33305
-#EXTINF:-1, Classica HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33304
-#EXTINF:-1, RTL102.5TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33303
-#EXTINF:-1, R 101
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33302
-#EXTINF:-1, M2o
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33301
-#EXTINF:-1, radio 105 TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33300
-#EXTINF:-1, Radio Capital
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33299
-#EXTINF:-1, Radio Italia tv
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33298
-#EXTINF:-1, Radio Montecarlo TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33297
-#EXTINF:-1, Radiofreccia
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33296
-#EXTINF:-1, Radionorba tv
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33295
-#EXTINF:-1, Sicilia Radio Taormina TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33294
-#EXTINF:-1, Sicilia RadioTV Azzurra
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33293
-#EXTINF:-1, SKY ATLANTIC HD SOTTOTITOLI
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33292
-#EXTINF:-1, SKY ATLANTIC  1 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33291
-#EXTINF:-1, SKY ATLANTIC  1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33290
-#EXTINF:-1, GRANDE FRATELLO REGIA 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33289
-#EXTINF:-1, GRANDE FRATELLO REGIA 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33288
-#EXTINF:-1, GRANDE FRATELLO 1 ORA FA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33287
-#EXTINF:-1, CANALE 5 SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33286
-#EXTINF:-1, ITALIA 1 SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33285
-#EXTINF:-1, RAI 1 SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33284
-#EXTINF:-1, RAI 2 SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33283
-#EXTINF:-1, RAI 3 SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33282
-#EXTINF:-1, RETE 4 SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33281
-#EXTINF:-1, SKY Sport - (Diretta Gol) SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33280
-#EXTINF:-1, SKY Sport  SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33279
-#EXTINF:-1, SKY Sport SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33278
-#EXTINF:-1, FOX ANIMATION SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33277
-#EXTINF:-1, FOX COMEDY SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33276
-#EXTINF:-1, FOX CRIME SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33275
-#EXTINF:-1, FOX LIFE SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33274
-#EXTINF:-1, FOX SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33273
-#EXTINF:-1, SKU UNO SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33272
-#EXTINF:-1, SKY ATLANTIC SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33271
-#EXTINF:-1, Sky Cinema  24 SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33270
-#EXTINF:-1, SKY CINEMA 1 SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33269
-#EXTINF:-1, Sky Cinema Classic SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33268
-#EXTINF:-1, Sky Cinema Comedy SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33267
-#EXTINF:-1, Sky Cinema Cult SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33266
-#EXTINF:-1, Sky Cinema Family SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33265
-#EXTINF:-1, Sky Cinema Hits SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33264
-#EXTINF:-1, Sky Cinema Max SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33263
-#EXTINF:-1, Sky Cinema Passion SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33262
-#EXTINF:-1, Sky Formula 1 SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33261
-#EXTINF:-1, Sky Moto GP SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33260
-#EXTINF:-1, Sky Sport 24 SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33259
-#EXTINF:-1, Sky Sport Arena SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33258
-#EXTINF:-1, Sky Sport Football SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33257
-#EXTINF:-1, Sky Sport Golf SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33256
-#EXTINF:-1, Sky Sport NBA SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33255
-#EXTINF:-1, Sky Sport Serie A  SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33254
-#EXTINF:-1, Sky Sport Uno SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33253
-#EXTINF:-1, ALBERTO SORDI CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33252
-#EXTINF:-1, STEVEN SEAGAL CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33251
-#EXTINF:-1, HUNTIK ANIME CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33250
-#EXTINF:-1, ANIME CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33249
-#EXTINF:-1, MARVEL CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33248
-#EXTINF:-1, TOTO' CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33247
-#EXTINF:-1, APE MAIA 3D CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33246
-#EXTINF:-1, BOB AGGIUSTATUTTO CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33245
-#EXTINF:-1, BING CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33244
-#EXTINF:-1, Angelina Jolie Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33243
-#EXTINF:-1, biagio izzo channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33242
-#EXTINF:-1, aldo govanni e giacomo channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33241
-#EXTINF:-1, ALESSANDRO SIANI CHANNEL.
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33240
-#EXTINF:-1, Alvaro Vitali Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33239
-#EXTINF:-1, BELLE E SEBASTIEN CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33238
-#EXTINF:-1, Bud Spercer Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33237
-#EXTINF:-1, Boldi e De Sica Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33236
-#EXTINF:-1, GRIZZY AND THE LEMMINGS CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33235
-#EXTINF:-1, Chuck Norris Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33234
-#EXTINF:-1, Troisi Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33233
-#EXTINF:-1, Checco Zalone Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33232
-#EXTINF:-1, Celentano Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33231
-#EXTINF:-1, Carlo Verdone Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33230
-#EXTINF:-1, Clint Eastwood Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33229
-#EXTINF:-1, Jason Statham Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33228
-#EXTINF:-1, Dario Argento Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33227
-#EXTINF:-1, Jim Carrey Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33226
-#EXTINF:-1, Ficarra e Picone Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33225
-#EXTINF:-1, Gomorra St.1 Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33224
-#EXTINF:-1, Gomorra St.2 Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33223
-#EXTINF:-1, Gomorra St.3 Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33222
-#EXTINF:-1, Horror Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33221
-#EXTINF:-1, Franco Ciccio Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33220
-#EXTINF:-1, Lino Banfi Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33219
-#EXTINF:-1, Pozzetto Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33218
-#EXTINF:-1, MINI NINJAS CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33217
-#EXTINF:-1, LA CASA DELLE API CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33216
-#EXTINF:-1, MINI CUCCIOLI CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33215
-#EXTINF:-1, Nino D'Angelo Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33214
-#EXTINF:-1, HEIDY 3D CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33213
-#EXTINF:-1, Resident Evil Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33212
-#EXTINF:-1, Roberto Benigni Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33211
-#EXTINF:-1, Pieraccioni Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33210
-#EXTINF:-1, Villaggio Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33209
-#EXTINF:-1, Bruce Lee Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33208
-#EXTINF:-1, Nicholas Cage Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33207
-#EXTINF:-1, Diego Abatantuono Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33206
-#EXTINF:-1, ZORRO CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33205
-#EXTINF:-1, PIPPI CALZELUNGHE CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33204
-#EXTINF:-1, =======DAZN=======
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33203
-#EXTINF:-1, DAZN 1 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33202
-#EXTINF:-1, DAZN 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33201
-#EXTINF:-1, dazn 1 sat bar FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33200
-#EXTINF:-1, dazn 1 solo serie A HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33199
-#EXTINF:-1, dazn 1 solo serie A SD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33198
-#EXTINF:-1, DAZN 10 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33197
-#EXTINF:-1, DAZN 11 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33196
-#EXTINF:-1, DAZN 12 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33195
-#EXTINF:-1, DAZN 13 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33194
-#EXTINF:-1, DAZN 14 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33193
-#EXTINF:-1, DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33192
-#EXTINF:-1, DAZN 3 FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33191
-#EXTINF:-1, DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33190
-#EXTINF:-1, DAZN 4 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33189
-#EXTINF:-1, DAZN 5 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33188
-#EXTINF:-1, DAZN 6 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33187
-#EXTINF:-1, DAZN 7 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33186
-#EXTINF:-1, DAZN 8 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33185
-#EXTINF:-1, DAZN 9 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33184
-#EXTINF:-1, Dazn Sport Serie A HD SAT
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33183
-#EXTINF:-1, Dazn Sport Serie A SAT
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33182
-#EXTINF:-1, DIRETTA FOAL FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33181
-#EXTINF:-1, DIRETTA GOL HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33180
-#EXTINF:-1, ===== EAGLE CINEMA FHD =====
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33179
-#EXTINF:-1, Eagle Cinema Animazione FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33178
-#EXTINF:-1, Eagle Cinema Avventura FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33177
-#EXTINF:-1, Eagle Cinema Azione FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33176
-#EXTINF:-1, Eagle Cinema Comico Cult FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33175
-#EXTINF:-1, Eagle Cinema Commedia FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33174
-#EXTINF:-1, Eagle Cinema Drammatico FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33173
-#EXTINF:-1, Eagle Cinema Fantastico FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33172
-#EXTINF:-1, Eagle Cinema Film in Sala  FHD (qualita camera)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33171
-#EXTINF:-1, Eagle Cinema Horror FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33170
-#EXTINF:-1, Eagle Cinema Mitologia HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33169
-#EXTINF:-1, Eagle Cinema Passione FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33168
-#EXTINF:-1, Eagle Cinema Prima Visione FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33167
-#EXTINF:-1, Eagle Cinema Sorriso FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33166
-#EXTINF:-1, Eagle Cinema Storico FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33165
-#EXTINF:-1, Eagle Cinema Thriller FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33164
-#EXTINF:-1, Eagle Disney Topolino Paperino e Pippo HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33163
-#EXTINF:-1, Eagle Fiabe Magiche HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33162
-#EXTINF:-1, Eagle Le Fiabe Disney HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33161
-#EXTINF:-1, Eagle Looney Toons HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33160
-#EXTINF:-1, Eagle Masha e Orso HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33159
-#EXTINF:-1, Eagle Peppa Pig HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33158
-#EXTINF:-1,  ALBINOLEFFE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33157
-#EXTINF:-1,  ALBISSOLA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33156
-#EXTINF:-1,  ALESSANDRIA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33155
-#EXTINF:-1,  AREZZO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33154
-#EXTINF:-1,  ARZACHENA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33153
-#EXTINF:-1,  BISCEGLIE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33152
-#EXTINF:-1,  CARRARESE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33151
-#EXTINF:-1,  CASERTANA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33150
-#EXTINF:-1,  CATANIA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33149
-#EXTINF:-1,  CATANZARO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33148
-#EXTINF:-1,  CUNEO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33147
-#EXTINF:-1,  FANO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33146
-#EXTINF:-1,  FERALPISAL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33145
-#EXTINF:-1,  FERMANA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33144
-#EXTINF:-1,  GIANA ERMINIO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33143
-#EXTINF:-1,  GOZZANO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33142
-#EXTINF:-1,  GUBBIO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33141
-#EXTINF:-1,  IMOLESE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33140
-#EXTINF:-1,  JUVE STABIA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33139
-#EXTINF:-1,  JUVENTUS 23
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33138
-#EXTINF:-1,  LUCCHESE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33137
-#EXTINF:-1,  MATERA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33136
-#EXTINF:-1,  MONOPOLI
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33135
-#EXTINF:-1,  MONZA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33134
-#EXTINF:-1,  NOVARA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33133
-#EXTINF:-1,  OLBIA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33132
-#EXTINF:-1,  PAGANESE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33131
-#EXTINF:-1,  PIACENZA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33130
-#EXTINF:-1,  PISA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33129
-#EXTINF:-1,  PISTOIESE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33128
-#EXTINF:-1,  PONTEDERA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33127
-#EXTINF:-1,  PORDENONE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33126
-#EXTINF:-1,  POTENZA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33125
-#EXTINF:-1,  PRO VERCELLI
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33124
-#EXTINF:-1,  PROPATRIA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33123
-#EXTINF:-1,  RAVENNA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33122
-#EXTINF:-1,  REGGINA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33121
-#EXTINF:-1,  RENATE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33120
-#EXTINF:-1,  RENDE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33119
-#EXTINF:-1,  RIETI
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33118
-#EXTINF:-1,  RIMINI
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33117
-#EXTINF:-1,  SANBENEDETTESE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33116
-#EXTINF:-1,  SICULA LEONZIO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33115
-#EXTINF:-1,  SIENA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33114
-#EXTINF:-1,  SIRACUSA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33113
-#EXTINF:-1,  SUD TIROL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33112
-#EXTINF:-1,  TERAMO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33111
-#EXTINF:-1,  TERNANA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33110
-#EXTINF:-1,  TRAPANI
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33109
-#EXTINF:-1,  TRIESTINA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33108
-#EXTINF:-1,  VIBONESE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33107
-#EXTINF:-1,  VICENZA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33106
-#EXTINF:-1,  VIRTUS ENTELLA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33105
-#EXTINF:-1,  VIRTUS FRANCAVILLA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33104
-#EXTINF:-1,  VIRTUS VERONA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33103
-#EXTINF:-1,  VIS PESARO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33102
-#EXTINF:-1,  VITERBESE CASTRESE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/alix/alix/33101
+#EXTINF:-1,RAI 1 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33544
+#EXTINF:-1,Rai 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33543
+#EXTINF:-1,Rai 2 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33542
+#EXTINF:-1,Rai 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33541
+#EXTINF:-1,Rai 3 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33540
+#EXTINF:-1,RETE 4 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33539
+#EXTINF:-1,Rete 4 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33538
+#EXTINF:-1,CANALE 5 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33537
+#EXTINF:-1,CANALE 5 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33536
+#EXTINF:-1,ITALIA 1 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33535
+#EXTINF:-1,ITALIA 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33534
+#EXTINF:-1,LA 7HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33533
+#EXTINF:-1,LA7 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33532
+#EXTINF:-1,TV 8 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33531
+#EXTINF:-1,TV 8 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33530
+#EXTINF:-1,NOVE FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33529
+#EXTINF:-1,NOVE HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33528
+#EXTINF:-1,RSI La1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33527
+#EXTINF:-1,RSI La2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33526
+#EXTINF:-1,RAI 3 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33525
+#EXTINF:-1,TOP crime
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33524
+#EXTINF:-1,Iris
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33523
+#EXTINF:-1,cielo HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33522
+#EXTINF:-1,RAI 4 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33521
+#EXTINF:-1,RAI 5 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33520
+#EXTINF:-1,RAI Movie
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33519
+#EXTINF:-1,RAI Premium
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33518
+#EXTINF:-1,RAI Storia
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33517
+#EXTINF:-1,ITALIA 2
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33516
+#EXTINF:-1,LA 5 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33515
+#EXTINF:-1,LA 7 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33514
+#EXTINF:-1,Mediaset 20
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33513
+#EXTINF:-1,Mediaset Extra
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33512
+#EXTINF:-1,GIALLO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33511
+#EXTINF:-1,SKY CINEMA 1 HD LOCAL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33510
+#EXTINF:-1,SKY Cinema Uno
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33509
+#EXTINF:-1,Sky Cinema  1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33508
+#EXTINF:-1,Sky Cinema Uno  24 HD LOCAL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33507
+#EXTINF:-1,Sky Cinema Uno  24 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33506
+#EXTINF:-1,Sky Cinema Due HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33505
+#EXTINF:-1,SKY CINEMA DUE  24 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33504
+#EXTINF:-1,SKY CINEMA COMEDY HD LOCAL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33503
+#EXTINF:-1,Sky Cinema Comedy HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33502
+#EXTINF:-1,Sky Cinema Collection HD LOCAL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33501
+#EXTINF:-1,Sky Cinema Collection HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33500
+#EXTINF:-1,SKY CINEMA FAMILY HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33499
+#EXTINF:-1,SKY CINEMA DRAMA HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33498
+#EXTINF:-1,Sky Cinema Action HD LOCAL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33497
+#EXTINF:-1,Sky Cinema Action HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33496
+#EXTINF:-1,Sky Cinema Romance HD LOCAL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33495
+#EXTINF:-1,SKY CINEMA SUSPENSE HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33494
+#EXTINF:-1,SKY CINEMA UNO FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33493
+#EXTINF:-1,Sky Cinema Uno  24 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33492
+#EXTINF:-1,SKY CINEMA CULT FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33491
+#EXTINF:-1,SKY CINEMA DUE  24 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33490
+#EXTINF:-1,SKY CINEMA COMEDY FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33489
+#EXTINF:-1,SKY CINEMA COMEDY FHD  1
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33488
+#EXTINF:-1,Sky Cinema Collection FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33487
+#EXTINF:-1,Sky Cinema Collection FHD  1
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33486
+#EXTINF:-1,SKY CINEMA FAMILY FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33485
+#EXTINF:-1,Sky Cinema Romance HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33484
+#EXTINF:-1,SKY CINEMA DRAMA FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33483
+#EXTINF:-1,Sky Cinema Action FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33482
+#EXTINF:-1,Sky Cinema Romance FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33481
+#EXTINF:-1,SKY CINEMA ROMANCE FHD  1
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33480
+#EXTINF:-1,SKY CINEMA SUSPANCE FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33479
+#EXTINF:-1,Premium Cinema FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33478
+#EXTINF:-1,Premium Cinema HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33477
+#EXTINF:-1,PREMIUM CINEMA 24 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33476
+#EXTINF:-1,PREMIUM CINEMA 24 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33475
+#EXTINF:-1,PREMIUM ENERGY FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33474
+#EXTINF:-1,PREMIUM ENERGY HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33473
+#EXTINF:-1,PREMIUM COMEDY  FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33472
+#EXTINF:-1,Premium Cinema Comedy
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33471
+#EXTINF:-1,PREMIUM ACTION FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33470
+#EXTINF:-1,Premium Action
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33469
+#EXTINF:-1,PREMIUM STORIES FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33468
+#EXTINF:-1,Premium Stories
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33467
+#EXTINF:-1,PREMIUM EMOTION FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33466
+#EXTINF:-1,Premium Cinema Emotion
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33465
+#EXTINF:-1,PREMIUM CRIME FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33464
+#EXTINF:-1,Premium Crime
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33463
+#EXTINF:-1,PREMIUM JOY FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33462
+#EXTINF:-1,Premium Joy
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33461
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33460
+#EXTINF:-1,PRIMAFILA 1-2 FHD - Venom
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33459
+#EXTINF:-1,PRIMAFILA 1-2 HD - Venom
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33458
+#EXTINF:-1,PRIMAFILA 3 FHD -The Predator
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33457
+#EXTINF:-1,PRIMAFILA 3 HD - THE PREDATOR
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33456
+#EXTINF:-1,PRIMAFILA 4 FHD - The Predator
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33455
+#EXTINF:-1,PRIMAFILA 4 HD THE PREDATOR
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33454
+#EXTINF:-1,PRIMAFILA 5-6 FHD Gli Incredibili-2
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33453
+#EXTINF:-1,PRIMAFILA 5-6 HD Gli Incredibili-2
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33452
+#EXTINF:-1,PRIMAFILA 7-8 FHD - A Star Is Born
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33451
+#EXTINF:-1,PRIMAFILA 7-8 HD  A Star Is Born
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33450
+#EXTINF:-1,PRIMAFILA 9 FHD - JOHNNY ENGLISH COLPISCE ANCORA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33449
+#EXTINF:-1,PRIMAFILA 9 HD - JOHNNY ENGLISH COLPISCE ANCORA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33448
+#EXTINF:-1,PRIMAFILA 10-11 FHD - Smallfoot Il mio amico delle nevi
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33447
+#EXTINF:-1,PRIMAFILA 10-11 HD - Smallfoot Il mio amico delle nevi
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33446
+#EXTINF:-1,PRIMAFILA 12-13 FHD - Gotti - Il primo padrino
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33445
+#EXTINF:-1,PRIMAFILA 12-13 HD - Gotti - Il primo padrino
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33444
+#EXTINF:-1,PRIMAFILA 14 FHD -il verdetto
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33443
+#EXTINF:-1,PRIMAFILA 14 HD - Il Verdetto
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33442
+#EXTINF:-1,PRIMAFILA 15 FHD - HOTEL TRANSYLVANIA 3
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33441
+#EXTINF:-1,PRIMAFILA 15 HD - HOTEL TRANSYLVANIA 3
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33440
+#EXTINF:-1,PRIMAFILA 16-17 FHD - SEARCHING
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33439
+#EXTINF:-1,PRIMAFILA 16-17 HD - SEARCHING
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33438
+#EXTINF:-1,PRIMAFILA 18 FHD - Teen Titans Go Il film
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33437
+#EXTINF:-1,PRIMAFILA 18 HD - Teen Titans Go Il film
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33436
+#EXTINF:-1,Sky Arte HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33435
+#EXTINF:-1,SKY UNO FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33434
+#EXTINF:-1,SKY UNO HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33433
+#EXTINF:-1,SKY ATLANTIC FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33432
+#EXTINF:-1,SKY ATLANTIC HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33431
+#EXTINF:-1,SKY FOX FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33430
+#EXTINF:-1,Sky Fox HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33429
+#EXTINF:-1,FOX COMEDY FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33428
+#EXTINF:-1,Fox Comedy
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33427
+#EXTINF:-1,FOX LIFE FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33426
+#EXTINF:-1,Sky Fox Life HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33425
+#EXTINF:-1,FOX CRIME FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33424
+#EXTINF:-1,Sky Fox Crime HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33423
+#EXTINF:-1,FOX CRIME GIALLO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33422
+#EXTINF:-1,CI Ivestigation FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33421
+#EXTINF:-1,Crime & Investigation  HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33420
+#EXTINF:-1,Crime & Investigation HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33419
+#EXTINF:-1,FOX ANIMATION FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33418
+#EXTINF:-1,fox Animation
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33417
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33416
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33415
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33414
+#EXTINF:-1,REAL TIME FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33413
+#EXTINF:-1,Real Time HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33412
+#EXTINF:-1,ALICE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33411
+#EXTINF:-1,LEI
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33410
+#EXTINF:-1,BLAZE FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33409
+#EXTINF:-1,BLAZE HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33408
+#EXTINF:-1,Focus
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33407
+#EXTINF:-1,Food Network
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33406
+#EXTINF:-1,Alpha
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33405
+#EXTINF:-1,DMAX HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33404
+#EXTINF:-1,Deejay TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33403
+#EXTINF:-1,Italian Fishing
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33402
+#EXTINF:-1,NAT GEO PEOPLE FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33401
+#EXTINF:-1,National Geo People
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33400
+#EXTINF:-1,DMAX FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33399
+#EXTINF:-1,Laeffe
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33398
+#EXTINF:-1,Dove TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33397
+#EXTINF:-1,Spike
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33396
+#EXTINF:-1,Discovery HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33395
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33394
+#EXTINF:-1,Gambero Rosso
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33393
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33392
+#EXTINF:-1,NatGeo Wild HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33391
+#EXTINF:-1,National Geographic HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33390
+#EXTINF:-1,Dea Junior
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33389
+#EXTINF:-1,Dea Kids
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33388
+#EXTINF:-1,MARCOPOLO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33387
+#EXTINF:-1,Boing
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33386
+#EXTINF:-1,Rai Gulp
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33385
+#EXTINF:-1,Rai yoyo hd
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33384
+#EXTINF:-1,Super!
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33383
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33382
+#EXTINF:-1,POP
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33381
+#EXTINF:-1,Cartoonito
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33380
+#EXTINF:-1,K2
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33379
+#EXTINF:-1,frisbee
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33378
+#EXTINF:-1,Masha e Orso TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33377
+#EXTINF:-1,Paw Patrol TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33376
+#EXTINF:-1,Teen Titans TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33375
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33374
+#EXTINF:-1,Disney HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33373
+#EXTINF:-1,Disney Jr
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33372
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33371
+#EXTINF:-1,Manga
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33370
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33369
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33368
+#EXTINF:-1,Sky TG 24
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33367
+#EXTINF:-1,TG norba 24
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33366
+#EXTINF:-1,TGCOM24
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33365
+#EXTINF:-1,RAI NEWS 24
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33364
+#EXTINF:-1,MOTO GP FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33363
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33362
+#EXTINF:-1,SKY SPORT 24 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33361
+#EXTINF:-1,Sky Sports 24 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33360
+#EXTINF:-1,SKY SPORT 1 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33359
+#EXTINF:-1,Sky Sports Uno HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33358
+#EXTINF:-1,SKY SPORT FOOTBALL FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33357
+#EXTINF:-1,SKY SPORT FOOTBALL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33356
+#EXTINF:-1,Sky Sports Football HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33355
+#EXTINF:-1,SKY SPORT ARENA FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33354
+#EXTINF:-1,Sky Sports Arena HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33353
+#EXTINF:-1,SKY SPORT GOLF FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33352
+#EXTINF:-1,Sky Sports Golf HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33351
+#EXTINF:-1,SKY GOLF HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33350
+#EXTINF:-1,SKY Sport NBA FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33349
+#EXTINF:-1,Sky Sports NBA HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33348
+#EXTINF:-1,SKY FORMULA 1 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33347
+#EXTINF:-1,Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33346
+#EXTINF:-1,Sky Moto GP HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33345
+#EXTINF:-1,SKY SPORT SERIE A FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33344
+#EXTINF:-1,Sky Sport Serie A HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33343
+#EXTINF:-1,SKY Sport 251 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33342
+#EXTINF:-1,SKY Sport 251 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33341
+#EXTINF:-1,Sky Calcio 1
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33340
+#EXTINF:-1,Sky Calcio 2
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33339
+#EXTINF:-1,Sky Calcio 3
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33338
+#EXTINF:-1,Sky Calcio 4
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33337
+#EXTINF:-1,Sky Calcio 5
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33336
+#EXTINF:-1,Sky Calcio 6
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33335
+#EXTINF:-1,Sky Calcio 7
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33334
+#EXTINF:-1,Inter Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33333
+#EXTINF:-1,Lazio Style
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33332
+#EXTINF:-1,Milan Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33331
+#EXTINF:-1,Roma Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33330
+#EXTINF:-1,Torino Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33329
+#EXTINF:-1,Bike Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33328
+#EXTINF:-1,Caccia & Pesca
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33327
+#EXTINF:-1,Caccia & Pesca 2
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33326
+#EXTINF:-1,Eurosport HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33325
+#EXTINF:-1,Eurosport 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33324
+#EXTINF:-1,Sportitalia
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33323
+#EXTINF:-1,Rai Sport  HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33322
+#EXTINF:-1,AUTOMOTO TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33321
+#EXTINF:-1,MONDO CALCIO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33320
+#EXTINF:-1,SUPERTENNIS
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33319
+#EXTINF:-1,MotorTrend
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33318
+#EXTINF:-1,TOP CALCIO 24
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33317
+#EXTINF:-1,UNIRESAT FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33316
+#EXTINF:-1,UNIRESAT HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33315
+#EXTINF:-1,CLASS HORSE TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33314
+#EXTINF:-1,TEST LEGA PRO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33313
+#EXTINF:-1,Padre Pio TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33312
+#EXTINF:-1,Campania Canale 8
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33311
+#EXTINF:-1,Campania Canale 21
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33310
+#EXTINF:-1,TV2000
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33309
+#EXTINF:-1,Puglia Antennasud Bari
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33308
+#EXTINF:-1,Puglia Canale 7
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33307
+#EXTINF:-1,Puglia Studio 100
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33306
+#EXTINF:-1,Puglia Telebari
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33305
+#EXTINF:-1,Classica HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33304
+#EXTINF:-1,RTL102.5TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33303
+#EXTINF:-1,R 101
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33302
+#EXTINF:-1,M2o
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33301
+#EXTINF:-1,radio 105 TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33300
+#EXTINF:-1,Radio Capital
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33299
+#EXTINF:-1,Radio Italia tv
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33298
+#EXTINF:-1,Radio Montecarlo TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33297
+#EXTINF:-1,Radiofreccia
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33296
+#EXTINF:-1,Radionorba tv
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33295
+#EXTINF:-1,Sicilia Radio Taormina TV
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33294
+#EXTINF:-1,Sicilia RadioTV Azzurra
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33293
+#EXTINF:-1,SKY ATLANTIC HD SOTTOTITOLI
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33292
+#EXTINF:-1,SKY ATLANTIC  1 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33291
+#EXTINF:-1,SKY ATLANTIC  1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33290
+#EXTINF:-1,GRANDE FRATELLO REGIA 1
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33289
+#EXTINF:-1,GRANDE FRATELLO REGIA 2
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33288
+#EXTINF:-1,GRANDE FRATELLO 1 ORA FA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33287
+#EXTINF:-1,CANALE 5 SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33286
+#EXTINF:-1,ITALIA 1 SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33285
+#EXTINF:-1,RAI 1 SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33284
+#EXTINF:-1,RAI 2 SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33283
+#EXTINF:-1,RAI 3 SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33282
+#EXTINF:-1,RETE 4 SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33281
+#EXTINF:-1,SKY Sport - (Diretta Gol) SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33280
+#EXTINF:-1,SKY Sport  SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33279
+#EXTINF:-1,SKY Sport SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33278
+#EXTINF:-1,FOX ANIMATION SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33277
+#EXTINF:-1,FOX COMEDY SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33276
+#EXTINF:-1,FOX CRIME SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33275
+#EXTINF:-1,FOX LIFE SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33274
+#EXTINF:-1,FOX SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33273
+#EXTINF:-1,SKU UNO SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33272
+#EXTINF:-1,SKY ATLANTIC SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33271
+#EXTINF:-1,Sky Cinema  24 SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33270
+#EXTINF:-1,SKY CINEMA 1 SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33269
+#EXTINF:-1,Sky Cinema Classic SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33268
+#EXTINF:-1,Sky Cinema Comedy SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33267
+#EXTINF:-1,Sky Cinema Cult SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33266
+#EXTINF:-1,Sky Cinema Family SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33265
+#EXTINF:-1,Sky Cinema Hits SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33264
+#EXTINF:-1,Sky Cinema Max SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33263
+#EXTINF:-1,Sky Cinema Passion SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33262
+#EXTINF:-1,Sky Formula 1 SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33261
+#EXTINF:-1,Sky Moto GP SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33260
+#EXTINF:-1,Sky Sport 24 SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33259
+#EXTINF:-1,Sky Sport Arena SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33258
+#EXTINF:-1,Sky Sport Football SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33257
+#EXTINF:-1,Sky Sport Golf SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33256
+#EXTINF:-1,Sky Sport NBA SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33255
+#EXTINF:-1,Sky Sport Serie A  SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33254
+#EXTINF:-1,Sky Sport Uno SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33253
+#EXTINF:-1,ALBERTO SORDI CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33252
+#EXTINF:-1,STEVEN SEAGAL CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33251
+#EXTINF:-1,HUNTIK ANIME CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33250
+#EXTINF:-1,ANIME CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33249
+#EXTINF:-1,MARVEL CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33248
+#EXTINF:-1,TOTO' CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33247
+#EXTINF:-1,APE MAIA 3D CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33246
+#EXTINF:-1,BOB AGGIUSTATUTTO CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33245
+#EXTINF:-1,BING CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33244
+#EXTINF:-1,Angelina Jolie Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33243
+#EXTINF:-1,biagio izzo channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33242
+#EXTINF:-1,aldo govanni e giacomo channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33241
+#EXTINF:-1,ALESSANDRO SIANI CHANNEL.
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33240
+#EXTINF:-1,Alvaro Vitali Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33239
+#EXTINF:-1,BELLE E SEBASTIEN CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33238
+#EXTINF:-1,Bud Spercer Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33237
+#EXTINF:-1,Boldi e De Sica Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33236
+#EXTINF:-1,GRIZZY AND THE LEMMINGS CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33235
+#EXTINF:-1,Chuck Norris Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33234
+#EXTINF:-1,Troisi Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33233
+#EXTINF:-1,Checco Zalone Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33232
+#EXTINF:-1,Celentano Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33231
+#EXTINF:-1,Carlo Verdone Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33230
+#EXTINF:-1,Clint Eastwood Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33229
+#EXTINF:-1,Jason Statham Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33228
+#EXTINF:-1,Dario Argento Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33227
+#EXTINF:-1,Jim Carrey Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33226
+#EXTINF:-1,Ficarra e Picone Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33225
+#EXTINF:-1,Gomorra St.1 Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33224
+#EXTINF:-1,Gomorra St.2 Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33223
+#EXTINF:-1,Gomorra St.3 Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33222
+#EXTINF:-1,Horror Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33221
+#EXTINF:-1,Franco Ciccio Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33220
+#EXTINF:-1,Lino Banfi Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33219
+#EXTINF:-1,Pozzetto Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33218
+#EXTINF:-1,MINI NINJAS CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33217
+#EXTINF:-1,LA CASA DELLE API CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33216
+#EXTINF:-1,MINI CUCCIOLI CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33215
+#EXTINF:-1,Nino D'Angelo Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33214
+#EXTINF:-1,HEIDY 3D CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33213
+#EXTINF:-1,Resident Evil Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33212
+#EXTINF:-1,Roberto Benigni Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33211
+#EXTINF:-1,Pieraccioni Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33210
+#EXTINF:-1,Villaggio Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33209
+#EXTINF:-1,Bruce Lee Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33208
+#EXTINF:-1,Nicholas Cage Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33207
+#EXTINF:-1,Diego Abatantuono Channel
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33206
+#EXTINF:-1,ZORRO CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33205
+#EXTINF:-1,PIPPI CALZELUNGHE CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33204
+#EXTINF:-1,=======DAZN=======
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33203
+#EXTINF:-1,DAZN 1 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33202
+#EXTINF:-1,DAZN 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33201
+#EXTINF:-1,dazn 1 sat bar FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33200
+#EXTINF:-1,dazn 1 solo serie A HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33199
+#EXTINF:-1,dazn 1 solo serie A SD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33198
+#EXTINF:-1,DAZN 10 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33197
+#EXTINF:-1,DAZN 11 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33196
+#EXTINF:-1,DAZN 12 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33195
+#EXTINF:-1,DAZN 13 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33194
+#EXTINF:-1,DAZN 14 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33193
+#EXTINF:-1,DAZN 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33192
+#EXTINF:-1,DAZN 3 FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33191
+#EXTINF:-1,DAZN 3 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33190
+#EXTINF:-1,DAZN 4 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33189
+#EXTINF:-1,DAZN 5 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33188
+#EXTINF:-1,DAZN 6 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33187
+#EXTINF:-1,DAZN 7 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33186
+#EXTINF:-1,DAZN 8 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33185
+#EXTINF:-1,DAZN 9 HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33184
+#EXTINF:-1,Dazn Sport Serie A HD SAT
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33183
+#EXTINF:-1,Dazn Sport Serie A SAT
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33182
+#EXTINF:-1,DIRETTA FOAL FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33181
+#EXTINF:-1,DIRETTA GOL HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33180
+#EXTINF:-1,===== EAGLE CINEMA FHD =====
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33179
+#EXTINF:-1,Eagle Cinema Animazione FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33178
+#EXTINF:-1,Eagle Cinema Avventura FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33177
+#EXTINF:-1,Eagle Cinema Azione FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33176
+#EXTINF:-1,Eagle Cinema Comico Cult FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33175
+#EXTINF:-1,Eagle Cinema Commedia FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33174
+#EXTINF:-1,Eagle Cinema Drammatico FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33173
+#EXTINF:-1,Eagle Cinema Fantastico FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33172
+#EXTINF:-1,Eagle Cinema Film in Sala  FHD (qualita camera)
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33171
+#EXTINF:-1,Eagle Cinema Horror FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33170
+#EXTINF:-1,Eagle Cinema Mitologia HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33169
+#EXTINF:-1,Eagle Cinema Passione FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33168
+#EXTINF:-1,Eagle Cinema Prima Visione FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33167
+#EXTINF:-1,Eagle Cinema Sorriso FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33166
+#EXTINF:-1,Eagle Cinema Storico FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33165
+#EXTINF:-1,Eagle Cinema Thriller FHD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33164
+#EXTINF:-1,Eagle Disney Topolino Paperino e Pippo HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33163
+#EXTINF:-1,Eagle Fiabe Magiche HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33162
+#EXTINF:-1,Eagle Le Fiabe Disney HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33161
+#EXTINF:-1,Eagle Looney Toons HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33160
+#EXTINF:-1,Eagle Masha e Orso HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33159
+#EXTINF:-1,Eagle Peppa Pig HD
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33158
+#EXTINF:-1,ALBINOLEFFE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33157
+#EXTINF:-1,ALBISSOLA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33156
+#EXTINF:-1,ALESSANDRIA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33155
+#EXTINF:-1,AREZZO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33154
+#EXTINF:-1,ARZACHENA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33153
+#EXTINF:-1,BISCEGLIE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33152
+#EXTINF:-1,CARRARESE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33151
+#EXTINF:-1,CASERTANA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33150
+#EXTINF:-1,CATANIA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33149
+#EXTINF:-1,CATANZARO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33148
+#EXTINF:-1,CUNEO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33147
+#EXTINF:-1,FANO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33146
+#EXTINF:-1,FERALPISAL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33145
+#EXTINF:-1,FERMANA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33144
+#EXTINF:-1,GIANA ERMINIO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33143
+#EXTINF:-1,GOZZANO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33142
+#EXTINF:-1,GUBBIO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33141
+#EXTINF:-1,IMOLESE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33140
+#EXTINF:-1,JUVE STABIA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33139
+#EXTINF:-1,JUVENTUS 23
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33138
+#EXTINF:-1,LUCCHESE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33137
+#EXTINF:-1,MATERA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33136
+#EXTINF:-1,MONOPOLI
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33135
+#EXTINF:-1,MONZA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33134
+#EXTINF:-1,NOVARA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33133
+#EXTINF:-1,OLBIA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33132
+#EXTINF:-1,PAGANESE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33131
+#EXTINF:-1,PIACENZA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33130
+#EXTINF:-1,PISA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33129
+#EXTINF:-1,PISTOIESE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33128
+#EXTINF:-1,PONTEDERA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33127
+#EXTINF:-1,PORDENONE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33126
+#EXTINF:-1,POTENZA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33125
+#EXTINF:-1,PRO VERCELLI
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33124
+#EXTINF:-1,PROPATRIA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33123
+#EXTINF:-1,RAVENNA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33122
+#EXTINF:-1,REGGINA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33121
+#EXTINF:-1,RENATE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33120
+#EXTINF:-1,RENDE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33119
+#EXTINF:-1,RIETI
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33118
+#EXTINF:-1,RIMINI
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33117
+#EXTINF:-1,SANBENEDETTESE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33116
+#EXTINF:-1,SICULA LEONZIO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33115
+#EXTINF:-1,SIENA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33114
+#EXTINF:-1,SIRACUSA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33113
+#EXTINF:-1,SUD TIROL
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33112
+#EXTINF:-1,TERAMO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33111
+#EXTINF:-1,TERNANA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33110
+#EXTINF:-1,TRAPANI
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33109
+#EXTINF:-1,TRIESTINA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33108
+#EXTINF:-1,VIBONESE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33107
+#EXTINF:-1,VICENZA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33106
+#EXTINF:-1,VIRTUS ENTELLA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33105
+#EXTINF:-1,VIRTUS FRANCAVILLA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33104
+#EXTINF:-1,VIRTUS VERONA
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33103
+#EXTINF:-1,VIS PESARO
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33102
+#EXTINF:-1,VITERBESE CASTRESE
+plugin://plugin.video.f4mTester/?name=Sunrise Tv&streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/Majeed/Majeed/33101
