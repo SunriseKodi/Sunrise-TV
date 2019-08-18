@@ -1,1121 +1,1294 @@
 #EXTM3U
+
 #EXTINF:-1,[COLOR lime][/COLOR]
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/Ublfrind/vipuser5t65y/206989
-#EXTINF:-1, ART AFLAM 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125724
-#EXTINF:-1, ART CINEMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125723
-#EXTINF:-1, ART HEKAYAT 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125722
-#EXTINF:-1,| 2M MA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126137
-#EXTINF:-1,| 2M Maroc monde
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126138
-#EXTINF:-1,| ABN Sat
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126124
-#EXTINF:-1,| Abu Dhabi Drama HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126123
-#EXTINF:-1,| Abu Dhabi HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126122
-#EXTINF:-1,| Abu Dhabi Sport 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126121
-#EXTINF:-1,| Abu Dhabi Sport 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126120
-#EXTINF:-1,| AD Al Emarat HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126119
-#EXTINF:-1,| AD Drama HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126118
-#EXTINF:-1,| Aden TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126117
-#EXTINF:-1,| Afaq TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126116
-#EXTINF:-1,| AFLAM 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126115
-#EXTINF:-1,| AFLAM MAGHRIBIA 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126128
-#EXTINF:-1,| Afrah TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126114
-#EXTINF:-1,| Aghanina Music
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126113
-#EXTINF:-1,| Aghapy TV HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126112
-#EXTINF:-1,| Ahel Al Quran
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126111
-#EXTINF:-1,| Ahlulbayt tv English
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126110
-#EXTINF:-1,| Ajial
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126109
-#EXTINF:-1,| AJMAN TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126108
-#EXTINF:-1,| AL AAN
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126107
-#EXTINF:-1,| Al Aflam
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126106
-#EXTINF:-1,| Al Ahd
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126105
-#EXTINF:-1,| Al AhrTV (Libya)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126104
-#EXTINF:-1,| Al Amaken Drama
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126103
-#EXTINF:-1,| Al Anbar
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126102
-#EXTINF:-1,| Al Anis TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126101
-#EXTINF:-1,| Al AnwTV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126100
-#EXTINF:-1,| Al Aqsa TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126099
-#EXTINF:-1,| Al Arabia News
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126098
-#EXTINF:-1,| AL ARABIYA AL HADATH
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126097
-#EXTINF:-1,| Al Araby HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126096
-#EXTINF:-1,| AL BAIT BAITAK CINEMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126095
-#EXTINF:-1,| AL balad 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126094
-#EXTINF:-1,| Al Baser
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126093
-#EXTINF:-1,| Al Diyar
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126092
-#EXTINF:-1,| Al Ekhbaria Saudi
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126091
-#EXTINF:-1,| Al Emarat HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126090
-#EXTINF:-1,| Al Forat TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126089
-#EXTINF:-1,| AL GERIA 3
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126088
-#EXTINF:-1,| AL HADATH
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126087
-#EXTINF:-1,| Al Hadath Al Youm
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126086
-#EXTINF:-1,| Al Haqiqa
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126085
-#EXTINF:-1,| AL HAYAT HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126084
-#EXTINF:-1,| AL HAYAT MUSALSALAT
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126083
-#EXTINF:-1,| Al HiwNews
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126082
-#EXTINF:-1,| Al Hurra Iraq
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126081
-#EXTINF:-1,| Al Ikhbaria Syria
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126080
-#EXTINF:-1,| Al IMAN TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126079
-#EXTINF:-1,| Al Iraqia News
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126078
-#EXTINF:-1,| Al Istiqama
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126077
-#EXTINF:-1,| Al Itejah TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126076
-#EXTINF:-1,| AL JADEED
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126075
-#EXTINF:-1,| Al Janoubia TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126074
-#EXTINF:-1,| AL JAZEERA DOCUMENT
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126073
-#EXTINF:-1,| Al Jazeera English HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126072
-#EXTINF:-1,| Al Jazeera HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126071
-#EXTINF:-1,| AL JAZEERA MUBASHER
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126070
-#EXTINF:-1,| Al Kahera Wal Nas 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126069
-#EXTINF:-1,| Al Maddinah
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126068
-#EXTINF:-1,| AL MAGHARABIA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126067
-#EXTINF:-1,| AL MAGHARIBIA 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126066
-#EXTINF:-1,| Al Maher
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126065
-#EXTINF:-1,| AL MAJD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126064
-#EXTINF:-1,| Al Majd 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126063
-#EXTINF:-1,| Al Majd 3
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126062
-#EXTINF:-1,| Al Majd Kids HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126061
-#EXTINF:-1,| AL MANTV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126060
-#EXTINF:-1,| Al Masriya
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126059
-#EXTINF:-1,| AL MASSAL OULA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126058
-#EXTINF:-1,| AL MAYADEEN
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126057
-#EXTINF:-1,| Al MEHWTV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126056
-#EXTINF:-1,| Al NahTV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126055
-#EXTINF:-1,| AL NOOR
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126054
-#EXTINF:-1,| Al Noujaba
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126053
-#EXTINF:-1,| Al Qahira Wa Nas 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126052
-#EXTINF:-1,| Al Qahira Wa Nas 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126051
-#EXTINF:-1,| Al qanat 9
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126050
-#EXTINF:-1,| Al Quds
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126049
-#EXTINF:-1,| Al Rahmat tv
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126048
-#EXTINF:-1,| Al Rayan
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126047
-#EXTINF:-1,| AL Resala
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126046
-#EXTINF:-1,| Al Salam TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126045
-#EXTINF:-1,| Al Saudi 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126044
-#EXTINF:-1,| AL SERAJ
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126043
-#EXTINF:-1,| Al Sharqiya News HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126042
-#EXTINF:-1,| AL Sharquia HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126041
-#EXTINF:-1,| Al Sirat TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126040
-#EXTINF:-1,| Al Sumaria TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126039
-#EXTINF:-1,| Al Thanya
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126038
-#EXTINF:-1,| Al Waha TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126037
-#EXTINF:-1,| Alaan TV Lebanon
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126036
-#EXTINF:-1,| AlAfasy TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126035
-#EXTINF:-1,| ALALAM NEWS
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126034
-#EXTINF:-1,| AlARABIA ALHADATH
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126033
-#EXTINF:-1,| AlArabiya HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126032
-#EXTINF:-1,| AlBaghdadia
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126031
-#EXTINF:-1,| Alerth Alnabawi
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126030
-#EXTINF:-1,| Alerth Alnbawi
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126029
-#EXTINF:-1,| AlFadjr
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126028
-#EXTINF:-1,| AlFadjr 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126027
-#EXTINF:-1,| AlFAJR 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126026
-#EXTINF:-1,| ALFATH Quran
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126025
-#EXTINF:-1,| Algerie 3
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126024
-#EXTINF:-1,| Algerie 4
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126023
-#EXTINF:-1,| Algerie 5
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126022
-#EXTINF:-1,| AlGhad Al Mushreq
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126021
-#EXTINF:-1,| Alhadath News
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126020
-#EXTINF:-1,| Alhayah
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126019
-#EXTINF:-1,| Alhayah 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126018
-#EXTINF:-1,| Alhayah Alaan
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126017
-#EXTINF:-1,| Alhayah Muslsalat
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126016
-#EXTINF:-1,| AlHiwElTounsi
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126015
-#EXTINF:-1,| AlInsen TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126014
-#EXTINF:-1,| AlJadeed (LEB)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126013
-#EXTINF:-1,| AlJazaairia
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126012
-#EXTINF:-1,| ALJAZAYER 3
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126011
-#EXTINF:-1,| AlJazeera Arabic
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126010
-#EXTINF:-1,| AlJazeera Documentary HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126009
-#EXTINF:-1,| AlJazeera Mobasher
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126008
-#EXTINF:-1,| AlJazeera NEWS (EN)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126007
-#EXTINF:-1,| Aljessr
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126006
-#EXTINF:-1,| Alkalema
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126005
-#EXTINF:-1,| AlKass 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126004
-#EXTINF:-1,| AlKass 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126003
-#EXTINF:-1,| Alkass 3 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126002
-#EXTINF:-1,| Alkass 4 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126001
-#EXTINF:-1,| Alkass 5 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126000
-#EXTINF:-1,| AlKhalij TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125999
-#EXTINF:-1,| ALKOFIYA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125998
-#EXTINF:-1,| AlMaaly
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125997
-#EXTINF:-1,| AlMagharibia Two
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125996
-#EXTINF:-1,| AlMan(LEB)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125995
-#EXTINF:-1,| Almasriyah (EGY)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125994
-#EXTINF:-1,| AlMawsleya TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125993
-#EXTINF:-1,| ALMAYADEEN (LEB)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125992
-#EXTINF:-1,| ALMAZIGHE 4
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125991
-#EXTINF:-1,| AlMINBTV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125990
-#EXTINF:-1,| almocasaleye
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125989
-#EXTINF:-1,| ALMOURABITOUNE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125988
-#EXTINF:-1,| AlMustakila TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125987
-#EXTINF:-1,| AlNah(ALG)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125986
-#EXTINF:-1,| AlNah(EGY)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125985
-#EXTINF:-1,| AlnahCinema
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125984
-#EXTINF:-1,| Alnas Tv
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125983
-#EXTINF:-1,| ALOLA MA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126136
-#EXTINF:-1,| AlQAMAR
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125982
-#EXTINF:-1,| Alquran Mekka
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125981
-#EXTINF:-1,| Alrafiden
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125980
-#EXTINF:-1,| AlRahmah
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125979
-#EXTINF:-1,| ALRAI TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125978
-#EXTINF:-1,| AlSA3A AFLAM
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125977
-#EXTINF:-1,| AlSaeedah
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125976
-#EXTINF:-1,| AlSeha Waljamal
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125975
-#EXTINF:-1,| ALSHARJAH
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125974
-#EXTINF:-1,| Alsharq
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125973
-#EXTINF:-1,| AlSHASHA CINEMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125972
-#EXTINF:-1,| Alshouroq Sudan
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125971
-#EXTINF:-1,| ALTARIGH
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125970
-#EXTINF:-1,| AlTounsia TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125969
-#EXTINF:-1,| altunisia WATAN 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125968
-#EXTINF:-1,| AlTurkmania TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125967
-#EXTINF:-1,| ALWATANEYE 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125966
-#EXTINF:-1,| Alyaum TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125965
-#EXTINF:-1,| AMGHRBIA MA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126133
-#EXTINF:-1,| Amman TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125964
-#EXTINF:-1,| ANB iraq
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125963
-#EXTINF:-1,| ANN News
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125962
-#EXTINF:-1,| Ann TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125961
-#EXTINF:-1,| ANNAJAH NBC
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125960
-#EXTINF:-1,| Aoula Maroc HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125959
-#EXTINF:-1,| ARABICA MUSIC
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125958
-#EXTINF:-1,| ART Aflam 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125957
-#EXTINF:-1,| ART AFLAM 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125956
-#EXTINF:-1,| ART Cinema
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125955
-#EXTINF:-1,| ART Hekayat 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125954
-#EXTINF:-1,| ART Hekayat 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125953
-#EXTINF:-1,| ARYADIA MA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126131
-#EXTINF:-1,| Asia TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125952
-#EXTINF:-1,| ASSABIAA films MA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126127
-#EXTINF:-1,| ASSADISA MA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126132
-#EXTINF:-1,| Atfal & Mawaheb
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125951
-#EXTINF:-1,| Athagavia (MR)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125950
-#EXTINF:-1,| Attassia TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125949
-#EXTINF:-1,| AYAAT
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125948
-#EXTINF:-1,| Azhari TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125947
-#EXTINF:-1,| B4U AFLAM
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125946
-#EXTINF:-1,| B4U Plus
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125945
-#EXTINF:-1,| Baghdad TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125944
-#EXTINF:-1,| Bahia TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125943
-#EXTINF:-1,| Bahrain International HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125942
-#EXTINF:-1,| Bahrain Quran
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125941
-#EXTINF:-1,| Bahrain Sports
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125940
-#EXTINF:-1,| Bahrain TV HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125939
-#EXTINF:-1,| Baraem Kids
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125938
-#EXTINF:-1,| BBC Arabic
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125937
-#EXTINF:-1,| Beity TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125936
-#EXTINF:-1,| BELODY AFLAM
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125935
-#EXTINF:-1,| BELQEES
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125934
-#EXTINF:-1,| Bena TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125933
-#EXTINF:-1,| Berbere tv
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125932
-#EXTINF:-1,| Beur TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125931
-#EXTINF:-1,| BOX OFFICE 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125930
-#EXTINF:-1,| Cairo Cinema
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125929
-#EXTINF:-1,| Cairo Drama
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125928
-#EXTINF:-1,| Canal Algerie
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125927
-#EXTINF:-1,| CANAL ALGERIE (ALG)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125926
-#EXTINF:-1,| Canal Atlas
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125925
-#EXTINF:-1,| CANAL ATLAS MA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126126
-#EXTINF:-1,| Carthage
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125924
-#EXTINF:-1,| CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125923
-#EXTINF:-1,| CATV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125922
-#EXTINF:-1,| CBC (EGY)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125921
-#EXTINF:-1,| Cbc Drama
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125920
-#EXTINF:-1,| CBC HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125919
-#EXTINF:-1,| CBC Sofra
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125918
-#EXTINF:-1,| CGTN-Arabic
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125917
-#EXTINF:-1,| CHADA MA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126129
-#EXTINF:-1,| CHADA TV HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125916
-#EXTINF:-1,| CHAMS TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125915
-#EXTINF:-1,| Chourouk News
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125914
-#EXTINF:-1,| CIMA ALI BABA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125913
-#EXTINF:-1,| Cinema 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125912
-#EXTINF:-1,| Cinema 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125911
-#EXTINF:-1,| Cinema Pro
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125910
-#EXTINF:-1,| Citruss TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125909
-#EXTINF:-1,| CLIP TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125908
-#EXTINF:-1,| CN Arabia Kids
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125907
-#EXTINF:-1,| CNBC Arabia
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125906
-#EXTINF:-1,| CNN
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125905
-#EXTINF:-1,| CORAN TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125904
-#EXTINF:-1,| CTV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125903
-#EXTINF:-1,| Cyc 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125902
-#EXTINF:-1,| DAL TAB
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125901
-#EXTINF:-1,| Dejlah
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125900
-#EXTINF:-1,| Dewan
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125899
-#EXTINF:-1,| Dijlah TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125898
-#EXTINF:-1,| DIMA DRAMA MA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126125
-#EXTINF:-1,| Discovery CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125897
-#EXTINF:-1,| DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125896
-#EXTINF:-1,| DMC Drama HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125895
-#EXTINF:-1,| DMC HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125894
-#EXTINF:-1,| DMC Kids
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125893
-#EXTINF:-1,| DMC Sports (EGY)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125892
-#EXTINF:-1,| Drama Plus
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125891
-#EXTINF:-1,| DREAM 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125890
-#EXTINF:-1,| DUBAI Drama
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125889
-#EXTINF:-1,| DUBAI HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125888
-#EXTINF:-1,| DUBAI NOOR
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125887
-#EXTINF:-1,| Dubai One HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125886
-#EXTINF:-1,| Dubai Racing 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125885
-#EXTINF:-1,| Dubai Racing 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125884
-#EXTINF:-1,| Dubai Sama
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125883
-#EXTINF:-1,| DUBAI ZAMAN
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125882
-#EXTINF:-1,| DW Arabia
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125881
-#EXTINF:-1,| Dzair News
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125880
-#EXTINF:-1,| Echorok News
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125879
-#EXTINF:-1,| Echorouk Benna
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125878
-#EXTINF:-1,| ECHOROUK TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125877
-#EXTINF:-1,| El Bilad TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125876
-#EXTINF:-1,| El DJAZAIRIA TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125875
-#EXTINF:-1,| EL HADDAF
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125874
-#EXTINF:-1,| EL HIWETTOUNISI TV 3
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125873
-#EXTINF:-1,| El Mehwar
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125872
-#EXTINF:-1,| El Moled TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125871
-#EXTINF:-1,| El sharq TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125870
-#EXTINF:-1,| Elmouritania
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125869
-#EXTINF:-1,| ELMOURITANIA (MR)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125868
-#EXTINF:-1,| Ennahar
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125867
-#EXTINF:-1,| ENTV Algerie
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125866
-#EXTINF:-1,| Eriteria TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125865
-#EXTINF:-1,| ETIHAD TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125864
-#EXTINF:-1,| euronews Arabic
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125863
-#EXTINF:-1,| Extra News
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125862
-#EXTINF:-1,| Falastiniah TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125861
-#EXTINF:-1,| FAMILY DRAMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125860
-#EXTINF:-1,| Fatafeat HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125859
-#EXTINF:-1,| FDF
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125858
-#EXTINF:-1,| FIX & FOXI
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125857
-#EXTINF:-1,| FOX Movies Family HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125856
-#EXTINF:-1,| FOX MOVIES HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125855
-#EXTINF:-1,| France 24
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125854
-#EXTINF:-1,| Free TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125853
-#EXTINF:-1,| Fujairah
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125852
-#EXTINF:-1,| FUNOON TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125851
-#EXTINF:-1,| Future Lebanon
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125850
-#EXTINF:-1,| GM ALWAN MOVIES
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125849
-#EXTINF:-1,| GM CHAABI
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125848
-#EXTINF:-1,| Halab Today TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125847
-#EXTINF:-1,| HANIBAL TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125846
-#EXTINF:-1,| HAREEM ELSULTAN
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125845
-#EXTINF:-1,| HAWACOM TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125844
-#EXTINF:-1,| HAWAS TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125843
-#EXTINF:-1,| Hekayat
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125842
-#EXTINF:-1,| Hekayat2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125841
-#EXTINF:-1,| HISTORY 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125840
-#EXTINF:-1,| Hod Hod TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125839
-#EXTINF:-1,| Hona Baghdad
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125838
-#EXTINF:-1,| Huda TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125837
-#EXTINF:-1,| I film Arabic
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125836
-#EXTINF:-1,| IMAGINE MOVIES
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125835
-#EXTINF:-1,| Iqraa Arabic
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125834
-#EXTINF:-1,| Iraq Future
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125833
-#EXTINF:-1,| Iraqi Education
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125832
-#EXTINF:-1,| IRAQI Sport
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125831
-#EXTINF:-1,| Iraqiya TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125830
-#EXTINF:-1,| Ishtar
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125829
-#EXTINF:-1,| IUC
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125828
-#EXTINF:-1,| Jeem TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125827
-#EXTINF:-1,| Jordan HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125826
-#EXTINF:-1,| Jordan Sports
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125825
-#EXTINF:-1,| Kaifa Islam
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125824
-#EXTINF:-1,| Karameesh Kids
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125823
-#EXTINF:-1,| Karbala TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125822
-#EXTINF:-1,| Karma TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125821
-#EXTINF:-1,| Kassala TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125820
-#EXTINF:-1,| Koky Kids TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125819
-#EXTINF:-1,| Koogi TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125818
-#EXTINF:-1,| KSA Sport 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125817
-#EXTINF:-1,| KSA Sports 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125816
-#EXTINF:-1,| KTV 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125815
-#EXTINF:-1,| KTV 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125814
-#EXTINF:-1,| KTV Al Arabi
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125813
-#EXTINF:-1,| KTV Ethraa
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125812
-#EXTINF:-1,| KTV quran
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125811
-#EXTINF:-1,| Kuwait 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125810
-#EXTINF:-1,| Kuwait 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125809
-#EXTINF:-1,| Kuwait Alarabi HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125808
-#EXTINF:-1,| Kuwait Ethraa HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125807
-#EXTINF:-1,| Kuwait Plus
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125806
-#EXTINF:-1,| Kuwait Sport Live HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125805
-#EXTINF:-1,| Lana
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125804
-#EXTINF:-1,| LBC HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125803
-#EXTINF:-1,| LBC Lebanon
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125802
-#EXTINF:-1,| Lebanon TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125801
-#EXTINF:-1,| LIBYA 218
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125800
-#EXTINF:-1,| LIBYA AL WATAN
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125799
-#EXTINF:-1,| Libya Al-AhrTV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125798
-#EXTINF:-1,| libya Alhadath
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125797
-#EXTINF:-1,| LIBYA ALRASMEYA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125796
-#EXTINF:-1,| Libya Alwatanya
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125795
-#EXTINF:-1,| LIBYA CHANNEL
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125794
-#EXTINF:-1,| Libya Panorama TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125793
-#EXTINF:-1,| LIBYA RASMIA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125792
-#EXTINF:-1,| Libya Sport Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125791
-#EXTINF:-1,| Logos TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125790
-#EXTINF:-1,| M Classic
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125789
-#EXTINF:-1,| M TUNISIA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125788
-#EXTINF:-1,| Majid Kids TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125787
-#EXTINF:-1,| Makkah TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125786
-#EXTINF:-1,| MANAR
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125785
-#EXTINF:-1,| Mara7 TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125784
-#EXTINF:-1,| Maspero Zaman
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125783
-#EXTINF:-1,| MASR ALHAYAH
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125782
-#EXTINF:-1,| Mazzika1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125781
-#EXTINF:-1,| Mecca TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125780
-#EXTINF:-1,| Medi 1 Sat
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125779
-#EXTINF:-1,| MEDIA1 ARABE MA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126130
-#EXTINF:-1,| MEDIA1 MA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126134
-#EXTINF:-1,| Mehwar
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125778
-#EXTINF:-1,| MEKAMELEEN TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125777
-#EXTINF:-1,| Mekke Saudi Quran
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125776
-#EXTINF:-1,| MELODY CINEMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125775
-#EXTINF:-1,| MELODY CLASSIC
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125774
-#EXTINF:-1,| Menhag Al Nouboua
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125773
-#EXTINF:-1,| MESAT HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125772
-#EXTINF:-1,| MG TECHNO
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125771
-#EXTINF:-1,| Mickey Channel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125770
-#EXTINF:-1,| MOJEZE TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125769
-#EXTINF:-1,| MOSALSALAT TUBE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125768
-#EXTINF:-1,| MTV Lebanon
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125767
-#EXTINF:-1,| Musawa TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125766
-#EXTINF:-1,| Music Alhanen
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125765
-#EXTINF:-1,| Music Now
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125764
-#EXTINF:-1,| MUSTAKILLAH
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125763
-#EXTINF:-1,| MyHD FOX Family Movies HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125762
-#EXTINF:-1,| NAHDRAMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125761
-#EXTINF:-1,| NahOne
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125760
-#EXTINF:-1,| NAT GEO HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125759
-#EXTINF:-1,| NAT GEO Kids
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125758
-#EXTINF:-1,| NAT GEO People HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125757
-#EXTINF:-1,| NAT GEO Wild HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125756
-#EXTINF:-1,| NBN TV HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125755
-#EXTINF:-1,| Nessma TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125754
-#EXTINF:-1,| Nile Cinema
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125753
-#EXTINF:-1,| Nile Comedy
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125752
-#EXTINF:-1,| Nile Culture
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125751
-#EXTINF:-1,| Nile Drama
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125750
-#EXTINF:-1,| Nile Family
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125749
-#EXTINF:-1,| Nile Life
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125748
-#EXTINF:-1,| Nile News
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125747
-#EXTINF:-1,| Nile Sports
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125746
-#EXTINF:-1,| Noor Dubai
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125745
-#EXTINF:-1,| Nour Music
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125744
-#EXTINF:-1,| Nour Sat
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125743
-#EXTINF:-1,| NourSat Spirit
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125742
-#EXTINF:-1,| Numedia TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125741
-#EXTINF:-1,| OFIVE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125740
-#EXTINF:-1,| Oman Live
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125739
-#EXTINF:-1,| Oman Sports HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125738
-#EXTINF:-1,| ON DEMAND EXTRA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125737
-#EXTINF:-1,| ON DRAMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125736
-#EXTINF:-1,| ON SPORT 2 Live
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125735
-#EXTINF:-1,| On Sport HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125734
-#EXTINF:-1,| ON TV HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125733
-#EXTINF:-1,| one tv
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125732
-#EXTINF:-1,| OSN ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125731
-#EXTINF:-1,| TAKHAFIA MA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/126135
-#EXTINF:-1,AL HAYAT
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125692
-#EXTINF:-1,AL KAHERA O AL NAS
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125691
-#EXTINF:-1,ALARABYA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125728
-#EXTINF:-1,ALFAJER 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125730
-#EXTINF:-1,ALJAZERA DOC HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125727
-#EXTINF:-1,ALJAZERA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125729
-#EXTINF:-1,ALJAZERA MOBACHER HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125726
-#EXTINF:-1,ALKASS 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125699
-#EXTINF:-1,ALKASS 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125698
-#EXTINF:-1,ALKASS 3
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125697
-#EXTINF:-1,ALKASS 4
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125696
-#EXTINF:-1,ALNAHAR
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125690
-#EXTINF:-1,ALNAHDRAMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125689
-#EXTINF:-1,ARAFIDIN
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125684
-#EXTINF:-1,ART AFLAM1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125725
-#EXTINF:-1,B4U PLUS  HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125712
-#EXTINF:-1,B4U_Aflam  HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125711
-#EXTINF:-1,BURHAN TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125682
-#EXTINF:-1,CBC DRAMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125688
-#EXTINF:-1,CINEMA 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125710
-#EXTINF:-1,CINEMAPRO HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125703
-#EXTINF:-1,cn ARABE
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125695
-#EXTINF:-1,DMC DRAMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125708
-#EXTINF:-1,DREAM2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125704
-#EXTINF:-1,Melody aflam
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125713
-#EXTINF:-1,NAT GEO PROPLE HD ARABIC
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125721
-#EXTINF:-1,Nile life
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125687
-#EXTINF:-1,ON SPORT
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125686
-#EXTINF:-1,PARONAMA AFLAM
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125707
-#EXTINF:-1,PARONAMA DRAMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125706
-#EXTINF:-1,PARONAMA DRAMA1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125705
-#EXTINF:-1,QUEST
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125685
-#EXTINF:-1,ROTANA  MUSIC
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125720
-#EXTINF:-1,ROTANA AFLAM
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125719
+#EXTINF:-1,ART AFLAM 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/984
+#EXTINF:-1,ART AFLAM 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/983
+#EXTINF:-1,ART CINEMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/982
+#EXTINF:-1,ART HEKAYAT 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/981
+#EXTINF:-1,ART HEKAYAT 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/980
+#EXTINF:-1,MYHD PREMIUM - MY MBC1 HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46775
+#EXTINF:-1,MYHD PREMIUM - MY MBC2 HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46774
+#EXTINF:-1,MYHD PREMIUM - MY MBC3 HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46773
+#EXTINF:-1,MYHD PREMIUM - MY MBC4 HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46772
+#EXTINF:-1,MYHD PREMIUM - MY MBC ACTION  HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46780
+#EXTINF:-1,MYHD PREMIUM - MY MBC BOLLYWOOD HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46779
+#EXTINF:-1,MYHD PREMIUM - MY MBC DRAMA HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46778
+#EXTINF:-1,MYHD PREMIUM - MY MBC MAX HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46777
+#EXTINF:-1,MYHD PREMIUM - MY MBC DRAMA PLUS HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46776
+#EXTINF:-1,MYHD PREMIUM - MY ANIMAL PLANET HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46787
+#EXTINF:-1,MYHD PREMIUM - MY DISCOVERY SC HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46786
+#EXTINF:-1,MYHD PREMIUM - MY DOCU BOX HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46785
+#EXTINF:-1,MYHD PREMIUM - MY FOX CRIME HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46784
+#EXTINF:-1,MYHD PREMIUM - MY FOX LIFE HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46783
+#EXTINF:-1,MYHD PREMIUM - MY FOX REWAYAT HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46782
+#EXTINF:-1,MYHD PREMIUM - MY GULLI HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46781
+#EXTINF:-1,MYHD PREMIUM - MY NAT GEO HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46771
+#EXTINF:-1,MYHD PREMIUM - MY NAT GEO WILD HEVC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/46770
+#EXTINF:-1,MYHD PREMIUM - Cinemachi Kidz HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31291
+#EXTINF:-1,MYHD PREMIUM - Animal Planet HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31293
+#EXTINF:-1,MYHD PREMIUM - Discovery SC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31288
+#EXTINF:-1,MYHD PREMIUM - PLANET EARTH HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31253
+#EXTINF:-1,MYHD PREMIUM - FIX FOXI HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31283
+#EXTINF:-1,MYHD PREMIUM - FILM BOX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31284
+#EXTINF:-1,MYHD PREMIUM - FOX REWAYAT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31278
+#EXTINF:-1,MYHD PREMIUM - FOX CRIME HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31281
+#EXTINF:-1,MYHD PREMIUM - FX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31277
+#EXTINF:-1,MYHD PREMIUM - STAR MOVIES HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31252
+#EXTINF:-1,MYHD PREMIUM - STAR WORLD HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31251
+#EXTINF:-1,MYHD PREMIUM - Cinemachi Movies HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31290
+#EXTINF:-1,MYHD PREMIUM - Docubox HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31287
+#EXTINF:-1,MYHD PREMIUM - Fight Box HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31285
+#EXTINF:-1,MYHD PREMIUM - FOX ACTION MOVIES HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31282
+#EXTINF:-1,MYHD PREMIUM - FOX FAMILY MOVIES HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31280
+#EXTINF:-1,MYHD PREMIUM - FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31279
+#EXTINF:-1,MYHD PREMIUM - GUEST HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31276
+#EXTINF:-1,MYHD PREMIUM - GULLI BIL ARABIE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31275
+#EXTINF:-1,MYHD PREMIUM - ITV CHOICE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31274
+#EXTINF:-1,MYHD PREMIUM - LAAB WA JAD HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31273
+#EXTINF:-1,MYHD PREMIUM - MYZEN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31256
+#EXTINF:-1,MYHD PREMIUM - NAHAR DRAMA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31255
+#EXTINF:-1,MYHD PREMIUM - NAHAR ONE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31254
+#EXTINF:-1,MYHD PREMIUM - MUSIC ALWAYS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31260
+#EXTINF:-1,MYHD PREMIUM - MUSIC TROPICAL HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31259
+#EXTINF:-1,MYHD PREMIUM - MUSIC24 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31258
+#EXTINF:-1,MYHD PREMIUM - WOW SPORT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31250
+#EXTINF:-1,MYHD PREMIUM - MY CINEMA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31257
+#EXTINF:-1,ROTANA AFLAM HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21268
+#EXTINF:-1,ROTANA CINEMA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21267
+#EXTINF:-1,ROTANA CLASSIC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21266
+#EXTINF:-1,ROTANA KHALIJIA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21265
+#EXTINF:-1,ROTANA MASRIYA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21264
+#EXTINF:-1,ROTANA MUSIC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21263
+#EXTINF:-1,ROTANA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/966
 #EXTINF:-1,ROTANA CINEMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125718
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/964
+#EXTINF:-1,ROTANA CINEMA KSA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/963
 #EXTINF:-1,ROTANA CLASSIC
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125717
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/962
 #EXTINF:-1,ROTANA CLIP
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125716
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/965
 #EXTINF:-1,ROTANA DRAMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125715
-#EXTINF:-1,ROTANA KHALIJA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125714
-#EXTINF:-1,Space toon
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125694
-#EXTINF:-1,TELEMAROC MA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125680
-#EXTINF:-1,VFUNOON
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125683
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/961
+#EXTINF:-1,ROTANA KHALIJIAH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/960
+#EXTINF:-1,ABUDHABI SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22039
+#EXTINF:-1,ABUDHABI SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22038
+#EXTINF:-1,ABUDHABI SPORTS 3 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22037
+#EXTINF:-1,ABUDHABI SPORTS 4 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22036
+#EXTINF:-1,ABUDHABI SPORTS 5 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22035
+#EXTINF:-1,ABUDHABI SPORTS 6 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/22034
+#EXTINF:-1,4K - BEIN MOVIES 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27974
+#EXTINF:-1,4K - BEIN MOVIES 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27973
+#EXTINF:-1,4K - BEIN MOVIES 3 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27972
+#EXTINF:-1,4K - BEIN MOVIES 4 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27971
+#EXTINF:-1,BEIN AMC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27954
+#EXTINF:-1,BEIN FOX ACTION MOVIES HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27948
+#EXTINF:-1,BEIN FOX FAMILY MOVIES HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27947
+#EXTINF:-1,BEIN SERIES 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27969
+#EXTINF:-1,BEIN SERIES 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27968
+#EXTINF:-1,BEIN BARAEM HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27964
+#EXTINF:-1,BEIN DRAMA 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27967
+#EXTINF:-1,BEIN FOX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27960
+#EXTINF:-1,BEIN BEJUNIOR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27963
+#EXTINF:-1,BEIN BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27953
+#EXTINF:-1,BEIN CARTON NETWORK HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27962
+#EXTINF:-1,BEIN FATAFEAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27961
+#EXTINF:-1,BEIN JEEM HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27958
+#EXTINF:-1,BEIN DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27952
+#EXTINF:-1,BEIN DISCOVERY LIFE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27951
+#EXTINF:-1,BEIN DISCOVERY MAX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27950
+#EXTINF:-1,BEIN DISCOVERY TURBO XTRA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27949
+#EXTINF:-1,BEIN GOURMETHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27965
+#EXTINF:-1,BEIN HGTV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27959
+#EXTINF:-1,BEIN NAT GEO
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27957
+#EXTINF:-1,BEIN NAT PEOPLE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27956
+#EXTINF:-1,BEIN NAT WILD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27955
+#EXTINF:-1,BEIN TRAVEL HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27966
+#EXTINF:-1,AL MARIKH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55069
+#EXTINF:-1,SUDAN DRAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19150
+#EXTINF:-1,SUDAN MONAWAAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19149
+#EXTINF:-1,SUDAN MUSIC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19148
+#EXTINF:-1,SUDAN S24
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19157
+#EXTINF:-1,SUDAN SPORT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19147
+#EXTINF:-1,SUDAN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19146
+#EXTINF:-1,SUDANIA 24 TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19145
+#EXTINF:-1,NEELAIN SPORT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19152
+#EXTINF:-1,BLUE NILE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19153
+#EXTINF:-1,ASHOROOQ TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19154
+#EXTINF:-1,TAYBA QURAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19142
+#EXTINF:-1,TAYBA SCHOOL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19141
+#EXTINF:-1,TAYBA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19140
+#EXTINF:-1,RED SEA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20954
+#EXTINF:-1,SUDAN SPORT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20950
+#EXTINF:-1,AL GUBA KEDARAH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20952
+#EXTINF:-1,KASSALA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20948
+#EXTINF:-1,AL HILAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20947
+#EXTINF:-1,AL GEZIRA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19139
+#EXTINF:-1,OSN - OSN ACTION HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48929
+#EXTINF:-1,OSN - OSN ALFA ALYOUM HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48928
+#EXTINF:-1,OSN - OSN ALFA CINEMA 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48927
+#EXTINF:-1,OSN - OSN ALFA CINEMA 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48926
+#EXTINF:-1,OSN - OSN ALFA MUSALSALAT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48925
+#EXTINF:-1,OSN - OSN ALFA MUSIC NOW HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48924
+#EXTINF:-1,OSN - OSN ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48923
+#EXTINF:-1,OSN - OSN DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48922
+#EXTINF:-1,OSN - OSN DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48921
+#EXTINF:-1,OSN - OSN DISCOVERY SC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48920
+#EXTINF:-1,OSN - OSN DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48919
+#EXTINF:-1,OSN - OSN ENIGMA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48918
+#EXTINF:-1,OSN - OSN HISTORY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48917
+#EXTINF:-1,OSN - OSN ITV CHOICE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48916
+#EXTINF:-1,OSN - OSN KIDS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48915
+#EXTINF:-1,OSN - OSN LIVING HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48914
+#EXTINF:-1,OSN - OSN MOVIES DISNEY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48913
+#EXTINF:-1,OSN - OSN MOVIES FIRST HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48912
+#EXTINF:-1,OSN - OSN MOVIES HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48911
+#EXTINF:-1,OSN - OSN NAT GEO HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48910
+#EXTINF:-1,OSN - OSN NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48909
+#EXTINF:-1,OSN - OSN NAT PEOPLe HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48908
+#EXTINF:-1,OSN - OSN NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48907
+#EXTINF:-1,OSN - OSN SERIES COMEDY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48906
+#EXTINF:-1,OSN - OSN SERIES FIRST HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48905
+#EXTINF:-1,OSN - OSN SPORTS CRICKET HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48904
+#EXTINF:-1,OSN - OSN STAR MOVIES HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48903
+#EXTINF:-1,OSN - OSN STAR WORLD HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48902
+#EXTINF:-1,OSN - OSN SYFY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48901
+#EXTINF:-1,OSN - OSN TEN SPORT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48900
+#EXTINF:-1,OSN - OSN TLC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48899
+#EXTINF:-1,OSN - OSN TRAVEL HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48898
+#EXTINF:-1,OSN - OSN YAHALA CINEMA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48897
+#EXTINF:-1,OSN - ART AFLAM 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48934
+#EXTINF:-1,OSN - ART AFLAM 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48933
+#EXTINF:-1,OSN - ART CINEMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48932
+#EXTINF:-1,OSN - ART HEKAYAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48931
+#EXTINF:-1,OSN - ART HEKAYAT 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48930
+#EXTINF:-1,OSN - OSN YAHALA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48896
+#EXTINF:-1,OSN - OSN YAHALA OULA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48895
+#EXTINF:-1,OSN-VIP ALFA ALSAFWA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42979
+#EXTINF:-1,OSN-VIP ALFA ALYAWM HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42978
+#EXTINF:-1,OSN-VIP YAHALA CINEMA FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42986
+#EXTINF:-1,OSN-VIP YAHALA FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42985
+#EXTINF:-1,OSN-VIP YAHALA OULA FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42984
+#EXTINF:-1,OSN-VIP ALFA SERIES HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42976
+#EXTINF:-1,OSN-VIP CRICKET FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42991
+#EXTINF:-1,OSN-VIP FANN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42977
+#EXTINF:-1,OSN-VIP FIRST SERIES HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42988
+#EXTINF:-1,OSN-VIP HOME OF HBO FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42983
+#EXTINF:-1,OSN-VIP MOVIE FIRST FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42987
+#EXTINF:-1,OSN-VIP MOVIES ACTION HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42980
+#EXTINF:-1,OSN-VIP MOVIES COMEDY FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42982
+#EXTINF:-1,OSN-VIP MOVIES THRILLER FHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42981
+#EXTINF:-1,OSN-VIP SPORTS FHD  1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42989
+#EXTINF:-1,OSN-VIP SPORTS FHD  2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42990
+#EXTINF:-1,KOOGI TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49617
+#EXTINF:-1,ME SAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/689
+#EXTINF:-1,MIRACLE TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/696
+#EXTINF:-1,AGHAPY TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/694
+#EXTINF:-1,AL HAYAT CRISTIAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/690
+#EXTINF:-1,AL KARMA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/695
+#EXTINF:-1,CTV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/688
+#EXTINF:-1,SAT 7 ARABIC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/692
+#EXTINF:-1,SAT 7 KIDS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/691
+#EXTINF:-1,AL MALAKOOT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/697
+#EXTINF:-1,AL FADY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/693
+#EXTINF:-1,AL HORREYA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19160
+#EXTINF:-1,NOURSAT CHRISTIAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39440
+#EXTINF:-1,LOGOS TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/39441
+#EXTINF:-1,SUROYO TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55511
+#EXTINF:-1,SURYOYO SAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55510
+#EXTINF:-1,SUBORO TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55512
+#EXTINF:-1,AL HAYAT TV ALGERIE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/41643
+#EXTINF:-1,SAUDI QURAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/886
+#EXTINF:-1,|AR| SAUDI SUNNAH HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/50388
+#EXTINF:-1,RESALA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21269
+#EXTINF:-1,AL RAHMA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/884
+#EXTINF:-1,MECCA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/878
+#EXTINF:-1,AHEL AL QURAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/874
+#EXTINF:-1,AL MAJD 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/883
+#EXTINF:-1,AL MAJD 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/882
+#EXTINF:-1,AL MAJD 3
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/881
+#EXTINF:-1,AL MAJD 4
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/880
+#EXTINF:-1,BIN OUTHAYMINE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/891
+#EXTINF:-1,TANASOH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/888
+#EXTINF:-1,SAFA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/889
+#EXTINF:-1,AL RESALA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/879
+#EXTINF:-1,AL HAQIQA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/875
+#EXTINF:-1,WESAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/873
+#EXTINF:-1,AL SIRAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/872
+#EXTINF:-1,PALESTINE LIVE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/617
+#EXTINF:-1,PALESTINE NEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/618
+#EXTINF:-1,PALESTINE SPORT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/619
+#EXTINF:-1,PALESTINE TODAY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/620
+#EXTINF:-1,PALESTINE TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/616
+#EXTINF:-1,MAAN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/622
+#EXTINF:-1,AWDEH TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/614
+#EXTINF:-1,ANNAJAH NBC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/613
+#EXTINF:-1,AL RAYYAN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/577
+#EXTINF:-1,AL RAYYAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/575
+#EXTINF:-1,QATAR TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/574
+#EXTINF:-1,AL MANAR +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49524
+#EXTINF:-1,FUTURE +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49523
+#EXTINF:-1,LBC +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49520
+#EXTINF:-1,LDC +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49522
+#EXTINF:-1,MTV LEBANON +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49515
+#EXTINF:-1,OTV +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49517
+#EXTINF:-1,AL JADEED +6
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49516
+#EXTINF:-1,LEBANON TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/780
+#EXTINF:-1,LBC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21270
+#EXTINF:-1,LBC SAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/779
+#EXTINF:-1,LDC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/778
+#EXTINF:-1,OTV TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/777
+#EXTINF:-1,MTV LEBANON
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/776
+#EXTINF:-1,MTV LEBANON HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19161
+#EXTINF:-1,NBN LEBANON HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/27423
+#EXTINF:-1,FUTURE TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/775
+#EXTINF:-1,AL MAYADEEN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/928
+#EXTINF:-1,AL MANAR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/917
+#EXTINF:-1,ALAAN TV LEBANON
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/774
+#EXTINF:-1,AGHANI AGHANI TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/773
+#EXTINF:-1,AL ASRAR TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/771
+#EXTINF:-1,AL WAAD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/770
+#EXTINF:-1,AL NADA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/769
+#EXTINF:-1,AL JADEED
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/766
+#EXTINF:-1,TELELIBAN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/763
+#EXTINF:-1,AL QANAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/768
+#EXTINF:-1,ANB TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/765
+#EXTINF:-1,YEMEN SAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/588
+#EXTINF:-1,YEMEN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/587
+#EXTINF:-1,YEMEN SHABAB
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/586
+#EXTINF:-1,SUHAIL TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/585
+#EXTINF:-1,SHEBA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/584
+#EXTINF:-1,YEMEN TODAY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/583
+#EXTINF:-1,ADEN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/582
+#EXTINF:-1,AL SAEEDAH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48630
+#EXTINF:-1,SYRIA DRAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/611
+#EXTINF:-1,SYRIA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/608
+#EXTINF:-1,AL EKHBARIYA AL SORIYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/609
+#EXTINF:-1,ALYAWM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20944
+#EXTINF:-1,SYRIA FM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20935
+#EXTINF:-1,SYRIA MEDICAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20934
+#EXTINF:-1,SYRIA TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20942
+#EXTINF:-1,SAMA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/607
+#EXTINF:-1,LANA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20940
+#EXTINF:-1,MARA7
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20939
+#EXTINF:-1,MINBIJ
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20938
+#EXTINF:-1,SHAM FM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20937
+#EXTINF:-1,SHAM TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/20936
+#EXTINF:-1,NOOR AL SHAM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/606
+#EXTINF:-1,ORIENT TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/605
+#EXTINF:-1,FI - SYRIAN STELLITE TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44066
+#EXTINF:-1,AL-QURAIN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/633
+#EXTINF:-1,FALLUJAH HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/686
+#EXTINF:-1,IMAM REDA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/685
+#EXTINF:-1,IRAQ NOW
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/684
+#EXTINF:-1,AL IRAQIA NEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/641
+#EXTINF:-1,SAMARRAE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/683
+#EXTINF:-1,AL AQILA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/679
+#EXTINF:-1,AL GHADEER
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/678
+#EXTINF:-1,AL IRAQIA SPORT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/676
+#EXTINF:-1,AL ANWAR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/680
+#EXTINF:-1,AL MASSAR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/674
+#EXTINF:-1,AL MANHAJ
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/675
+#EXTINF:-1,AL MASSAR AL OULA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/673
+#EXTINF:-1,AL MASSAR ALOULA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/662
+#EXTINF:-1,IQRAA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/887
+#EXTINF:-1,AL SHARQIA NEWS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/667
+#EXTINF:-1,AL MAWSLYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/672
+#EXTINF:-1,AL MINHAJ
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/670
+#EXTINF:-1,IRAQI EDUCATION
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/653
+#EXTINF:-1,AL SHARQIYA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/668
+#EXTINF:-1,AL IRAQIA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/658
+#EXTINF:-1,AL RAFIDAYN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/669
+#EXTINF:-1,AL RASHEED TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/665
+#EXTINF:-1,AL NAEEM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/661
+#EXTINF:-1,AL SHABAB TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/660
+#EXTINF:-1,AL FORAT TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/659
+#EXTINF:-1,HONA BAGHDAD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/657
+#EXTINF:-1,BAGHDAD TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/656
+#EXTINF:-1,AL SHARQIA NEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/652
+#EXTINF:-1,AL AHD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/651
+#EXTINF:-1,KARBALA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/650
+#EXTINF:-1,AL SUMARIA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/649
+#EXTINF:-1,AL AWHAD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/648
+#EXTINF:-1,AL KAWTHAR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/646
+#EXTINF:-1,ASIA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/645
+#EXTINF:-1,DIJLAH TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/644
+#EXTINF:-1,EL IMAN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/642
+#EXTINF:-1,AL ANBAR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/640
+#EXTINF:-1,AL ESHRAQ TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/639
+#EXTINF:-1,AL TURKMAN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/635
+#EXTINF:-1,ALMASALAH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/632
+#EXTINF:-1,BELADI
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/630
+#EXTINF:-1,DEWAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/629
+#EXTINF:-1,DUA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/628
+#EXTINF:-1,ETIHAD TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/627
+#EXTINF:-1,I FILM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/626
+#EXTINF:-1,AL THAQALAYN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/625
+#EXTINF:-1,AL BASIRA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/655
+#EXTINF:-1,LIBYA 218
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/704
+#EXTINF:-1,LIBYA AL RSMIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/701
+#EXTINF:-1,LIBYA PANORAMA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/706
+#EXTINF:-1,LIBYA AL HADATH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49531
+#EXTINF:-1,LIBYA ALWATANIYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49527
+#EXTINF:-1,LIBYA CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49533
+#EXTINF:-1,LIBYA EL AHRAR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49530
+#EXTINF:-1,LIBYA EL WATAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49529
+#EXTINF:-1,LIBYA FEBRAYER TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49525
+#EXTINF:-1,LIBYA SPORT CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49526
+#EXTINF:-1,LIBYA TANASUH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49528
+#EXTINF:-1,LIBYA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49532
+#EXTINF:-1,LIBYA AL JAMAHIRIYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/57105
+#EXTINF:-1,LIBYA AL WASAT TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/57106
+#EXTINF:-1,LIBYA ALMARSAD TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/57109
+#EXTINF:-1,LIBYA SALAM TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/57107
+#EXTINF:-1,LIBYA 218 NEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/57108
+#EXTINF:-1,KTV 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/596
+#EXTINF:-1,KTV 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/595
+#EXTINF:-1,KTV KIDS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63828
+#EXTINF:-1,KTV ETHRAA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/590
+#EXTINF:-1,KTV PLUS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/593
+#EXTINF:-1,KTV SPORT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/594
+#EXTINF:-1,KTV SPORT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/599
+#EXTINF:-1,KTV AL ARABI
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/592
+#EXTINF:-1,FUNOON TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/597
+#EXTINF:-1,ALRAI
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/21271
+#EXTINF:-1,AL MAJLIS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19159
+#EXTINF:-1,AL QURAIN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19158
+#EXTINF:-1,AMMAN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55934
+#EXTINF:-1,JORDAN HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/727
+#EXTINF:-1,JORDAN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/720
+#EXTINF:-1,JORDAN MANASEER
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/716
+#EXTINF:-1,JORDAN NOW
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/717
+#EXTINF:-1,JORDAN SAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/718
+#EXTINF:-1,JORDAN SPORT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/719
+#EXTINF:-1,ROYA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/726
+#EXTINF:-1,KARAMEESH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/725
+#EXTINF:-1,NOURSAT AL CHABAB
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/723
+#EXTINF:-1,ZWEINA BALADNA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/722
+#EXTINF:-1,NOOR JORDAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/712
+#EXTINF:-1,JORDAN AMEN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/714
+#EXTINF:-1,JORDAN DERETNA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/708
+#EXTINF:-1,(ARABIC KIDS)
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://borg.hopto.org:8090/html/greetings.mp4
+#EXTINF:-1,MICKEY CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/954
+#EXTINF:-1,AL MAJD KIDS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/944
+#EXTINF:-1,SPACETOON
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/947
+#EXTINF:-1,TAHA KIDS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/949
+#EXTINF:-1,TOYOR BABY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/945
+#EXTINF:-1,JEEM KIDS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/952
+#EXTINF:-1,TOYOR AL JANAH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/946
+#EXTINF:-1,ATFAL & MAWAHEB
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/951
+#EXTINF:-1,BARAEM KIDS EUROPE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/948
+#EXTINF:-1,SAUDI SUNNAH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/895
+#EXTINF:-1,SAUDI 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/910
+#EXTINF:-1,SAUDI SBC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48631
+#EXTINF:-1,SAUDI 24
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/908
+#EXTINF:-1,AL SAHRAA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63926
+#EXTINF:-1,SAUDI FAMILY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/907
+#EXTINF:-1,SA - CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/899
+#EXTINF:-1,AL AMAKEN DRAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/906
+#EXTINF:-1,SAUDI ANTI TERRORISM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/905
+#EXTINF:-1,AL MERGAB
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/902
+#EXTINF:-1,MASDAR TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/900
+#EXTINF:-1,SAUDI SPORT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/904
+#EXTINF:-1,KSA SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19164
+#EXTINF:-1,KSA SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/26603
+#EXTINF:-1,KSA SPORTS PLUS 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/26602
+#EXTINF:-1,KSA SPORTS PLUS 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/26601
+#EXTINF:-1,BAHRAIN INTERNATIONAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/730
+#EXTINF:-1,BAHRAIN INTERNATIONAL HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/732
+#EXTINF:-1,BAHRAIN QURAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/729
+#EXTINF:-1,BAHRAIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/735
+#EXTINF:-1,BAHRAIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/734
+#EXTINF:-1,BAHRAIN TV  HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/733
+#EXTINF:-1,AL MAAREF
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/731
+#EXTINF:-1,DUBAI ONE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/749
+#EXTINF:-1,DUBAI RACING 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/757
+#EXTINF:-1,DUBAI RACING 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/744
+#EXTINF:-1,DUBAI RACING 3
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/743
+#EXTINF:-1,DUBAI SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/758
+#EXTINF:-1,DUBAI TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/747
+#EXTINF:-1,DUBAI TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/760
+#EXTINF:-1,DUBAI ZAMAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/748
+#EXTINF:-1,AD SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/756
+#EXTINF:-1,ABU DHABI AL EMARAT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/751
+#EXTINF:-1,ABU DHABI DRAMA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/752
+#EXTINF:-1,ABU DHABI SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/755
+#EXTINF:-1,ABU DHABI TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/753
+#EXTINF:-1,YAS SPORT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/754
+#EXTINF:-1,SAMA DUBAI HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/759
+#EXTINF:-1,NOOR DUBAI
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/750
+#EXTINF:-1,HOD HOD TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/740
+#EXTINF:-1,AL WAHA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/738
+#EXTINF:-1,TIME SPORTS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/55417
+#EXTINF:-1,NILE CINEMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/855
+#EXTINF:-1,NILE COMEDY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/852
+#EXTINF:-1,NILE CULTURE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/849
+#EXTINF:-1,NILE DRAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/854
+#EXTINF:-1,NILE FAMILY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/853
+#EXTINF:-1,NILE LIFE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/850
+#EXTINF:-1,NILE NEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/851
+#EXTINF:-1,NILE SPORT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/848
+#EXTINF:-1,ON TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/794
+#EXTINF:-1,ON TV DRAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/807
+#EXTINF:-1,ON TV E
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/806
+#EXTINF:-1,ON TV E HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/805
+#EXTINF:-1,ON TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/804
+#EXTINF:-1,ON TV LIVE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/811
+#EXTINF:-1,ON TV LIVE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/810
+#EXTINF:-1,ON TV SPORT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/809
+#EXTINF:-1,ON TV SPORT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/808
+#EXTINF:-1,DMC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/793
+#EXTINF:-1,DMC DRAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/792
+#EXTINF:-1,DMC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/812
+#EXTINF:-1,DMC KIDS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/950
+#EXTINF:-1,DMC MASRAHEYAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/791
+#EXTINF:-1,DMC NEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/790
+#EXTINF:-1,DMC SPORTS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/789
+#EXTINF:-1,CBC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/860
+#EXTINF:-1,CBC DRAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/798
+#EXTINF:-1,CBC EXTRA NEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/858
+#EXTINF:-1,CBC SOFRA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/859
+#EXTINF:-1,CIMA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/828
+#EXTINF:-1,CINEMA PRO
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/829
+#EXTINF:-1,DREAM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/843
+#EXTINF:-1,PANORAMA DRAMA 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/801
+#EXTINF:-1,PANORAMA DRAMA 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/800
+#EXTINF:-1,PANORAMA FILM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/830
+#EXTINF:-1,PANORAMA FOOD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/799
+#EXTINF:-1,APPLE TODAY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/50361
+#EXTINF:-1,APPLE AFLAM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/50359
+#EXTINF:-1,APPLE CINEMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/50362
+#EXTINF:-1,APPLE MOSALSALAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/50360
+#EXTINF:-1,APPLE COMEDY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/50363
+#EXTINF:-1,APPLE HEKAYAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/50358
+#EXTINF:-1,AL KAHERA WAL NAS  2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/819
+#EXTINF:-1,AL KAHERA WE ALNASS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/847
+#EXTINF:-1,AL KAHERA WEL NES
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/846
+#EXTINF:-1,MODY KIDS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/953
+#EXTINF:-1,MTA INTERNATIONAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/876
+#EXTINF:-1,MTA MUSLIM TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/877
+#EXTINF:-1,MUSAWA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/710
+#EXTINF:-1,ALHAYAT HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/17129
+#EXTINF:-1,ALHAYAT 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/787
+#EXTINF:-1,ALHAYAT WE ALNAS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/786
+#EXTINF:-1,AL NAS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42543
+#EXTINF:-1,MELODY CLASSIC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/822
+#EXTINF:-1,AL HADATH NEWS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/821
+#EXTINF:-1,AL HAYAT MUSLSALAT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/856
+#EXTINF:-1,AL MASRAWIA AFLAM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/813
+#EXTINF:-1,SADA EL BALAD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/845
+#EXTINF:-1,SADA EL BALAD DRAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/844
+#EXTINF:-1,STAR CINEMA 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/833
+#EXTINF:-1,STAR CINEMA 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/832
+#EXTINF:-1,TOK TOK AFLAM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/782
+#EXTINF:-1,TOK TOK CINEMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/831
+#EXTINF:-1,AL NAHAR DRAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/839
+#EXTINF:-1,AL NAHAR ONE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/840
+#EXTINF:-1,AL MASRIYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/788
+#EXTINF:-1,NILE TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19163
+#EXTINF:-1,MASPERO ZAMAN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/797
+#EXTINF:-1,MEHWAR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/835
+#EXTINF:-1,MEKAMELEEN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/857
+#EXTINF:-1,EL SHARQ
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/834
+#EXTINF:-1,AL AHLY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/866
+#EXTINF:-1,AL MASSRIYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/861
+#EXTINF:-1,AL GHAD TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/842
+#EXTINF:-1,MAZAZIKH TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/827
+#EXTINF:-1,ARABICA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/826
+#EXTINF:-1,AL GHAD MUSHREQ TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/825
+#EXTINF:-1,AFRAH TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/824
+#EXTINF:-1,HALABA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/823
+#EXTINF:-1,AL SHAREYYAH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/814
+#EXTINF:-1,WATAN TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/796
+#EXTINF:-1,AZHARI TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/795
+#EXTINF:-1,ALTHANYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/785
+#EXTINF:-1,SEHATY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/783
+#EXTINF:-1,AL HADATH AL YOUM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/836
+#EXTINF:-1,MBC 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/979
+#EXTINF:-1,MBC 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/978
+#EXTINF:-1,MBC 3
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/977
+#EXTINF:-1,MBC 4
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/976
+#EXTINF:-1,MBC DRAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/973
+#EXTINF:-1,MBC MASR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/863
+#EXTINF:-1,MBC MASR 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/862
+#EXTINF:-1,MBC IRAQ
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43000
+#EXTINF:-1,MBC ACTION
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/975
+#EXTINF:-1,MBC MAX
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/974
+#EXTINF:-1,MBC BOLLYWOOD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/968
+#EXTINF:-1,MBC1 HD +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49801
+#EXTINF:-1,MBC4 HD +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49802
+#EXTINF:-1,MBC BOLLYWOOD  HD +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49805
+#EXTINF:-1,MBC DRAMA HD +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49803
+#EXTINF:-1,MBC DRAMA PLUS  HD +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49804
+#EXTINF:-1,B4U PLUS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/956
 #EXTINF:-1,ZEE ALWAN
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125681
-#EXTINF:-1, ABU DHABI AOLA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125702
-#EXTINF:-1, ABU DHABI DRAMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125701
-#EXTINF:-1, ABU DHABI EMARAT
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125700
-#EXTINF:-1, dmc DRAMA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125709
-#EXTINF:-1, YAS SPORTS
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125693
-#EXTINF:-1,|  BEIN  GOURMET
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125664
-#EXTINF:-1,|  BEIN BARAEM HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125666
-#EXTINF:-1,|  BEIN DRAMA 1HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125665
-#EXTINF:-1,|  BEIN GULLI HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125661
-#EXTINF:-1,|  BEIN JEEM HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125660
-#EXTINF:-1,|  BEIN MOVIES 1HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125677
-#EXTINF:-1,|  BEIN MOVIES 2HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125676
-#EXTINF:-1,|  BEIN MOVIES 3HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125675
-#EXTINF:-1,|  BEIN MOVIES 4 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125673
-#EXTINF:-1,|  BEIN MOVIES 4HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125674
-#EXTINF:-1,|  BEIN SERIES 1HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125663
-#EXTINF:-1,|  BEIN SERIES 2HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125662
-#EXTINF:-1,|  BEIN TRAVEL HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125659
-#EXTINF:-1,|  STMOVIES HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125678
-#EXTINF:-1,| ACTION 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125672
-#EXTINF:-1,| ACTION 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125671
-#EXTINF:-1,| ACTION 3 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125670
-#EXTINF:-1,| ACTION 4 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125669
-#EXTINF:-1,| ACTION 5 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125668
-#EXTINF:-1,| ACTION 6 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125667
-#EXTINF:-1,AR.| OSN  !A
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125658
-#EXTINF:-1,AR.| OSN  A ONE TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125657
-#EXTINF:-1,AR.| OSN  Action HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125656
-#EXTINF:-1,AR.| OSN  AD SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125655
-#EXTINF:-1,AR.| OSN  AD SPORTS 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125654
-#EXTINF:-1,AR.| OSN  AD SPORTS 3
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125653
-#EXTINF:-1,AR.| OSN  AD SPORTS 4
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125652
-#EXTINF:-1,AR.| OSN  AD SPORTS 5
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125651
-#EXTINF:-1,AR.| OSN  AD SPORTS 6
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125650
-#EXTINF:-1,AR.| OSN  Alfa Cinema 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125649
-#EXTINF:-1,AR.| OSN  Alfa Music Now HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125648
-#EXTINF:-1,AR.| OSN  ART Aflam 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125647
-#EXTINF:-1,AR.| OSN  ART Aflam 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125646
-#EXTINF:-1,AR.| OSN  ART Cinema HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125645
-#EXTINF:-1,AR.| OSN  ART Hekayat 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125644
-#EXTINF:-1,AR.| OSN  ART Hekayat 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125643
-#EXTINF:-1,AR.| OSN  Box Office 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125642
-#EXTINF:-1,AR.| OSN  Box Office 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125641
-#EXTINF:-1,AR.| OSN  Box Office 3 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125640
-#EXTINF:-1,AR.| OSN  CBC Drama
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125639
-#EXTINF:-1,AR.| OSN  CNN HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125638
-#EXTINF:-1,AR.| OSN  FATAFEAT HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125637
-#EXTINF:-1,AR.| OSN  Fight Box HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125636
-#EXTINF:-1,AR.| OSN  Fine Living HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125635
-#EXTINF:-1,AR.| OSN  First HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125634
-#EXTINF:-1,AR.| OSN  First Home Of HBO HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125633
-#EXTINF:-1,AR.| OSN  Fox Action Movies FHD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125632
-#EXTINF:-1,AR.| OSN  Fox News HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125631
-#EXTINF:-1,AR.| OSN  FX HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125630
-#EXTINF:-1,AR.| OSN  H2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125629
-#EXTINF:-1,AR.| OSN  Home Cinema 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125628
-#EXTINF:-1,AR.| OSN  Home Cinema 4
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125627
-#EXTINF:-1,AR.| OSN  Home Cinema 6
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125626
-#EXTINF:-1,AR.| OSN  Investigation Discovery HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125625
-#EXTINF:-1,AR.| OSN  JimJam
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125624
-#EXTINF:-1,AR.| OSN  Movie Action 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125623
-#EXTINF:-1,AR.| OSN  Movies  2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125622
-#EXTINF:-1,AR.| OSN  Movies Action 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125621
-#EXTINF:-1,AR.| OSN  Movies Drama HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125620
-#EXTINF:-1,AR.| OSN  Movies Premiere HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125619
-#EXTINF:-1,AR.| OSN  MTV Live HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125618
-#EXTINF:-1,AR.| OSN  MUSIC NOW HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125617
-#EXTINF:-1,AR.| OSN  NAT GEO Wild HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125616
-#EXTINF:-1,AR.| OSN  News
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125615
-#EXTINF:-1,AR.| OSN  Nickelodeon (Audio EN)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125614
-#EXTINF:-1,AR.| OSN  ON DEMAND 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125613
-#EXTINF:-1,AR.| OSN  ON DEMAND 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125612
-#EXTINF:-1,AR.| OSN  ON DEMAND 3 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125611
-#EXTINF:-1,AR.| OSN  On Sport HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125610
-#EXTINF:-1,AR.| OSN  ON TV HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125609
-#EXTINF:-1,AR.| OSN  Outdoor HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125607
-#EXTINF:-1,AR.| OSN  SeeVii Al Aoula HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125606
-#EXTINF:-1,AR.| OSN  Sport 1 Action
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125605
-#EXTINF:-1,AR.| OSN  SPORT 2 Live
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125604
-#EXTINF:-1,AR.| OSN  Sports 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125603
-#EXTINF:-1,AR.| OSN  STCINEMA 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125602
-#EXTINF:-1,AR.| OSN  STCINEMA 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125601
-#EXTINF:-1,AR.| OSN  Starz Comedy HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125600
-#EXTINF:-1,AR.| OSN  SUNDANCE TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125599
-#EXTINF:-1,AR.| OSN  TIME CINEMA
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125598
-#EXTINF:-1,AR.| OSN  TLC HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125597
-#EXTINF:-1,AR.| OSN  Travel
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125596
-#EXTINF:-1,AR.| OSN  Yahala Cinema HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125595
-#EXTINF:-1,AR.| OSN  Yahala Drama HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125594
-#EXTINF:-1,AR.| OSN  Yahala Shabab HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125593
-#EXTINF:-1,AR.| OSN  Yahala TV
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125608
-#EXTINF:-1,| MBC 1 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125589
-#EXTINF:-1,| MBC 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125588
-#EXTINF:-1,| MBC 3 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125587
-#EXTINF:-1,| MBC 4 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125586
-#EXTINF:-1,| MBC ACTION HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125585
-#EXTINF:-1,| MBC Bollywood HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125584
-#EXTINF:-1,| MBC Drama  HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125583
-#EXTINF:-1,| MBC DRAMA HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125582
-#EXTINF:-1,| MBC  Drama HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125591
-#EXTINF:-1,| MBC  DRAMA HD 2
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125590
-#EXTINF:-1,| MBC Masr 1
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125581
-#EXTINF:-1,| MBC MASR 2 HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125580
-#EXTINF:-1,| MBC MAX HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125579
-#EXTINF:-1,| MBC Variety HD
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ferhat2/27022019/125578
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/959
+#EXTINF:-1,ZEE AFLAM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/958
+#EXTINF:-1,B4U AFLAM
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/957
+#EXTINF:-1,WANASAH TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/967
+#EXTINF:-1,MYHD PREMIUM - MBC1 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31264
+#EXTINF:-1,MYHD PREMIUM - MBC2 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31263
+#EXTINF:-1,MYHD PREMIUM - MBC3 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31262
+#EXTINF:-1,MYHD PREMIUM - MBC4 HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31261
+#EXTINF:-1,MYHD PREMIUM - MBC  Drama HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31272
+#EXTINF:-1,MYHD PREMIUM - MBC Action HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31271
+#EXTINF:-1,MYHD PREMIUM - MBC Bollywood HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31270
+#EXTINF:-1,MYHD PREMIUM - MBC DRAMA  HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31269
+#EXTINF:-1,MYHD PREMIUM - MBC Drama HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31268
+#EXTINF:-1,MYHD PREMIUM - MBC MAX HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31266
+#EXTINF:-1,MYHD PREMIUM - MBC Variety HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/31265
+#EXTINF:-1,ELMOURITANIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/568
+#EXTINF:-1,ELMOURITANIA 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/567
+#EXTINF:-1,ATAQUAFIA MR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63930
+#EXTINF:-1,ARRIADIA MR
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63929
+#EXTINF:-1,EL BARLAMANIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63928
+#EXTINF:-1,CHINGUIT TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63927
+#EXTINF:-1,ELMAHADRA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/569
+#EXTINF:-1,ELWATANIA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/566
+#EXTINF:-1,ALMOURABITOUNE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/571
+#EXTINF:-1,SAHEL TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/565
+#EXTINF:-1,M TUNISIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1009
+#EXTINF:-1,TUNISNA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1008
+#EXTINF:-1,HANNIBAL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1007
+#EXTINF:-1,ATTESSIA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1006
+#EXTINF:-1,ZITOUNA HEDAYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1005
+#EXTINF:-1,AL JANOUBIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1004
+#EXTINF:-1,TUNESIE TELEVISION
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1003
+#EXTINF:-1,TUNISIA NATIONAL 1
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1002
+#EXTINF:-1,TUNISIA NATIONAL 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1001
+#EXTINF:-1,AL INSEN
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1000
+#EXTINF:-1,ZAYTOONA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/997
+#EXTINF:-1,TELVZA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/998
+#EXTINF:-1,AL HIWAR ETTOUNSI
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/838
+#EXTINF:-1,NESSMA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/999
+#EXTINF:-1,CARTHAGE+
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/44344
+#EXTINF:-1,SAHEL TV STV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49806
+#EXTINF:-1,EN TV ALGERIE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1041
+#EXTINF:-1,CANAL ALGERIE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1040
+#EXTINF:-1,A3 ALGERIE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1039
+#EXTINF:-1,CHOUROUK TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1038
+#EXTINF:-1,ECHOUROUK
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1037
+#EXTINF:-1,ECHOUROUK NEWS HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1035
+#EXTINF:-1,DZAIR NEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1034
+#EXTINF:-1,ECHOROUK BENNA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1032
+#EXTINF:-1,SAMIRA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1031
+#EXTINF:-1,EL HEDDAF
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1030
+#EXTINF:-1,EL BILAD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1029
+#EXTINF:-1,EL DJAZAIRIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1027
+#EXTINF:-1,ENNAHAR ALGERIE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1026
+#EXTINF:-1,DZAIR JANNAH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1025
+#EXTINF:-1,AL ANIS TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1022
+#EXTINF:-1,AL MAGHARIBIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1021
+#EXTINF:-1,AL MAGHARIBIA 2
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1020
+#EXTINF:-1,BAHIA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1019
+#EXTINF:-1,BEUR TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1018
+#EXTINF:-1,BERBERE TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1014
+#EXTINF:-1,DZAIR 24
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1012
+#EXTINF:-1,DZAIR 3
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1011
+#EXTINF:-1,ALGERIE 4
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/7266
+#EXTINF:-1,ALGERIE 5
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/7265
+#EXTINF:-1,HALA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/19168
+#EXTINF:-1,NUMIDIA TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1028
+#EXTINF:-1,GOURAYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48752
+#EXTINF:-1,AMEL TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49512
+#EXTINF:-1,EL FADJR TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49566
+#EXTINF:-1,AL OULA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1057
+#EXTINF:-1,AL OULA HD +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/50351
+#EXTINF:-1,ARRYADIA HD LIVE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1056
+#EXTINF:-1,AL OULA INTER
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1053
+#EXTINF:-1,2M MAROC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1052
+#EXTINF:-1,2M MAROC +6H
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/48894
+#EXTINF:-1,ARRIADIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1051
+#EXTINF:-1,ARRABIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1050
+#EXTINF:-1,AL MAGHRIBIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1049
+#EXTINF:-1,ASSADISSA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1048
+#EXTINF:-1,ASSABIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1047
+#EXTINF:-1,MEDI 1 TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1045
+#EXTINF:-1,AL ONS TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/7173
+#EXTINF:-1,TAMAZIGHT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1046
+#EXTINF:-1,MEDI1TV AFRIQUE HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1055
+#EXTINF:-1,TELE MAROC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1044
+#EXTINF:-1,CHADA FM HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/7174
+#EXTINF:-1,CANAL ATLAS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/1043
+#EXTINF:-1,TNT 2M MAROC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14792
+#EXTINF:-1,TNT AL MAGHRIBIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14789
+#EXTINF:-1,TNT AL OULA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14795
+#EXTINF:-1,TNT AL OULA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14794
+#EXTINF:-1,TNT AL OULA INTER
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14793
+#EXTINF:-1,TNT ARRABIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14790
+#EXTINF:-1,TNT ARRIADIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14791
+#EXTINF:-1,TNT ASSABIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14787
+#EXTINF:-1,TNT ASSADISSA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14788
+#EXTINF:-1,TNT ASSADISSA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/49719
+#EXTINF:-1,TNT MEDI 1 TV
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14785
+#EXTINF:-1,TNT TAMAZIGHT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/14786
+#EXTINF:-1,AL JAZEERA HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/941
+#EXTINF:-1,AL ARABIYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/931
+#EXTINF:-1,AL ARABIYA AL HADATH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/930
+#EXTINF:-1,AL ARABY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/937
+#EXTINF:-1,BBC ARABIC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/929
+#EXTINF:-1,FRANCE 24
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/922
+#EXTINF:-1,AL JAZEERA ENGLISH
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/919
+#EXTINF:-1,AL JAZEERA ENGLISH HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/940
+#EXTINF:-1,AL JAZEERA DOCUMENTARY
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/920
+#EXTINF:-1,AL JAZEERA DOCUMENTARY HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/939
+#EXTINF:-1,AL JAZEERA MUBASHER
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/935
+#EXTINF:-1,DW ARABIC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/17707
+#EXTINF:-1,TRT ARABIC
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/17706
+#EXTINF:-1,AL HURRA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/924
+#EXTINF:-1,AL HURRA IRAQ
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/637
+#EXTINF:-1,BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/923
+#EXTINF:-1,ABU DHABI NGC HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/938
+#EXTINF:-1,AL ALAM NEWS CHANNEL
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/934
+#EXTINF:-1,SKY NEWS ARABIA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/933
+#EXTINF:-1,RT ARAB
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/926
+#EXTINF:-1,CNBC ARABIYA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/921
+#EXTINF:-1,AL HIWAR HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/916
+#EXTINF:-1,AL GHAD HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/915
+#EXTINF:-1,AL MUSTAKILA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/914
+#EXTINF:-1,KAIFA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/913
+#EXTINF:-1,OMAN TV HD
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63932
+#EXTINF:-1,OMAN TV LIVE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63811
+#EXTINF:-1,OMAN TV CULTURE
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63809
+#EXTINF:-1,OMAN TV SPORT
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63810
+#EXTINF:-1,AL ISTIQAMA
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/579
