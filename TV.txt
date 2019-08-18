@@ -29,7 +29,7 @@
 </channel>
 
 <channels>
-<channel>
+channel>
 <name>[COLOR gold]Arabisch[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arabisch.txt</externallink>
