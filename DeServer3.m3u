@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,[COLOR lime] [/COLOR]
+plugin://plugin.video.f4mTester/?name=divino&streamtype=TSDOWNLOADER&amp;url=http://landiptv.live:8080/Ublfrind/vipuser5t65y/206989
 #EXTINF:-1, DAS ERSTE HD (ARD)
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/31319
 #EXTINF:-1, ARTE HD
