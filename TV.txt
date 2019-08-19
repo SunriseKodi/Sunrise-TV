@@ -37,6 +37,15 @@
 <info></info>
 </channel>
 
+<channels>
+channel>
+<name>[COLOR gold]Amerkikanisch[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/USA%20amerikanische%20Flagge.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/amerikanisch.m3u</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/USA%20amerikanische%20Flagge.jpg</fanart>
+<info></info>
+</channel>
+
 
 <channels>
 channel>
