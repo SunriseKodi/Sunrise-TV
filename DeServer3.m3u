@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD DE" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=HLSRETRY&amp;url=https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/13thstreethd.png" group-title="LIVE: Germany",13th Street FHD DE
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=HLSRETRY&amp;url=https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/13thstreethd.png" group-title="LIVE: Germany",13th Street FHD DE
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=HLSRETRY&amp;url=http://cloudcdn.tk:80/live/mTp5Veq598/WObMTo9735/14060.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=HLSRETRY&amp;url=https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/3sat.png" group-title="LIVE: Germany",3sat DE
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=HLSRETRY&amp;url=http://cloudcdn.tk:80/live/mTp5Veq598/WObMTo9735/12341.m3u8
