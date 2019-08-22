@@ -39,6 +39,14 @@
 
 <channels>
 <channel>
+<name>[COLOR gold]International [COLOR]</name>
+<link>http://ignorame<link><thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/InternationalTV.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.tvone11</jsonrpc>
+<info>[B][I][COLOR red]!!!! Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inhalt des addons uebernimmt VOODOO keine Verantwortung.</info>
+</channel>
+
+<channels>
+<channel>
 <name>[COLOR gold]Amerikanisch[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/USA%20amerikanische%20Flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Amerikanisch.txt</externallink>
