@@ -41,7 +41,7 @@
 <channel>
 <name>[B][I][COLOR red]International [COLOR beige][COLOR white]TV [/B][/I][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/InternationalTV.jpg</thumbnail>
-<externallink>http://ignorame</externallink>
+<link>http://ignorame</link>
 <jsonrpc>plugin://plugin.video.tvone11</jsonrpc>
 <info></info>
 </channel>
