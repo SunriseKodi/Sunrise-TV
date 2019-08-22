@@ -38,7 +38,7 @@
 </channel>
 
 <channels>
-<title>[B][I][COLOR red]International [COLOR beige][COLOR white]TV [/B][/I][/COLOR]<title>
+<name>[B][I][COLOR red]International [COLOR beige][COLOR white]TV [/B][/I][/COLOR]</name>
 <link>http://ignorame<link><thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/InternationalTV.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.tvone11</jsonrpc>
 <info>[B][I][COLOR red]!!!! Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inhalt des addons uebernimmt VOODOO keine Verantwortung.</info>
