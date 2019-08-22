@@ -38,6 +38,7 @@
 </channel>
 
 <channels>
+<channel>
 <name>[B][I][COLOR red]International [COLOR beige][COLOR white]TV [/B][/I][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/InternationalTV.jpg</thumbnail>
 <externallink>http://ignorame</externallink>
