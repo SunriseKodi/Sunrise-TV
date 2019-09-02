@@ -5,7 +5,7 @@ layouttype>thumbnail</layouttype>
 <channel>
 <name>[COLOR gold]Danke[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>http://</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arsch.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -14,7 +14,7 @@ layouttype>thumbnail</layouttype>
 <channel>
 <name>[COLOR gold]fuers[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>http://</externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arsch.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -23,7 +23,7 @@ layouttype>thumbnail</layouttype>
 <channel>
 <name>[COLOR gold]klauen[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arsch.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -32,7 +32,7 @@ layouttype>thumbnail</layouttype>
 <channel>
 <name>[COLOR gold]des[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arsch.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -42,7 +42,7 @@ layouttype>thumbnail</layouttype>
 <channel>
 <name>[COLOR gold]Addons[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arsch.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -52,7 +52,7 @@ layouttype>thumbnail</layouttype>
 <channel>
 <name>[COLOR gold]!!!!! [/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arsch.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -61,7 +61,7 @@ layouttype>thumbnail</layouttype>
 <channel>
 <name>[COLOR gold]SunriseKodi[/COLOR]</name>
 <thumbnail>http://</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Arsch.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
