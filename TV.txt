@@ -5,7 +5,7 @@ layouttype>thumbnail</layouttype>
 <channel>
 <name>[COLOR gold]Danke[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>http://</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -14,7 +14,7 @@ layouttype>thumbnail</layouttype>
 <channel>
 <name>[COLOR gold]fuers[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>http://</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
