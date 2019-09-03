@@ -1,0 +1,4 @@
+AuthName "Sunrise"
+AuthType Basic
+AuthUserFile /pfadzur/.htpasswd
+require valid-user
