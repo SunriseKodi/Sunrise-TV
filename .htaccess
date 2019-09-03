@@ -1,4 +1,4 @@
 AuthName "Sunrise"
 AuthType Basic
-AuthUserFile /pfadzur/.htpasswd
+AuthUserFile https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/.hdpasswd
 require valid-user
