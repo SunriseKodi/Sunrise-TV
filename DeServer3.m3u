@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-ID="" tvg-name="DAS ERSTE HD (ARD)" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DASERSTEHD(ARD).png" group-title="EU Germany",DAS ERSTE HD (ARD)
-plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ekrem/10042019/117839
+plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://sunatv.net:25461/jack0316y24/fhlCdOAMo2/22545
 #EXTINF:-1 tvg-ID="" tvg-name="ARTE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/ARTEHD.png" group-title="EU Germany",ARTE HD
 plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://jokeriptv.online:1453/ekrem/10042019/122566
 #EXTINF:-1 tvg-ID="" tvg-name="ZDF HD" tvg-logo="plugin://plugin.video.f4mTester/?name=Sunrise TV&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/ZDFHD.png" group-title="EU Germany",ZDF HD
