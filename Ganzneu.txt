@@ -3,10 +3,10 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Deutsch[/COLOR]</name>
-<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/TV2.txt</externallink>
-<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
+<name>[COLOR gold]Zorro TV[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://kodi-zorro.com/addon/menu.xml</externallink>
+<fanart></fanart>
 <info></info>
 </channel>
 
