@@ -20,7 +20,7 @@
 </channel>
 
 <channels>
-channel>
+<channel>
 <name>[COLOR gold]Voodoo TV[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://pastebin.com/raw/i8FQWG7X</externallink>
