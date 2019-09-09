@@ -14,10 +14,10 @@
 
 
 <channels>
-channel>
+<channel>
 <name>[COLOR gold]Server2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/DeServer3.m3u</externallink>
+<externallink>http://kodi-zorro.com/addon/menu.xml</externallink>
 <fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
