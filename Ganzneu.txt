@@ -19,6 +19,15 @@
 <info></info>
 </channel>
 
+<channels>
+channel>
+<name>[COLOR gold]Voodoo TV[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/i8FQWG7X</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
 
 <channels>
 <channel>
@@ -48,14 +57,7 @@
 </channel>
 
 
-<channels>
-channel>
-<name>[COLOR gold]Amerikanisch[/COLOR]</name>
-<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/USA%20amerikanische%20Flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/Sunrise-TV/master/Amerikanisch.txt</externallink>
-<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/USA%20amerikanische%20Flagge.jpg</fanart>
-<info></info>
-</channel>
+
 
 
 <channels>
